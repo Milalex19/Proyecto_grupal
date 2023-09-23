@@ -1,0 +1,3977 @@
+Region,Location code,Year,Numero de Migrantes,Género
+WORLD,900,1990,77563467,Hombres
+  Sub-Saharan Africa,947,1990,8136844,Hombres
+  Northern Africa and Western Asia,1833,1990,8830013,Hombres
+  Central and Southern Asia,921,1990,17054672,Hombres
+  Eastern and South-Eastern Asia,1832,1990,7414751,Hombres
+  Latin America and the Caribbean,1830,1990,7544689,Hombres
+  Oceania (excluding Australia and New Zealand),1835,1990,133623,Hombres
+  Australia and New Zealand,927,1990,335351,Hombres
+  Europe and Northern America,1829,1990,23704534,Hombres
+  Developed regions,901,1990,24338984,Hombres
+  Less developed regions,902,1990,48815493,Hombres
+" Less developed regions, excluding least developed countries",934,1990,32572508,Hombres
+" Less developed regions, excluding China",948,1990,46303670,Hombres
+  Least developed countries,941,1990,16242985,Hombres
+  Land-locked Developing Countries (LLDC),1636,1990,12878639,Hombres
+  Small island developing States (SIDS),1637,1990,2605273,Hombres
+  High-income countries,1503,1990,16390698,Hombres
+  Middle-income countries,1517,1990,45289740,Hombres
+ Upper-middle-income countries,1502,1990,22500336,Hombres
+ Lower-middle-income countries,1501,1990,22789404,Hombres
+  Low-income countries,1500,1990,11348393,Hombres
+ AFRICA,903,1990,11215846,Hombres
+  Eastern Africa,910,1990,4056986,Hombres
+   Burundi,108,1990,173892,Hombres
+   Comoros,174,1990,22060,Hombres
+   Djibouti,262,1990,2890,Hombres
+   Eritrea,232,1990,89618,Hombres
+   Ethiopia,231,1990,856294,Hombres
+   Kenya,404,1990,123044,Hombres
+   Madagascar,450,1990,25591,Hombres
+   Malawi,454,1990,84442,Hombres
+   Mauritius*,480,1990,51464,Hombres
+   Mayotte*,175,1990,986,Hombres
+   Mozambique,508,1990,1202046,Hombres
+   Réunion*,638,1990,1571,Hombres
+   Rwanda,646,1990,276832,Hombres
+   Seychelles,690,1990,17221,Hombres
+   Somalia,706,1990,448851,Hombres
+   South Sudan,728,1990,266794,Hombres
+   Uganda,800,1990,157865,Hombres
+   United Republic of Tanzania*,834,1990,107172,Hombres
+   Zambia,894,1990,42598,Hombres
+   Zimbabwe,716,1990,105755,Hombres
+  Middle Africa,911,1990,958727,Hombres
+   Angola,24,1990,405465,Hombres
+   Cameroon,120,1990,60058,Hombres
+   Central African Republic,140,1990,24202,Hombres
+   Chad,148,1990,168101,Hombres
+   Congo,178,1990,51515,Hombres
+   Democratic Republic of the Congo,180,1990,217210,Hombres
+   Equatorial Guinea,226,1990,17708,Hombres
+   Gabon,266,1990,7732,Hombres
+   Sao Tome and Principe,678,1990,6736,Hombres
+  Northern Africa,912,1990,3079002,Hombres
+   Algeria,12,1990,521302,Hombres
+   Egypt,818,1990,822788,Hombres
+   Libya,434,1990,40081,Hombres
+   Morocco,504,1990,984599,Hombres
+   Sudan,729,1990,336126,Hombres
+   Tunisia,788,1990,281451,Hombres
+   Western Sahara,732,1990,92655,Hombres
+  Southern Africa,913,1990,350233,Hombres
+   Botswana,72,1990,19233,Hombres
+   Eswatini,748,1990,25589,Hombres
+   Lesotho,426,1990,145910,Hombres
+   Namibia,516,1990,9360,Hombres
+   South Africa,710,1990,150141,Hombres
+  Western Africa,914,1990,2770898,Hombres
+   Benin,204,1990,127252,Hombres
+   Burkina Faso,854,1990,573295,Hombres
+   Cabo Verde,132,1990,42681,Hombres
+   Côte d'Ivoire,384,1990,185629,Hombres
+   Gambia,270,1990,20808,Hombres
+   Ghana,288,1990,187375,Hombres
+   Guinea,324,1990,201530,Hombres
+   Guinea-Bissau,624,1990,27429,Hombres
+   Liberia,430,1990,260639,Hombres
+   Mali,466,1990,360541,Hombres
+   Mauritania,478,1990,75167,Hombres
+   Niger,562,1990,94786,Hombres
+   Nigeria,566,1990,255357,Hombres
+   Saint Helena*,654,1990,386,Hombres
+   Senegal,686,1990,230817,Hombres
+   Sierra Leone,694,1990,31967,Hombres
+   Togo,768,1990,95239,Hombres
+ ASIA,935,1990,30220434,Hombres
+  Central Asia,5500,1990,2757747,Hombres
+   Kazakhstan,398,1990,1427481,Hombres
+   Kyrgyzstan,417,1990,252637,Hombres
+   Tajikistan,762,1990,264425,Hombres
+   Turkmenistan,795,1990,127429,Hombres
+   Uzbekistan,860,1990,685775,Hombres
+  Eastern Asia,906,1990,3588473,Hombres
+   China*,156,1990,2197565,Hombres
+"   China, Hong Kong SAR*",344,1990,270896,Hombres
+"   China, Macao SAR*",446,1990,43362,Hombres
+"   China, Taiwan Province of China*",158,1990,0,Hombres
+   Dem. People's Republic of Korea,408,1990,19056,Hombres
+   Japan,392,1990,299099,Hombres
+   Mongolia,496,1990,11762,Hombres
+   Republic of Korea,410,1990,746733,Hombres
+  South-Eastern Asia,920,1990,3826278,Hombres
+   Brunei Darussalam,96,1990,15605,Hombres
+   Cambodia,116,1990,174749,Hombres
+   Indonesia,360,1990,948258,Hombres
+   Lao People's Democratic Republic,418,1990,237312,Hombres
+   Malaysia*,458,1990,275352,Hombres
+   Myanmar,104,1990,376108,Hombres
+   Philippines,608,1990,826634,Hombres
+   Singapore,702,1990,74549,Hombres
+   Thailand,764,1990,121071,Hombres
+   Timor-Leste,626,1990,5921,Hombres
+   Viet Nam,704,1990,770719,Hombres
+  Southern Asia,5501,1990,14296925,Hombres
+   Afghanistan,4,1990,4133232,Hombres
+   Bangladesh,50,1990,3162454,Hombres
+   Bhutan,64,1990,13921,Hombres
+   India,356,1990,3806446,Hombres
+   Iran (Islamic Republic of),364,1990,362151,Hombres
+   Maldives,462,1990,1697,Hombres
+   Nepal,524,1990,389292,Hombres
+   Pakistan,586,1990,1969314,Hombres
+   Sri Lanka,144,1990,458418,Hombres
+  Western Asia,922,1990,5751011,Hombres
+   Armenia,51,1990,436813,Hombres
+   Azerbaijan*,31,1990,767905,Hombres
+   Bahrain,48,1990,6118,Hombres
+   Cyprus*,196,1990,90729,Hombres
+   Georgia*,268,1990,446500,Hombres
+   Iraq,368,1990,343128,Hombres
+   Israel,376,1990,138265,Hombres
+   Jordan,400,1990,187186,Hombres
+   Kuwait,414,1990,45219,Hombres
+   Lebanon,422,1990,291678,Hombres
+   Oman,512,1990,6431,Hombres
+   Qatar,634,1990,6018,Hombres
+   Saudi Arabia,682,1990,57684,Hombres
+   State of Palestine*,275,1990,888096,Hombres
+   Syrian Arab Republic,760,1990,354582,Hombres
+   Turkey,792,1990,1349675,Hombres
+   United Arab Emirates,784,1990,44671,Hombres
+   Yemen,887,1990,290313,Hombres
+ EUROPE,908,1990,22438898,Hombres
+  Eastern Europe,923,1990,11228730,Hombres
+   Belarus,112,1990,815547,Hombres
+   Bulgaria,100,1990,300350,Hombres
+   Czechia,203,1990,272425,Hombres
+   Hungary,348,1990,196559,Hombres
+   Poland,616,1990,762917,Hombres
+   Republic of Moldova*,498,1990,290609,Hombres
+   Romania,642,1990,376790,Hombres
+   Russian Federation,643,1990,5512948,Hombres
+   Slovakia,703,1990,65915,Hombres
+   Ukraine*,804,1990,2634670,Hombres
+  Northern Europe,924,1990,2959183,Hombres
+   Channel Islands*,830,1990,8755,Hombres
+   Denmark*,208,1990,91508,Hombres
+   Estonia,233,1990,54294,Hombres
+   Faroe Islands*,234,1990,2989,Hombres
+   Finland*,246,1990,101833,Hombres
+   Iceland,352,1990,8613,Hombres
+   Ireland,372,1990,413123,Hombres
+   Isle of Man*,833,1990,5098,Hombres
+   Latvia,428,1990,99917,Hombres
+   Lithuania,440,1990,152568,Hombres
+   Norway*,578,1990,59772,Hombres
+   Sweden,752,1990,87405,Hombres
+   United Kingdom*,826,1990,1873308,Hombres
+  Southern Europe,925,1990,5425783,Hombres
+   Albania,8,1990,109414,Hombres
+   Andorra,20,1990,1737,Hombres
+   Bosnia and Herzegovina,70,1990,427367,Hombres
+   Croatia,191,1990,214109,Hombres
+   Gibraltar*,292,1990,5670,Hombres
+   Greece,300,1990,533413,Hombres
+   Holy See*,336,1990,5,Hombres
+   Italy,380,1990,1739388,Hombres
+   Malta,470,1990,56490,Hombres
+   Montenegro,499,1990,38819,Hombres
+   North Macedonia,807,1990,216997,Hombres
+   Portugal,620,1990,964178,Hombres
+   San Marino,674,1990,568,Hombres
+   Serbia*,688,1990,393867,Hombres
+   Slovenia,705,1990,39956,Hombres
+   Spain*,724,1990,683805,Hombres
+  Western Europe,926,1990,2825202,Hombres
+   Austria,40,1990,234319,Hombres
+   Belgium,56,1990,156482,Hombres
+   France*,250,1990,572481,Hombres
+   Germany,276,1990,1341083,Hombres
+   Liechtenstein,438,1990,1446,Hombres
+   Luxembourg,442,1990,18542,Hombres
+   Monaco,492,1990,2255,Hombres
+   Netherlands*,528,1990,353394,Hombres
+   Switzerland,756,1990,145200,Hombres
+ LATIN AMERICA AND THE CARIBBEAN,904,1990,7544689,Hombres
+  Caribbean,915,1990,1973524,Hombres
+   Anguilla*,660,1990,953,Hombres
+   Antigua and Barbuda,28,1990,9656,Hombres
+   Aruba*,533,1990,2606,Hombres
+   Bahamas,44,1990,10606,Hombres
+   Barbados,52,1990,40100,Hombres
+"   Bonaire, Sint Eustatius and Saba*",535,1990,226,Hombres
+   British Virgin Islands*,92,1990,1340,Hombres
+   Cayman Islands*,136,1990,187,Hombres
+   Cuba,192,1990,399033,Hombres
+   Curaçao*,531,1990,1025,Hombres
+   Dominica,212,1990,18576,Hombres
+   Dominican Republic,214,1990,196168,Hombres
+   Grenada,308,1990,19599,Hombres
+   Guadeloupe*,312,1990,2558,Hombres
+   Haiti,332,1990,292687,Hombres
+   Jamaica,388,1990,267945,Hombres
+   Martinique*,474,1990,5607,Hombres
+   Montserrat*,500,1990,3363,Hombres
+   Puerto Rico*,630,1990,574579,Hombres
+   Saint Barthélemy*,652,1990,0,Hombres
+   Saint Kitts and Nevis,659,1990,8702,Hombres
+   Saint Lucia,662,1990,10050,Hombres
+   Saint Martin (French part)*,663,1990,0,Hombres
+   Saint Vincent and the Grenadines,670,1990,17889,Hombres
+   Sint Maarten (Dutch part)*,534,1990,344,Hombres
+   Trinidad and Tobago,780,1990,87571,Hombres
+   Turks and Caicos Islands*,796,1990,1004,Hombres
+   United States Virgin Islands*,850,1990,1150,Hombres
+  Central America,916,1990,3539221,Hombres
+   Belize,84,1990,15084,Hombres
+   Costa Rica,188,1990,29052,Hombres
+   El Salvador,222,1990,608473,Hombres
+   Guatemala,320,1990,175814,Hombres
+   Honduras,340,1990,66801,Hombres
+   Mexico,484,1990,2358111,Hombres
+   Nicaragua,558,1990,219504,Hombres
+   Panama,591,1990,66382,Hombres
+  South America,931,1990,2031944,Hombres
+   Argentina,32,1990,203580,Hombres
+   Bolivia (Plurinational State of),68,1990,115446,Hombres
+   Brazil,76,1990,221394,Hombres
+   Chile,152,1990,248431,Hombres
+   Colombia,170,1990,458639,Hombres
+   Ecuador,218,1990,105646,Hombres
+   Falkland Islands (Malvinas)*,238,1990,139,Hombres
+   French Guiana*,254,1990,1250,Hombres
+   Guyana,328,1990,110591,Hombres
+   Paraguay,600,1990,131474,Hombres
+   Peru,604,1990,149436,Hombres
+   Suriname,740,1990,86610,Hombres
+   Uruguay,858,1990,116499,Hombres
+   Venezuela (Bolivarian Republic of),862,1990,82809,Hombres
+ NORTHERN AMERICA,905,1990,1265636,Hombres
+   Bermuda*,60,1990,34691,Hombres
+   Canada,124,1990,364830,Hombres
+   Greenland*,304,1990,3771,Hombres
+   Saint Pierre and Miquelon*,666,1990,238,Hombres
+   United States of America*,840,1990,862106,Hombres
+ OCEANIA ,909,1990,468974,Hombres
+  Australia and New Zealand,927,1990,335351,Hombres
+   Australia*,36,1990,139236,Hombres
+   New Zealand*,554,1990,196115,Hombres
+  Melanesia,928,1990,50814,Hombres
+   Fiji,242,1990,43626,Hombres
+   New Caledonia*,540,1990,1927,Hombres
+   Papua New Guinea,598,1990,1570,Hombres
+   Solomon Islands,90,1990,1134,Hombres
+   Vanuatu,548,1990,2557,Hombres
+  Micronesia,954,1990,10467,Hombres
+   Guam*,316,1990,693,Hombres
+   Kiribati,296,1990,1937,Hombres
+   Marshall Islands,584,1990,707,Hombres
+   Micronesia (Fed. States of),583,1990,3935,Hombres
+   Nauru,520,1990,627,Hombres
+   Northern Mariana Islands*,580,1990,1199,Hombres
+   Palau,585,1990,1369,Hombres
+  Polynesia*,957,1990,72342,Hombres
+   American Samoa*,16,1990,1049,Hombres
+   Cook Islands*,184,1990,8377,Hombres
+   French Polynesia*,258,1990,1583,Hombres
+   Niue*,570,1990,2832,Hombres
+   Samoa,882,1990,36602,Hombres
+   Tokelau*,772,1990,836,Hombres
+   Tonga,776,1990,16196,Hombres
+   Tuvalu,798,1990,1203,Hombres
+   Wallis and Futuna Islands*,876,1990,3664,Hombres
+OTHER,2003,1990,4408990,Hombres
+WORLD,900,1995,81581501,Hombres
+  Sub-Saharan Africa,947,1995,8677806,Hombres
+  Northern Africa and Western Asia,1833,1995,9829261,Hombres
+  Central and Southern Asia,921,1995,16042463,Hombres
+  Eastern and South-Eastern Asia,1832,1995,8861759,Hombres
+  Latin America and the Caribbean,1830,1995,9726163,Hombres
+  Oceania (excluding Australia and New Zealand),1835,1995,152358,Hombres
+  Australia and New Zealand,927,1995,366709,Hombres
+  Europe and Northern America,1829,1995,24148758,Hombres
+  Developed regions,901,1995,24834922,Hombres
+  Less developed regions,902,1995,52970355,Hombres
+" Less developed regions, excluding least developed countries",934,1995,37664396,Hombres
+" Less developed regions, excluding China",948,1995,50066462,Hombres
+  Least developed countries,941,1995,15305959,Hombres
+  Land-locked Developing Countries (LLDC),1636,1995,12222604,Hombres
+  Small island developing States (SIDS),1637,1995,3085104,Hombres
+  High-income countries,1503,1995,17139953,Hombres
+  Middle-income countries,1517,1995,50350945,Hombres
+ Upper-middle-income countries,1502,1995,25869947,Hombres
+ Lower-middle-income countries,1501,1995,24480998,Hombres
+  Low-income countries,1500,1995,10185505,Hombres
+ AFRICA,903,1995,12073478,Hombres
+  Eastern Africa,910,1995,4002246,Hombres
+   Burundi,108,1995,277424,Hombres
+   Comoros,174,1995,27869,Hombres
+   Djibouti,262,1995,3904,Hombres
+   Eritrea,232,1995,197413,Hombres
+   Ethiopia,231,1995,413014,Hombres
+   Kenya,404,1995,135350,Hombres
+   Madagascar,450,1995,28611,Hombres
+   Malawi,454,1995,88872,Hombres
+   Mauritius*,480,1995,51947,Hombres
+   Mayotte*,175,1995,1948,Hombres
+   Mozambique,508,1995,485263,Hombres
+   Réunion*,638,1995,1257,Hombres
+   Rwanda,646,1995,1021474,Hombres
+   Seychelles,690,1995,13271,Hombres
+   Somalia,706,1995,507818,Hombres
+   South Sudan,728,1995,233701,Hombres
+   Uganda,800,1995,177878,Hombres
+   United Republic of Tanzania*,834,1995,119442,Hombres
+   Zambia,894,1995,67736,Hombres
+   Zimbabwe,716,1995,148054,Hombres
+  Middle Africa,911,1995,933704,Hombres
+   Angola,24,1995,344763,Hombres
+   Cameroon,120,1995,71875,Hombres
+   Central African Republic,140,1995,25035,Hombres
+   Chad,148,1995,112966,Hombres
+   Congo,178,1995,60811,Hombres
+   Democratic Republic of the Congo,180,1995,278309,Hombres
+   Equatorial Guinea,226,1995,22471,Hombres
+   Gabon,266,1995,8323,Hombres
+   Sao Tome and Principe,678,1995,9151,Hombres
+  Northern Africa,912,1995,3395672,Hombres
+   Algeria,12,1995,550210,Hombres
+   Egypt,818,1995,950652,Hombres
+   Libya,434,1995,40775,Hombres
+   Morocco,504,1995,1040375,Hombres
+   Sudan,729,1995,439826,Hombres
+   Tunisia,788,1995,281972,Hombres
+   Western Sahara,732,1995,91862,Hombres
+  Southern Africa,913,1995,333229,Hombres
+   Botswana,72,1995,15684,Hombres
+   Eswatini,748,1995,19847,Hombres
+   Lesotho,426,1995,94102,Hombres
+   Namibia,516,1995,14974,Hombres
+   South Africa,710,1995,188622,Hombres
+  Western Africa,914,1995,3408627,Hombres
+   Benin,204,1995,148769,Hombres
+   Burkina Faso,854,1995,681370,Hombres
+   Cabo Verde,132,1995,50377,Hombres
+   Côte d'Ivoire,384,1995,228580,Hombres
+   Gambia,270,1995,22147,Hombres
+   Ghana,288,1995,215795,Hombres
+   Guinea,324,1995,207743,Hombres
+   Guinea-Bissau,624,1995,34138,Hombres
+   Liberia,430,1995,267590,Hombres
+   Mali,466,1995,451780,Hombres
+   Mauritania,478,1995,85261,Hombres
+   Niger,562,1995,111377,Hombres
+   Nigeria,566,1995,302154,Hombres
+   Saint Helena*,654,1995,887,Hombres
+   Senegal,686,1995,221538,Hombres
+   Sierra Leone,694,1995,230241,Hombres
+   Togo,768,1995,148880,Hombres
+ ASIA,935,1995,31337811,Hombres
+  Central Asia,5500,1995,2978669,Hombres
+   Kazakhstan,398,1995,1557194,Hombres
+   Kyrgyzstan,417,1995,266043,Hombres
+   Tajikistan,762,1995,289709,Hombres
+   Turkmenistan,795,1995,119518,Hombres
+   Uzbekistan,860,1995,746205,Hombres
+  Eastern Asia,906,1995,4108628,Hombres
+   China*,156,1995,2555203,Hombres
+"   China, Hong Kong SAR*",344,1995,303535,Hombres
+"   China, Macao SAR*",446,1995,45155,Hombres
+"   China, Taiwan Province of China*",158,1995,0,Hombres
+   Dem. People's Republic of Korea,408,1995,26480,Hombres
+   Japan,392,1995,319455,Hombres
+   Mongolia,496,1995,12872,Hombres
+   Republic of Korea,410,1995,845928,Hombres
+  South-Eastern Asia,920,1995,4753131,Hombres
+   Brunei Darussalam,96,1995,21035,Hombres
+   Cambodia,116,1995,205878,Hombres
+   Indonesia,360,1995,1103287,Hombres
+   Lao People's Democratic Republic,418,1995,270215,Hombres
+   Malaysia*,458,1995,401165,Hombres
+   Myanmar,104,1995,494608,Hombres
+   Philippines,608,1995,1041934,Hombres
+   Singapore,702,1995,79794,Hombres
+   Thailand,764,1995,155785,Hombres
+   Timor-Leste,626,1995,39834,Hombres
+   Viet Nam,704,1995,939596,Hombres
+  Southern Asia,5501,1995,13063794,Hombres
+   Afghanistan,4,1995,2372554,Hombres
+   Bangladesh,50,1995,3161768,Hombres
+   Bhutan,64,1995,59851,Hombres
+   India,356,1995,4113683,Hombres
+   Iran (Islamic Republic of),364,1995,419763,Hombres
+   Maldives,462,1995,1215,Hombres
+   Nepal,524,1995,453518,Hombres
+   Pakistan,586,1995,1993435,Hombres
+   Sri Lanka,144,1995,488007,Hombres
+  Western Asia,922,1995,6433589,Hombres
+   Armenia,51,1995,456359,Hombres
+   Azerbaijan*,31,1995,843058,Hombres
+   Bahrain,48,1995,13253,Hombres
+   Cyprus*,196,1995,83474,Hombres
+   Georgia*,268,1995,480830,Hombres
+   Iraq,368,1995,411368,Hombres
+   Israel,376,1995,144213,Hombres
+   Jordan,400,1995,205575,Hombres
+   Kuwait,414,1995,55486,Hombres
+   Lebanon,422,1995,302457,Hombres
+   Oman,512,1995,7228,Hombres
+   Qatar,634,1995,6690,Hombres
+   Saudi Arabia,682,1995,74204,Hombres
+   State of Palestine*,275,1995,1129279,Hombres
+   Syrian Arab Republic,760,1995,379174,Hombres
+   Turkey,792,1995,1470656,Hombres
+   United Arab Emirates,784,1995,57415,Hombres
+   Yemen,887,1995,312870,Hombres
+ EUROPE,908,1995,22816174,Hombres
+  Eastern Europe,923,1995,10857238,Hombres
+   Belarus,112,1995,780219,Hombres
+   Bulgaria,100,1995,312957,Hombres
+   Czechia,203,1995,289839,Hombres
+   Hungary,348,1995,201396,Hombres
+   Poland,616,1995,792359,Hombres
+   Republic of Moldova*,498,1995,297868,Hombres
+   Romania,642,1995,459487,Hombres
+   Russian Federation,643,1995,4984699,Hombres
+   Slovakia,703,1995,95196,Hombres
+   Ukraine*,804,1995,2643218,Hombres
+  Northern Europe,924,1995,2945625,Hombres
+   Channel Islands*,830,1995,7477,Hombres
+   Denmark*,208,1995,94661,Hombres
+   Estonia,233,1995,60521,Hombres
+   Faroe Islands*,234,1995,4113,Hombres
+   Finland*,246,1995,116149,Hombres
+   Iceland,352,1995,10434,Hombres
+   Ireland,372,1995,385333,Hombres
+   Isle of Man*,833,1995,4363,Hombres
+   Latvia,428,1995,105380,Hombres
+   Lithuania,440,1995,150762,Hombres
+   Norway*,578,1995,65270,Hombres
+   Sweden,752,1995,97040,Hombres
+   United Kingdom*,826,1995,1844122,Hombres
+  Southern Europe,925,1995,6028232,Hombres
+   Albania,8,1995,281966,Hombres
+   Andorra,20,1995,1939,Hombres
+   Bosnia and Herzegovina,70,1995,668720,Hombres
+   Croatia,191,1995,362947,Hombres
+   Gibraltar*,292,1995,4889,Hombres
+   Greece,300,1995,520579,Hombres
+   Holy See*,336,1995,17,Hombres
+   Italy,380,1995,1663871,Hombres
+   Malta,470,1995,55524,Hombres
+   Montenegro,499,1995,70517,Hombres
+   North Macedonia,807,1995,245834,Hombres
+   Portugal,620,1995,986469,Hombres
+   San Marino,674,1995,1132,Hombres
+   Serbia*,688,1995,480918,Hombres
+   Slovenia,705,1995,47496,Hombres
+   Spain*,724,1995,635414,Hombres
+  Western Europe,926,1995,2985079,Hombres
+   Austria,40,1995,227962,Hombres
+   Belgium,56,1995,161376,Hombres
+   France*,250,1995,645393,Hombres
+   Germany,276,1995,1413344,Hombres
+   Liechtenstein,438,1995,1304,Hombres
+   Luxembourg,442,1995,19240,Hombres
+   Monaco,492,1995,2388,Hombres
+   Netherlands*,528,1995,361252,Hombres
+   Switzerland,756,1995,152820,Hombres
+ LATIN AMERICA AND THE CARIBBEAN,904,1995,9726163,Hombres
+  Caribbean,915,1995,2347284,Hombres
+   Anguilla*,660,1995,1116,Hombres
+   Antigua and Barbuda,28,1995,12194,Hombres
+   Aruba*,533,1995,2966,Hombres
+   Bahamas,44,1995,12598,Hombres
+   Barbados,52,1995,42423,Hombres
+"   Bonaire, Sint Eustatius and Saba*",535,1995,274,Hombres
+   British Virgin Islands*,92,1995,1462,Hombres
+   Cayman Islands*,136,1995,363,Hombres
+   Cuba,192,1995,445646,Hombres
+   Curaçao*,531,1995,1410,Hombres
+   Dominica,212,1995,20399,Hombres
+   Dominican Republic,214,1995,283859,Hombres
+   Grenada,308,1995,24526,Hombres
+   Guadeloupe*,312,1995,2893,Hombres
+   Haiti,332,1995,361848,Hombres
+   Jamaica,388,1995,324401,Hombres
+   Martinique*,474,1995,6043,Hombres
+   Montserrat*,500,1995,5193,Hombres
+   Puerto Rico*,630,1995,637593,Hombres
+   Saint Barthélemy*,652,1995,0,Hombres
+   Saint Kitts and Nevis,659,1995,11466,Hombres
+   Saint Lucia,662,1995,13822,Hombres
+   Saint Martin (French part)*,663,1995,0,Hombres
+   Saint Vincent and the Grenadines,670,1995,22245,Hombres
+   Sint Maarten (Dutch part)*,534,1995,446,Hombres
+   Trinidad and Tobago,780,1995,109768,Hombres
+   Turks and Caicos Islands*,796,1995,679,Hombres
+   United States Virgin Islands*,850,1995,1651,Hombres
+  Central America,916,1995,4886482,Hombres
+   Belize,84,1995,17640,Hombres
+   Costa Rica,188,1995,35626,Hombres
+   El Salvador,222,1995,463004,Hombres
+   Guatemala,320,1995,234806,Hombres
+   Honduras,340,1995,106313,Hombres
+   Mexico,484,1995,3746874,Hombres
+   Nicaragua,558,1995,216401,Hombres
+   Panama,591,1995,65818,Hombres
+  South America,931,1995,2492397,Hombres
+   Argentina,32,1995,230267,Hombres
+   Bolivia (Plurinational State of),68,1995,144466,Hombres
+   Brazil,76,1995,323017,Hombres
+   Chile,152,1995,245982,Hombres
+   Colombia,170,1995,556126,Hombres
+   Ecuador,218,1995,159665,Hombres
+   Falkland Islands (Malvinas)*,238,1995,336,Hombres
+   French Guiana*,254,1995,1390,Hombres
+   Guyana,328,1995,139840,Hombres
+   Paraguay,600,1995,147026,Hombres
+   Peru,604,1995,231433,Hombres
+   Suriname,740,1995,91317,Hombres
+   Uruguay,858,1995,114568,Hombres
+   Venezuela (Bolivarian Republic of),862,1995,106964,Hombres
+ NORTHERN AMERICA,905,1995,1332584,Hombres
+   Bermuda*,60,1995,20705,Hombres
+   Canada,124,1995,393811,Hombres
+   Greenland*,304,1995,4552,Hombres
+   Saint Pierre and Miquelon*,666,1995,246,Hombres
+   United States of America*,840,1995,913270,Hombres
+ OCEANIA ,909,1995,519067,Hombres
+  Australia and New Zealand,927,1995,366709,Hombres
+   Australia*,36,1995,157264,Hombres
+   New Zealand*,554,1995,209445,Hombres
+  Melanesia,928,1995,59221,Hombres
+   Fiji,242,1995,50855,Hombres
+   New Caledonia*,540,1995,2134,Hombres
+   Papua New Guinea,598,1995,2035,Hombres
+   Solomon Islands,90,1995,1281,Hombres
+   Vanuatu,548,1995,2916,Hombres
+  Micronesia,954,1995,14456,Hombres
+   Guam*,316,1995,851,Hombres
+   Kiribati,296,1995,2033,Hombres
+   Marshall Islands,584,1995,2080,Hombres
+   Micronesia (Fed. States of),583,1995,6150,Hombres
+   Nauru,520,1995,698,Hombres
+   Northern Mariana Islands*,580,1995,1274,Hombres
+   Palau,585,1995,1370,Hombres
+  Polynesia*,957,1995,78681,Hombres
+   American Samoa*,16,1995,1365,Hombres
+   Cook Islands*,184,1995,8149,Hombres
+   French Polynesia*,258,1995,1868,Hombres
+   Niue*,570,1995,2648,Hombres
+   Samoa,882,1995,39841,Hombres
+   Tokelau*,772,1995,900,Hombres
+   Tonga,776,1995,18815,Hombres
+   Tuvalu,798,1995,1380,Hombres
+   Wallis and Futuna Islands*,876,1995,3715,Hombres
+OTHER,2003,1995,3776224,Hombres
+WORLD,900,2000,87719833,Hombres
+  Sub-Saharan Africa,947,2000,8246575,Hombres
+  Northern Africa and Western Asia,1833,2000,10736407,Hombres
+  Central and Southern Asia,921,2000,17179372,Hombres
+  Eastern and South-Eastern Asia,1832,2000,10500432,Hombres
+  Latin America and the Caribbean,1830,2000,12182539,Hombres
+  Oceania (excluding Australia and New Zealand),1835,2000,183319,Hombres
+  Australia and New Zealand,927,2000,421127,Hombres
+  Europe and Northern America,1829,2000,24676104,Hombres
+  Developed regions,901,2000,25438034,Hombres
+  Less developed regions,902,2000,58687841,Hombres
+" Less developed regions, excluding least developed countries",934,2000,43328634,Hombres
+" Less developed regions, excluding China",948,2000,55378675,Hombres
+  Least developed countries,941,2000,15359207,Hombres
+  Land-locked Developing Countries (LLDC),1636,2000,11981487,Hombres
+  Small island developing States (SIDS),1637,2000,3608507,Hombres
+  High-income countries,1503,2000,18150941,Hombres
+  Middle-income countries,1517,2000,56045764,Hombres
+ Upper-middle-income countries,1502,2000,29121527,Hombres
+ Lower-middle-income countries,1501,2000,26924237,Hombres
+  Low-income countries,1500,2000,9794758,Hombres
+ AFRICA,903,2000,11985328,Hombres
+  Eastern Africa,910,2000,3167304,Hombres
+   Burundi,108,2000,388445,Hombres
+   Comoros,174,2000,36958,Hombres
+   Djibouti,262,2000,5201,Hombres
+   Eritrea,232,2000,255453,Hombres
+   Ethiopia,231,2000,239365,Hombres
+   Kenya,404,2000,154208,Hombres
+   Madagascar,450,2000,32318,Hombres
+   Malawi,454,2000,110217,Hombres
+   Mauritius*,480,2000,53306,Hombres
+   Mayotte*,175,2000,2976,Hombres
+   Mozambique,508,2000,391190,Hombres
+   Réunion*,638,2000,1057,Hombres
+   Rwanda,646,2000,157926,Hombres
+   Seychelles,690,2000,8747,Hombres
+   Somalia,706,2000,517690,Hombres
+   South Sudan,728,2000,190326,Hombres
+   Uganda,800,2000,254464,Hombres
+   United Republic of Tanzania*,834,2000,108653,Hombres
+   Zambia,894,2000,77129,Hombres
+   Zimbabwe,716,2000,181675,Hombres
+  Middle Africa,911,2000,1224847,Hombres
+   Angola,24,2000,457876,Hombres
+   Cameroon,120,2000,85099,Hombres
+   Central African Republic,140,2000,27493,Hombres
+   Chad,148,2000,107494,Hombres
+   Congo,178,2000,70562,Hombres
+   Democratic Republic of the Congo,180,2000,426558,Hombres
+   Equatorial Guinea,226,2000,28899,Hombres
+   Gabon,266,2000,8985,Hombres
+   Sao Tome and Principe,678,2000,11881,Hombres
+  Northern Africa,912,2000,3738753,Hombres
+   Algeria,12,2000,580303,Hombres
+   Egypt,818,2000,1105517,Hombres
+   Libya,434,2000,42647,Hombres
+   Morocco,504,2000,1134308,Hombres
+   Sudan,729,2000,502757,Hombres
+   Tunisia,788,2000,282149,Hombres
+   Western Sahara,732,2000,91072,Hombres
+  Southern Africa,913,2000,373117,Hombres
+   Botswana,72,2000,16140,Hombres
+   Eswatini,748,2000,19127,Hombres
+   Lesotho,426,2000,67211,Hombres
+   Namibia,516,2000,24829,Hombres
+   South Africa,710,2000,245810,Hombres
+  Western Africa,914,2000,3481307,Hombres
+   Benin,204,2000,174755,Hombres
+   Burkina Faso,854,2000,715933,Hombres
+   Cabo Verde,132,2000,59328,Hombres
+   Côte d'Ivoire,384,2000,271361,Hombres
+   Gambia,270,2000,26237,Hombres
+   Ghana,288,2000,251580,Hombres
+   Guinea,324,2000,211832,Hombres
+   Guinea-Bissau,624,2000,42477,Hombres
+   Liberia,430,2000,123295,Hombres
+   Mali,466,2000,430246,Hombres
+   Mauritania,478,2000,65705,Hombres
+   Niger,562,2000,126966,Hombres
+   Nigeria,566,2000,352560,Hombres
+   Saint Helena*,654,2000,1468,Hombres
+   Senegal,686,2000,241858,Hombres
+   Sierra Leone,694,2000,254796,Hombres
+   Togo,768,2000,130910,Hombres
+ ASIA,935,2000,34677458,Hombres
+  Central Asia,5500,2000,3122316,Hombres
+   Kazakhstan,398,2000,1652929,Hombres
+   Kyrgyzstan,417,2000,273034,Hombres
+   Tajikistan,762,2000,299119,Hombres
+   Turkmenistan,795,2000,109999,Hombres
+   Uzbekistan,860,2000,787235,Hombres
+  Eastern Asia,906,2000,4618538,Hombres
+   China*,156,2000,2924744,Hombres
+"   China, Hong Kong SAR*",344,2000,337228,Hombres
+"   China, Macao SAR*",446,2000,47194,Hombres
+"   China, Taiwan Province of China*",158,2000,0,Hombres
+   Dem. People's Republic of Korea,408,2000,35986,Hombres
+   Japan,392,2000,340803,Hombres
+   Mongolia,496,2000,13870,Hombres
+   Republic of Korea,410,2000,918713,Hombres
+  South-Eastern Asia,920,2000,5881894,Hombres
+   Brunei Darussalam,96,2000,27186,Hombres
+   Cambodia,116,2000,223794,Hombres
+   Indonesia,360,2000,1344276,Hombres
+   Lao People's Democratic Republic,418,2000,317564,Hombres
+   Malaysia*,458,2000,539648,Hombres
+   Myanmar,104,2000,656671,Hombres
+   Philippines,608,2000,1307609,Hombres
+   Singapore,702,2000,91193,Hombres
+   Thailand,764,2000,197201,Hombres
+   Timor-Leste,626,2000,74436,Hombres
+   Viet Nam,704,2000,1102316,Hombres
+  Southern Asia,5501,2000,14057056,Hombres
+   Afghanistan,4,2000,2610780,Hombres
+   Bangladesh,50,2000,3192999,Hombres
+   Bhutan,64,2000,61414,Hombres
+   India,356,2000,4624266,Hombres
+   Iran (Islamic Republic of),364,2000,456613,Hombres
+   Maldives,462,2000,698,Hombres
+   Nepal,524,2000,524840,Hombres
+   Pakistan,586,2000,2060394,Hombres
+   Sri Lanka,144,2000,525052,Hombres
+  Western Asia,922,2000,6997654,Hombres
+   Armenia,51,2000,469987,Hombres
+   Azerbaijan*,31,2000,846926,Hombres
+   Bahrain,48,2000,24582,Hombres
+   Cyprus*,196,2000,76411,Hombres
+   Georgia*,268,2000,502617,Hombres
+   Iraq,368,2000,469465,Hombres
+   Israel,376,2000,151741,Hombres
+   Jordan,400,2000,226138,Hombres
+   Kuwait,414,2000,66324,Hombres
+   Lebanon,422,2000,315472,Hombres
+   Oman,512,2000,8238,Hombres
+   Qatar,634,2000,7489,Hombres
+   Saudi Arabia,682,2000,89831,Hombres
+   State of Palestine*,275,2000,1400058,Hombres
+   Syrian Arab Republic,760,2000,407236,Hombres
+   Turkey,792,2000,1525093,Hombres
+   United Arab Emirates,784,2000,66226,Hombres
+   Yemen,887,2000,343820,Hombres
+ EUROPE,908,2000,23247653,Hombres
+  Eastern Europe,923,2000,10575403,Hombres
+   Belarus,112,2000,735866,Hombres
+   Bulgaria,100,2000,326504,Hombres
+   Czechia,203,2000,324606,Hombres
+   Hungary,348,2000,210583,Hombres
+   Poland,616,2000,882240,Hombres
+   Republic of Moldova*,498,2000,299267,Hombres
+   Romania,642,2000,542472,Hombres
+   Russian Federation,643,2000,4509883,Hombres
+   Slovakia,703,2000,125238,Hombres
+   Ukraine*,804,2000,2618744,Hombres
+  Northern Europe,924,2000,3053954,Hombres
+   Channel Islands*,830,2000,6316,Hombres
+   Denmark*,208,2000,100345,Hombres
+   Estonia,233,2000,65057,Hombres
+   Faroe Islands*,234,2000,5236,Hombres
+   Finland*,246,2000,125768,Hombres
+   Iceland,352,2000,12764,Hombres
+   Ireland,372,2000,361562,Hombres
+   Isle of Man*,833,2000,3675,Hombres
+   Latvia,428,2000,108961,Hombres
+   Lithuania,440,2000,151578,Hombres
+   Norway*,578,2000,71032,Hombres
+   Sweden,752,2000,112503,Hombres
+   United Kingdom*,826,2000,1929157,Hombres
+  Southern Europe,925,2000,6387954,Hombres
+   Albania,8,2000,454773,Hombres
+   Andorra,20,2000,2647,Hombres
+   Bosnia and Herzegovina,70,2000,732010,Hombres
+   Croatia,191,2000,435683,Hombres
+   Gibraltar*,292,2000,4174,Hombres
+   Greece,300,2000,506166,Hombres
+   Holy See*,336,2000,28,Hombres
+   Italy,380,2000,1590861,Hombres
+   Malta,470,2000,52311,Hombres
+   Montenegro,499,2000,85403,Hombres
+   North Macedonia,807,2000,266937,Hombres
+   Portugal,620,2000,1021724,Hombres
+   San Marino,674,2000,1693,Hombres
+   Serbia*,688,2000,592896,Hombres
+   Slovenia,705,2000,52205,Hombres
+   Spain*,724,2000,588443,Hombres
+  Western Europe,926,2000,3230342,Hombres
+   Austria,40,2000,222934,Hombres
+   Belgium,56,2000,172734,Hombres
+   France*,250,2000,748629,Hombres
+   Germany,276,2000,1520496,Hombres
+   Liechtenstein,438,2000,1202,Hombres
+   Luxembourg,442,2000,19991,Hombres
+   Monaco,492,2000,2530,Hombres
+   Netherlands*,528,2000,372460,Hombres
+   Switzerland,756,2000,169366,Hombres
+ LATIN AMERICA AND THE CARIBBEAN,904,2000,12182539,Hombres
+  Caribbean,915,2000,2729146,Hombres
+   Anguilla*,660,2000,1276,Hombres
+   Antigua and Barbuda,28,2000,14856,Hombres
+   Aruba*,533,2000,3395,Hombres
+   Bahamas,44,2000,14737,Hombres
+   Barbados,52,2000,44992,Hombres
+"   Bonaire, Sint Eustatius and Saba*",535,2000,326,Hombres
+   British Virgin Islands*,92,2000,1603,Hombres
+   Cayman Islands*,136,2000,559,Hombres
+   Cuba,192,2000,499590,Hombres
+   Curaçao*,531,2000,1885,Hombres
+   Dominica,212,2000,22384,Hombres
+   Dominican Republic,214,2000,376036,Hombres
+   Grenada,308,2000,28883,Hombres
+   Guadeloupe*,312,2000,3235,Hombres
+   Haiti,332,2000,433429,Hombres
+   Jamaica,388,2000,385488,Hombres
+   Martinique*,474,2000,6498,Hombres
+   Montserrat*,500,2000,7083,Hombres
+   Puerto Rico*,630,2000,688171,Hombres
+   Saint Barthélemy*,652,2000,0,Hombres
+   Saint Kitts and Nevis,659,2000,14309,Hombres
+   Saint Lucia,662,2000,17671,Hombres
+   Saint Martin (French part)*,663,2000,0,Hombres
+   Saint Vincent and the Grenadines,670,2000,26215,Hombres
+   Sint Maarten (Dutch part)*,534,2000,591,Hombres
+   Trinidad and Tobago,780,2000,133408,Hombres
+   Turks and Caicos Islands*,796,2000,345,Hombres
+   United States Virgin Islands*,850,2000,2181,Hombres
+  Central America,916,2000,6477478,Hombres
+   Belize,84,2000,20421,Hombres
+   Costa Rica,188,2000,44546,Hombres
+   El Salvador,222,2000,480184,Hombres
+   Guatemala,320,2000,297854,Hombres
+   Honduras,340,2000,148387,Hombres
+   Mexico,484,2000,5172990,Hombres
+   Nicaragua,558,2000,245092,Hombres
+   Panama,591,2000,68004,Hombres
+  South America,931,2000,2975915,Hombres
+   Argentina,32,2000,268387,Hombres
+   Bolivia (Plurinational State of),68,2000,174719,Hombres
+   Brazil,76,2000,406768,Hombres
+   Chile,152,2000,246871,Hombres
+   Colombia,170,2000,658250,Hombres
+   Ecuador,218,2000,217734,Hombres
+   Falkland Islands (Malvinas)*,238,2000,528,Hombres
+   French Guiana*,254,2000,1548,Hombres
+   Guyana,328,2000,171419,Hombres
+   Paraguay,600,2000,162710,Hombres
+   Peru,604,2000,311609,Hombres
+   Suriname,740,2000,98738,Hombres
+   Uruguay,858,2000,115418,Hombres
+   Venezuela (Bolivarian Republic of),862,2000,141216,Hombres
+ NORTHERN AMERICA,905,2000,1428451,Hombres
+   Bermuda*,60,2000,6962,Hombres
+   Canada,124,2000,427501,Hombres
+   Greenland*,304,2000,5412,Hombres
+   Saint Pierre and Miquelon*,666,2000,260,Hombres
+   United States of America*,840,2000,988316,Hombres
+ OCEANIA ,909,2000,604446,Hombres
+  Australia and New Zealand,927,2000,421127,Hombres
+   Australia*,36,2000,175553,Hombres
+   New Zealand*,554,2000,245574,Hombres
+  Melanesia,928,2000,72454,Hombres
+   Fiji,242,2000,63308,Hombres
+   New Caledonia*,540,2000,2274,Hombres
+   Papua New Guinea,598,2000,2279,Hombres
+   Solomon Islands,90,2000,1346,Hombres
+   Vanuatu,548,2000,3247,Hombres
+  Micronesia,954,2000,19250,Hombres
+   Guam*,316,2000,1387,Hombres
+   Kiribati,296,2000,1898,Hombres
+   Marshall Islands,584,2000,3489,Hombres
+   Micronesia (Fed. States of),583,2000,8518,Hombres
+   Nauru,520,2000,769,Hombres
+   Northern Mariana Islands*,580,2000,1333,Hombres
+   Palau,585,2000,1856,Hombres
+  Polynesia*,957,2000,91615,Hombres
+   American Samoa*,16,2000,1629,Hombres
+   Cook Islands*,184,2000,9491,Hombres
+   French Polynesia*,258,2000,2125,Hombres
+   Niue*,570,2000,2788,Hombres
+   Samoa,882,2000,46571,Hombres
+   Tokelau*,772,2000,1017,Hombres
+   Tonga,776,2000,22879,Hombres
+   Tuvalu,798,2000,1354,Hombres
+   Wallis and Futuna Islands*,876,2000,3761,Hombres
+OTHER,2003,2000,3593958,Hombres
+WORLD,900,2005,97663081,Hombres
+  Sub-Saharan Africa,947,2005,9227058,Hombres
+  Northern Africa and Western Asia,1833,2005,12097241,Hombres
+  Central and Southern Asia,921,2005,18895884,Hombres
+  Eastern and South-Eastern Asia,1832,2005,12487051,Hombres
+  Latin America and the Caribbean,1830,2005,14495367,Hombres
+  Oceania (excluding Australia and New Zealand),1835,2005,198892,Hombres
+  Australia and New Zealand,927,2005,481926,Hombres
+  Europe and Northern America,1829,2005,25682798,Hombres
+  Developed regions,901,2005,26505508,Hombres
+  Less developed regions,902,2005,67060709,Hombres
+" Less developed regions, excluding least developed countries",934,2005,50504229,Hombres
+" Less developed regions, excluding China",948,2005,63084782,Hombres
+  Least developed countries,941,2005,16556480,Hombres
+  Land-locked Developing Countries (LLDC),1636,2005,12609177,Hombres
+  Small island developing States (SIDS),1637,2005,3940542,Hombres
+  High-income countries,1503,2005,19612464,Hombres
+  Middle-income countries,1517,2005,63532741,Hombres
+ Upper-middle-income countries,1502,2005,32157068,Hombres
+ Lower-middle-income countries,1501,2005,31375673,Hombres
+  Low-income countries,1500,2005,10305271,Hombres
+ AFRICA,903,2005,13778387,Hombres
+  Eastern Africa,910,2005,3320996,Hombres
+   Burundi,108,2005,386645,Hombres
+   Comoros,174,2005,49839,Hombres
+   Djibouti,262,2005,6293,Hombres
+   Eritrea,232,2005,153062,Hombres
+   Ethiopia,231,2005,284011,Hombres
+   Kenya,404,2005,173569,Hombres
+   Madagascar,450,2005,64403,Hombres
+   Malawi,454,2005,129386,Hombres
+   Mauritius*,480,2005,59779,Hombres
+   Mayotte*,175,2005,3137,Hombres
+   Mozambique,508,2005,410270,Hombres
+   Réunion*,638,2005,1068,Hombres
+   Rwanda,646,2005,142456,Hombres
+   Seychelles,690,2005,10171,Hombres
+   Somalia,706,2005,568870,Hombres
+   South Sudan,728,2005,124611,Hombres
+   Uganda,800,2005,291881,Hombres
+   United Republic of Tanzania*,834,2005,118644,Hombres
+   Zambia,894,2005,86976,Hombres
+   Zimbabwe,716,2005,255925,Hombres
+  Middle Africa,911,2005,1386182,Hombres
+   Angola,24,2005,353459,Hombres
+   Cameroon,120,2005,110699,Hombres
+   Central African Republic,140,2005,61515,Hombres
+   Chad,148,2005,113818,Hombres
+   Congo,178,2005,86625,Hombres
+   Democratic Republic of the Congo,180,2005,591870,Hombres
+   Equatorial Guinea,226,2005,33811,Hombres
+   Gabon,266,2005,20471,Hombres
+   Sao Tome and Principe,678,2005,13914,Hombres
+  Northern Africa,912,2005,4551329,Hombres
+   Algeria,12,2005,835802,Hombres
+   Egypt,818,2005,1184398,Hombres
+   Libya,434,2005,53242,Hombres
+   Morocco,504,2005,1367790,Hombres
+   Sudan,729,2005,708617,Hombres
+   Tunisia,788,2005,329476,Hombres
+   Western Sahara,732,2005,72004,Hombres
+  Southern Africa,913,2005,456787,Hombres
+   Botswana,72,2005,19815,Hombres
+   Eswatini,748,2005,24643,Hombres
+   Lesotho,426,2005,85462,Hombres
+   Namibia,516,2005,32195,Hombres
+   South Africa,710,2005,294672,Hombres
+  Western Africa,914,2005,4063093,Hombres
+   Benin,204,2005,280680,Hombres
+   Burkina Faso,854,2005,757585,Hombres
+   Cabo Verde,132,2005,66615,Hombres
+   Côte d'Ivoire,384,2005,361279,Hombres
+   Gambia,270,2005,36960,Hombres
+   Ghana,288,2005,355105,Hombres
+   Guinea,324,2005,228829,Hombres
+   Guinea-Bissau,624,2005,45328,Hombres
+   Liberia,430,2005,174000,Hombres
+   Mali,466,2005,504937,Hombres
+   Mauritania,478,2005,63798,Hombres
+   Niger,562,2005,183773,Hombres
+   Nigeria,566,2005,440569,Hombres
+   Saint Helena*,654,2005,1319,Hombres
+   Senegal,686,2005,286672,Hombres
+   Sierra Leone,694,2005,76684,Hombres
+   Togo,768,2005,198960,Hombres
+ ASIA,935,2005,38928847,Hombres
+  Central Asia,5500,2005,3372771,Hombres
+   Kazakhstan,398,2005,1736321,Hombres
+   Kyrgyzstan,417,2005,315925,Hombres
+   Tajikistan,762,2005,327743,Hombres
+   Turkmenistan,795,2005,112625,Hombres
+   Uzbekistan,860,2005,880157,Hombres
+  Eastern Asia,906,2005,5350635,Hombres
+   China*,156,2005,3547044,Hombres
+"   China, Hong Kong SAR*",344,2005,377171,Hombres
+"   China, Macao SAR*",446,2005,51712,Hombres
+"   China, Taiwan Province of China*",158,2005,0,Hombres
+   Dem. People's Republic of Korea,408,2005,44079,Hombres
+   Japan,392,2005,340784,Hombres
+   Mongolia,496,2005,19757,Hombres
+   Republic of Korea,410,2005,970088,Hombres
+  South-Eastern Asia,920,2005,7136416,Hombres
+   Brunei Darussalam,96,2005,26586,Hombres
+   Cambodia,116,2005,319678,Hombres
+   Indonesia,360,2005,1544224,Hombres
+   Lao People's Democratic Republic,418,2005,421459,Hombres
+   Malaysia*,458,2005,631301,Hombres
+   Myanmar,104,2005,960444,Hombres
+   Philippines,608,2005,1609037,Hombres
+   Singapore,702,2005,113294,Hombres
+   Thailand,764,2005,230013,Hombres
+   Timor-Leste,626,2005,50254,Hombres
+   Viet Nam,704,2005,1230126,Hombres
+  Southern Asia,5501,2005,15523113,Hombres
+   Afghanistan,4,2005,2282977,Hombres
+   Bangladesh,50,2005,3263197,Hombres
+   Bhutan,64,2005,61514,Hombres
+   India,356,2005,5803858,Hombres
+   Iran (Islamic Republic of),364,2005,493083,Hombres
+   Maldives,462,2005,1126,Hombres
+   Nepal,524,2005,676438,Hombres
+   Pakistan,586,2005,2304528,Hombres
+   Sri Lanka,144,2005,636392,Hombres
+  Western Asia,922,2005,7545912,Hombres
+   Armenia,51,2005,487642,Hombres
+   Azerbaijan*,31,2005,756699,Hombres
+   Bahrain,48,2005,27091,Hombres
+   Cyprus*,196,2005,76384,Hombres
+   Georgia*,268,2005,453879,Hombres
+   Iraq,368,2005,746216,Hombres
+   Israel,376,2005,160875,Hombres
+   Jordan,400,2005,277273,Hombres
+   Kuwait,414,2005,76100,Hombres
+   Lebanon,422,2005,352390,Hombres
+   Oman,512,2005,10002,Hombres
+   Qatar,634,2005,8915,Hombres
+   Saudi Arabia,682,2005,105465,Hombres
+   State of Palestine*,275,2005,1666877,Hombres
+   Syrian Arab Republic,760,2005,484324,Hombres
+   Turkey,792,2005,1374195,Hombres
+   United Arab Emirates,784,2005,69562,Hombres
+   Yemen,887,2005,412023,Hombres
+ EUROPE,908,2005,24061192,Hombres
+  Eastern Europe,923,2005,11423677,Hombres
+   Belarus,112,2005,683202,Hombres
+   Bulgaria,100,2005,426799,Hombres
+   Czechia,203,2005,336590,Hombres
+   Hungary,348,2005,228737,Hombres
+   Poland,616,2005,1308371,Hombres
+   Republic of Moldova*,498,2005,342253,Hombres
+   Romania,642,2005,986924,Hombres
+   Russian Federation,643,2005,4425027,Hombres
+   Slovakia,703,2005,128519,Hombres
+   Ukraine*,804,2005,2557255,Hombres
+  Northern Europe,924,2005,3254617,Hombres
+   Channel Islands*,830,2005,7167,Hombres
+   Denmark*,208,2005,106327,Hombres
+   Estonia,233,2005,67824,Hombres
+   Faroe Islands*,234,2005,5200,Hombres
+   Finland*,246,2005,121279,Hombres
+   Iceland,352,2005,14160,Hombres
+   Ireland,372,2005,342406,Hombres
+   Isle of Man*,833,2005,4167,Hombres
+   Latvia,428,2005,121873,Hombres
+   Lithuania,440,2005,179732,Hombres
+   Norway*,578,2005,77328,Hombres
+   Sweden,752,2005,118935,Hombres
+   United Kingdom*,826,2005,2088219,Hombres
+  Southern Europe,925,2005,5819357,Hombres
+   Albania,8,2005,517369,Hombres
+   Andorra,20,2005,2741,Hombres
+   Bosnia and Herzegovina,70,2005,726700,Hombres
+   Croatia,191,2005,399202,Hombres
+   Gibraltar*,292,2005,4743,Hombres
+   Greece,300,2005,450195,Hombres
+   Holy See*,336,2005,54,Hombres
+   Italy,380,2005,1413246,Hombres
+   Malta,470,2005,49819,Hombres
+   Montenegro,499,2005,70332,Hombres
+   North Macedonia,807,2005,229907,Hombres
+   Portugal,620,2005,899359,Hombres
+   San Marino,674,2005,1298,Hombres
+   Serbia*,688,2005,491207,Hombres
+   Slovenia,705,2005,52802,Hombres
+   Spain*,724,2005,510383,Hombres
+  Western Europe,926,2005,3563541,Hombres
+   Austria,40,2005,227488,Hombres
+   Belgium,56,2005,202650,Hombres
+   France*,250,2005,833193,Hombres
+   Germany,276,2005,1629631,Hombres
+   Liechtenstein,438,2005,1307,Hombres
+   Luxembourg,442,2005,26314,Hombres
+   Monaco,492,2005,9580,Hombres
+   Netherlands*,528,2005,397891,Hombres
+   Switzerland,756,2005,235487,Hombres
+ LATIN AMERICA AND THE CARIBBEAN,904,2005,14495367,Hombres
+  Caribbean,915,2005,2979365,Hombres
+   Anguilla*,660,2005,1220,Hombres
+   Antigua and Barbuda,28,2005,16580,Hombres
+   Aruba*,533,2005,4230,Hombres
+   Bahamas,44,2005,15043,Hombres
+   Barbados,52,2005,43951,Hombres
+"   Bonaire, Sint Eustatius and Saba*",535,2005,378,Hombres
+   British Virgin Islands*,92,2005,1776,Hombres
+   Cayman Islands*,136,2005,590,Hombres
+   Cuba,192,2005,553465,Hombres
+   Curaçao*,531,2005,2327,Hombres
+   Dominica,212,2005,28772,Hombres
+   Dominican Republic,214,2005,430576,Hombres
+   Grenada,308,2005,28858,Hombres
+   Guadeloupe*,312,2005,3662,Hombres
+   Haiti,332,2005,515654,Hombres
+   Jamaica,388,2005,402827,Hombres
+   Martinique*,474,2005,6637,Hombres
+   Montserrat*,500,2005,7090,Hombres
+   Puerto Rico*,630,2005,710802,Hombres
+   Saint Barthélemy*,652,2005,0,Hombres
+   Saint Kitts and Nevis,659,2005,15279,Hombres
+   Saint Lucia,662,2005,20493,Hombres
+   Saint Martin (French part)*,663,2005,0,Hombres
+   Saint Vincent and the Grenadines,670,2005,26629,Hombres
+   Sint Maarten (Dutch part)*,534,2005,623,Hombres
+   Trinidad and Tobago,780,2005,139303,Hombres
+   Turks and Caicos Islands*,796,2005,525,Hombres
+   United States Virgin Islands*,850,2005,2075,Hombres
+  Central America,916,2005,7424343,Hombres
+   Belize,84,2005,22256,Hombres
+   Costa Rica,188,2005,50583,Hombres
+   El Salvador,222,2005,568376,Hombres
+   Guatemala,320,2005,375251,Hombres
+   Honduras,340,2005,195742,Hombres
+   Mexico,484,2005,5877135,Hombres
+   Nicaragua,558,2005,269682,Hombres
+   Panama,591,2005,65318,Hombres
+  South America,931,2005,4091659,Hombres
+   Argentina,32,2005,397540,Hombres
+   Bolivia (Plurinational State of),68,2005,265889,Hombres
+   Brazil,76,2005,511722,Hombres
+   Chile,152,2005,260036,Hombres
+   Colombia,170,2005,859318,Hombres
+   Ecuador,218,2005,478800,Hombres
+   Falkland Islands (Malvinas)*,238,2005,467,Hombres
+   French Guiana*,254,2005,1612,Hombres
+   Guyana,328,2005,185054,Hombres
+   Paraguay,600,2005,238432,Hombres
+   Peru,604,2005,437143,Hombres
+   Suriname,740,2005,115287,Hombres
+   Uruguay,858,2005,146441,Hombres
+   Venezuela (Bolivarian Republic of),862,2005,193918,Hombres
+ NORTHERN AMERICA,905,2005,1621606,Hombres
+   Bermuda*,60,2005,7391,Hombres
+   Canada,124,2005,452582,Hombres
+   Greenland*,304,2005,6038,Hombres
+   Saint Pierre and Miquelon*,666,2005,219,Hombres
+   United States of America*,840,2005,1155376,Hombres
+ OCEANIA ,909,2005,680818,Hombres
+  Australia and New Zealand,927,2005,481926,Hombres
+   Australia*,36,2005,201054,Hombres
+   New Zealand*,554,2005,280872,Hombres
+  Melanesia,928,2005,85269,Hombres
+   Fiji,242,2005,75347,Hombres
+   New Caledonia*,540,2005,2486,Hombres
+   Papua New Guinea,598,2005,2224,Hombres
+   Solomon Islands,90,2005,1456,Hombres
+   Vanuatu,548,2005,3756,Hombres
+  Micronesia,954,2005,19834,Hombres
+   Guam*,316,2005,1228,Hombres
+   Kiribati,296,2005,1940,Hombres
+   Marshall Islands,584,2005,3337,Hombres
+   Micronesia (Fed. States of),583,2005,9227,Hombres
+   Nauru,520,2005,933,Hombres
+   Northern Mariana Islands*,580,2005,1346,Hombres
+   Palau,585,2005,1823,Hombres
+  Polynesia*,957,2005,93789,Hombres
+   American Samoa*,16,2005,1327,Hombres
+   Cook Islands*,184,2005,9550,Hombres
+   French Polynesia*,258,2005,1370,Hombres
+   Niue*,570,2005,2588,Hombres
+   Samoa,882,2005,48839,Hombres
+   Tokelau*,772,2005,1037,Hombres
+   Tonga,776,2005,23897,Hombres
+   Tuvalu,798,2005,1482,Hombres
+   Wallis and Futuna Islands*,876,2005,3699,Hombres
+OTHER,2003,2005,4096864,Hombres
+WORLD,900,2010,113940881,Hombres
+  Sub-Saharan Africa,947,2010,10531120,Hombres
+  Northern Africa and Western Asia,1833,2010,14249463,Hombres
+  Central and Southern Asia,921,2010,24444167,Hombres
+  Eastern and South-Eastern Asia,1832,2010,15130964,Hombres
+  Latin America and the Caribbean,1830,2010,16857618,Hombres
+  Oceania (excluding Australia and New Zealand),1835,2010,214866,Hombres
+  Australia and New Zealand,927,2010,573939,Hombres
+  Europe and Northern America,1829,2010,27337252,Hombres
+  Developed regions,901,2010,28263791,Hombres
+  Less developed regions,902,2010,81075598,Hombres
+" Less developed regions, excluding least developed countries",934,2010,61260381,Hombres
+" Less developed regions, excluding China",948,2010,76484858,Hombres
+  Least developed countries,941,2010,19815217,Hombres
+  Land-locked Developing Countries (LLDC),1636,2010,14227283,Hombres
+  Small island developing States (SIDS),1637,2010,4285399,Hombres
+  High-income countries,1503,2010,21784350,Hombres
+  Middle-income countries,1517,2010,75477248,Hombres
+ Upper-middle-income countries,1502,2010,36086584,Hombres
+ Lower-middle-income countries,1501,2010,39390664,Hombres
+  Low-income countries,1500,2010,11939008,Hombres
+ AFRICA,903,2010,15998855,Hombres
+  Eastern Africa,910,2010,3932812,Hombres
+   Burundi,108,2010,143736,Hombres
+   Comoros,174,2010,54190,Hombres
+   Djibouti,262,2010,7178,Hombres
+   Eritrea,232,2010,172456,Hombres
+   Ethiopia,231,2010,369043,Hombres
+   Kenya,404,2010,213979,Hombres
+   Madagascar,450,2010,64593,Hombres
+   Malawi,454,2010,151191,Hombres
+   Mauritius*,480,2010,67567,Hombres
+   Mayotte*,175,2010,3113,Hombres
+   Mozambique,508,2010,512836,Hombres
+   Réunion*,638,2010,1083,Hombres
+   Rwanda,646,2010,161713,Hombres
+   Seychelles,690,2010,11169,Hombres
+   Somalia,706,2010,839805,Hombres
+   South Sudan,728,2010,209902,Hombres
+   Uganda,800,2010,349440,Hombres
+   United Republic of Tanzania*,834,2010,131509,Hombres
+   Zambia,894,2010,86152,Hombres
+   Zimbabwe,716,2010,382157,Hombres
+  Middle Africa,911,2010,1495622,Hombres
+   Angola,24,2010,322362,Hombres
+   Cameroon,120,2010,136330,Hombres
+   Central African Republic,140,2010,120235,Hombres
+   Chad,148,2010,112308,Hombres
+   Congo,178,2010,91205,Hombres
+   Democratic Republic of the Congo,180,2010,640699,Hombres
+   Equatorial Guinea,226,2010,40109,Hombres
+   Gabon,266,2010,18065,Hombres
+   Sao Tome and Principe,678,2010,14309,Hombres
+  Northern Africa,912,2010,5467735,Hombres
+   Algeria,12,2010,913853,Hombres
+   Egypt,818,2010,1747685,Hombres
+   Libya,434,2010,67086,Hombres
+   Morocco,504,2010,1580278,Hombres
+   Sudan,729,2010,707467,Hombres
+   Tunisia,788,2010,361434,Hombres
+   Western Sahara,732,2010,89932,Hombres
+  Southern Africa,913,2010,610233,Hombres
+   Botswana,72,2010,26110,Hombres
+   Eswatini,748,2010,37802,Hombres
+   Lesotho,426,2010,129955,Hombres
+   Namibia,516,2010,48854,Hombres
+   South Africa,710,2010,367512,Hombres
+  Western Africa,914,2010,4492453,Hombres
+   Benin,204,2010,298194,Hombres
+   Burkina Faso,854,2010,801969,Hombres
+   Cabo Verde,132,2010,70174,Hombres
+   Côte d'Ivoire,384,2010,463697,Hombres
+   Gambia,270,2010,47865,Hombres
+   Ghana,288,2010,404723,Hombres
+   Guinea,324,2010,256473,Hombres
+   Guinea-Bissau,624,2010,49210,Hombres
+   Liberia,430,2010,109053,Hombres
+   Mali,466,2010,563350,Hombres
+   Mauritania,478,2010,71784,Hombres
+   Niger,562,2010,201800,Hombres
+   Nigeria,566,2010,535088,Hombres
+   Saint Helena*,654,2010,1510,Hombres
+   Senegal,686,2010,344435,Hombres
+   Sierra Leone,694,2010,62967,Hombres
+   Togo,768,2010,210161,Hombres
+ ASIA,935,2010,48356859,Hombres
+  Central Asia,5500,2010,3558067,Hombres
+   Kazakhstan,398,2010,1778295,Hombres
+   Kyrgyzstan,417,2010,352824,Hombres
+   Tajikistan,762,2010,336574,Hombres
+   Turkmenistan,795,2010,112615,Hombres
+   Uzbekistan,860,2010,977759,Hombres
+  Eastern Asia,906,2010,6119053,Hombres
+   China*,156,2010,4094711,Hombres
+"   China, Hong Kong SAR*",344,2010,439136,Hombres
+"   China, Macao SAR*",446,2010,56893,Hombres
+"   China, Taiwan Province of China*",158,2010,0,Hombres
+   Dem. People's Republic of Korea,408,2010,50274,Hombres
+   Japan,392,2010,352600,Hombres
+   Mongolia,496,2010,27393,Hombres
+   Republic of Korea,410,2010,1098046,Hombres
+  South-Eastern Asia,920,2010,9011911,Hombres
+   Brunei Darussalam,96,2010,26048,Hombres
+   Cambodia,116,2010,450385,Hombres
+   Indonesia,360,2010,1903542,Hombres
+   Lao People's Democratic Republic,418,2010,553800,Hombres
+   Malaysia*,458,2010,739362,Hombres
+   Myanmar,104,2010,1392913,Hombres
+   Philippines,608,2010,2149714,Hombres
+   Singapore,702,2010,136184,Hombres
+   Thailand,764,2010,282453,Hombres
+   Timor-Leste,626,2010,19023,Hombres
+   Viet Nam,704,2010,1358487,Hombres
+  Southern Asia,5501,2010,20886100,Hombres
+   Afghanistan,4,2010,2867554,Hombres
+   Bangladesh,50,2010,4104883,Hombres
+   Bhutan,64,2010,46979,Hombres
+   India,356,2010,8500709,Hombres
+   Iran (Islamic Republic of),364,2010,530244,Hombres
+   Maldives,462,2010,1712,Hombres
+   Nepal,524,2010,873613,Hombres
+   Pakistan,586,2010,3136466,Hombres
+   Sri Lanka,144,2010,823940,Hombres
+  Western Asia,922,2010,8781728,Hombres
+   Armenia,51,2010,493848,Hombres
+   Azerbaijan*,31,2010,618392,Hombres
+   Bahrain,48,2010,27727,Hombres
+   Cyprus*,196,2010,81809,Hombres
+   Georgia*,268,2010,405507,Hombres
+   Iraq,368,2010,1365619,Hombres
+   Israel,376,2010,171967,Hombres
+   Jordan,400,2010,385170,Hombres
+   Kuwait,414,2010,108844,Hombres
+   Lebanon,422,2010,414002,Hombres
+   Oman,512,2010,11165,Hombres
+   Qatar,634,2010,10713,Hombres
+   Saudi Arabia,682,2010,125982,Hombres
+   State of Palestine*,275,2010,1805760,Hombres
+   Syrian Arab Republic,760,2010,647361,Hombres
+   Turkey,792,2010,1432749,Hombres
+   United Arab Emirates,784,2010,83884,Hombres
+   Yemen,887,2010,591229,Hombres
+ EUROPE,908,2010,25508453,Hombres
+  Eastern Europe,923,2010,12346406,Hombres
+   Belarus,112,2010,622606,Hombres
+   Bulgaria,100,2010,512180,Hombres
+   Czechia,203,2010,335913,Hombres
+   Hungary,348,2010,247593,Hombres
+   Poland,616,2010,1733144,Hombres
+   Republic of Moldova*,498,2010,383845,Hombres
+   Romania,642,2010,1580768,Hombres
+   Russian Federation,643,2010,4372877,Hombres
+   Slovakia,703,2010,119280,Hombres
+   Ukraine*,804,2010,2438200,Hombres
+  Northern Europe,924,2010,3443327,Hombres
+   Channel Islands*,830,2010,7744,Hombres
+   Denmark*,208,2010,111478,Hombres
+   Estonia,233,2010,68652,Hombres
+   Faroe Islands*,234,2010,5189,Hombres
+   Finland*,246,2010,115561,Hombres
+   Iceland,352,2010,16160,Hombres
+   Ireland,372,2010,328010,Hombres
+   Isle of Man*,833,2010,4534,Hombres
+   Latvia,428,2010,122669,Hombres
+   Lithuania,440,2010,225126,Hombres
+   Norway*,578,2010,80335,Hombres
+   Sweden,752,2010,129495,Hombres
+   United Kingdom*,826,2010,2228374,Hombres
+  Southern Europe,925,2010,5844716,Hombres
+   Albania,8,2010,580912,Hombres
+   Andorra,20,2010,3848,Hombres
+   Bosnia and Herzegovina,70,2010,760012,Hombres
+   Croatia,191,2010,383471,Hombres
+   Gibraltar*,292,2010,5130,Hombres
+   Greece,300,2010,408319,Hombres
+   Holy See*,336,2010,76,Hombres
+   Italy,380,2010,1330202,Hombres
+   Malta,470,2010,49396,Hombres
+   Montenegro,499,2010,67741,Hombres
+   North Macedonia,807,2010,259242,Hombres
+   Portugal,620,2010,987376,Hombres
+   San Marino,674,2010,864,Hombres
+   Serbia*,688,2010,463834,Hombres
+   Slovenia,705,2010,54436,Hombres
+   Spain*,724,2010,489857,Hombres
+  Western Europe,926,2010,3874004,Hombres
+   Austria,40,2010,231771,Hombres
+   Belgium,56,2010,218052,Hombres
+   France*,250,2010,943288,Hombres
+   Germany,276,2010,1719667,Hombres
+   Liechtenstein,438,2010,1566,Hombres
+   Luxembourg,442,2010,28889,Hombres
+   Monaco,492,2010,13094,Hombres
+   Netherlands*,528,2010,427577,Hombres
+   Switzerland,756,2010,290100,Hombres
+ LATIN AMERICA AND THE CARIBBEAN,904,2010,16857618,Hombres
+  Caribbean,915,2010,3274934,Hombres
+   Anguilla*,660,2010,1159,Hombres
+   Antigua and Barbuda,28,2010,18668,Hombres
+   Aruba*,533,2010,5880,Hombres
+   Bahamas,44,2010,15388,Hombres
+   Barbados,52,2010,45018,Hombres
+"   Bonaire, Sint Eustatius and Saba*",535,2010,3150,Hombres
+   British Virgin Islands*,92,2010,2173,Hombres
+   Cayman Islands*,136,2010,658,Hombres
+   Cuba,192,2010,618056,Hombres
+   Curaçao*,531,2010,20929,Hombres
+   Dominica,212,2010,31285,Hombres
+   Dominican Republic,214,2010,496745,Hombres
+   Grenada,308,2010,27905,Hombres
+   Guadeloupe*,312,2010,4393,Hombres
+   Haiti,332,2010,587744,Hombres
+   Jamaica,388,2010,427047,Hombres
+   Martinique*,474,2010,6756,Hombres
+   Montserrat*,500,2010,7844,Hombres
+   Puerto Rico*,630,2010,737672,Hombres
+   Saint Barthélemy*,652,2010,0,Hombres
+   Saint Kitts and Nevis,659,2010,16120,Hombres
+   Saint Lucia,662,2010,21372,Hombres
+   Saint Martin (French part)*,663,2010,0,Hombres
+   Saint Vincent and the Grenadines,670,2010,25950,Hombres
+   Sint Maarten (Dutch part)*,534,2010,1563,Hombres
+   Trinidad and Tobago,780,2010,148434,Hombres
+   Turks and Caicos Islands*,796,2010,949,Hombres
+   United States Virgin Islands*,850,2010,2076,Hombres
+  Central America,916,2010,8489498,Hombres
+   Belize,84,2010,24357,Hombres
+   Costa Rica,188,2010,56633,Hombres
+   El Salvador,222,2010,670201,Hombres
+   Guatemala,320,2010,463621,Hombres
+   Honduras,340,2010,249972,Hombres
+   Mexico,484,2010,6668397,Hombres
+   Nicaragua,558,2010,287563,Hombres
+   Panama,591,2010,68754,Hombres
+  South America,931,2010,5093186,Hombres
+   Argentina,32,2010,463178,Hombres
+   Bolivia (Plurinational State of),68,2010,368682,Hombres
+   Brazil,76,2010,632242,Hombres
+   Chile,152,2010,271267,Hombres
+   Colombia,170,2010,1177853,Hombres
+   Ecuador,218,2010,556323,Hombres
+   Falkland Islands (Malvinas)*,238,2010,515,Hombres
+   French Guiana*,254,2010,1666,Hombres
+   Guyana,328,2010,204145,Hombres
+   Paraguay,600,2010,329005,Hombres
+   Peru,604,2010,563929,Hombres
+   Suriname,740,2010,116117,Hombres
+   Uruguay,858,2010,161309,Hombres
+   Venezuela (Bolivarian Republic of),862,2010,246955,Hombres
+ NORTHERN AMERICA,905,2010,1828799,Hombres
+   Bermuda*,60,2010,7588,Hombres
+   Canada,124,2010,482978,Hombres
+   Greenland*,304,2010,6484,Hombres
+   Saint Pierre and Miquelon*,666,2010,189,Hombres
+   United States of America*,840,2010,1331560,Hombres
+ OCEANIA ,909,2010,788805,Hombres
+  Australia and New Zealand,927,2010,573939,Hombres
+   Australia*,36,2010,236444,Hombres
+   New Zealand*,554,2010,337495,Hombres
+  Melanesia,928,2010,97733,Hombres
+   Fiji,242,2010,87439,Hombres
+   New Caledonia*,540,2010,2664,Hombres
+   Papua New Guinea,598,2010,2090,Hombres
+   Solomon Islands,90,2010,1645,Hombres
+   Vanuatu,548,2010,3895,Hombres
+  Micronesia,954,2010,19448,Hombres
+   Guam*,316,2010,1002,Hombres
+   Kiribati,296,2010,1739,Hombres
+   Marshall Islands,584,2010,3214,Hombres
+   Micronesia (Fed. States of),583,2010,9711,Hombres
+   Nauru,520,2010,1094,Hombres
+   Northern Mariana Islands*,580,2010,1329,Hombres
+   Palau,585,2010,1359,Hombres
+  Polynesia*,957,2010,97685,Hombres
+   American Samoa*,16,2010,1097,Hombres
+   Cook Islands*,184,2010,10065,Hombres
+   French Polynesia*,258,2010,833,Hombres
+   Niue*,570,2010,2609,Hombres
+   Samoa,882,2010,51453,Hombres
+   Tokelau*,772,2010,1090,Hombres
+   Tonga,776,2010,25430,Hombres
+   Tuvalu,798,2010,1475,Hombres
+   Wallis and Futuna Islands*,876,2010,3633,Hombres
+OTHER,2003,2010,4601492,Hombres
+WORLD,900,2015,128238058,Hombres
+  Sub-Saharan Africa,947,2015,12578348,Hombres
+  Northern Africa and Western Asia,1833,2015,18177303,Hombres
+  Central and Southern Asia,921,2015,27971106,Hombres
+  Eastern and South-Eastern Asia,1832,2015,17150433,Hombres
+  Latin America and the Caribbean,1830,2015,17582139,Hombres
+  Oceania (excluding Australia and New Zealand),1835,2015,240815,Hombres
+  Australia and New Zealand,927,2015,622696,Hombres
+  Europe and Northern America,1829,2015,28229706,Hombres
+  Developed regions,901,2015,29203683,Hombres
+  Less developed regions,902,2015,93348863,Hombres
+" Less developed regions, excluding least developed countries",934,2015,70333340,Hombres
+" Less developed regions, excluding China",948,2015,88028326,Hombres
+  Least developed countries,941,2015,23015523,Hombres
+  Land-locked Developing Countries (LLDC),1636,2015,16089640,Hombres
+  Small island developing States (SIDS),1637,2015,4903522,Hombres
+  High-income countries,1503,2015,22710503,Hombres
+  Middle-income countries,1517,2015,82602967,Hombres
+ Upper-middle-income countries,1502,2015,37485261,Hombres
+ Lower-middle-income countries,1501,2015,45117706,Hombres
+  Low-income countries,1500,2015,17088744,Hombres
+ AFRICA,903,2015,18809167,Hombres
+  Eastern Africa,910,2015,5021946,Hombres
+   Burundi,108,2015,227726,Hombres
+   Comoros,174,2015,59176,Hombres
+   Djibouti,262,2015,8659,Hombres
+   Eritrea,232,2015,326403,Hombres
+   Ethiopia,231,2015,451972,Hombres
+   Kenya,404,2015,227217,Hombres
+   Madagascar,450,2015,68219,Hombres
+   Malawi,454,2015,172322,Hombres
+   Mauritius*,480,2015,74559,Hombres
+   Mayotte*,175,2015,3199,Hombres
+   Mozambique,508,2015,348100,Hombres
+   Réunion*,638,2015,1087,Hombres
+   Rwanda,646,2015,247155,Hombres
+   Seychelles,690,2015,11783,Hombres
+   Somalia,706,2015,1040985,Hombres
+   South Sudan,728,2015,543822,Hombres
+   Uganda,800,2015,375951,Hombres
+   United Republic of Tanzania*,834,2015,145322,Hombres
+   Zambia,894,2015,86165,Hombres
+   Zimbabwe,716,2015,602124,Hombres
+  Middle Africa,911,2015,1910761,Hombres
+   Angola,24,2015,305926,Hombres
+   Cameroon,120,2015,171870,Hombres
+   Central African Republic,140,2015,348076,Hombres
+   Chad,148,2015,104493,Hombres
+   Congo,178,2015,102286,Hombres
+   Democratic Republic of the Congo,180,2015,778269,Hombres
+   Equatorial Guinea,226,2015,62959,Hombres
+   Gabon,266,2015,20636,Hombres
+   Sao Tome and Principe,678,2015,16246,Hombres
+  Northern Africa,912,2015,6230819,Hombres
+   Algeria,12,2015,985595,Hombres
+   Egypt,818,2015,2041623,Hombres
+   Libya,434,2015,81637,Hombres
+   Morocco,504,2015,1575252,Hombres
+   Sudan,729,2015,1013988,Hombres
+   Tunisia,788,2015,434592,Hombres
+   Western Sahara,732,2015,98132,Hombres
+  Southern Africa,913,2015,545606,Hombres
+   Botswana,72,2015,32477,Hombres
+   Eswatini,748,2015,22566,Hombres
+   Lesotho,426,2015,86078,Hombres
+   Namibia,516,2015,25042,Hombres
+   South Africa,710,2015,379443,Hombres
+  Western Africa,914,2015,5100035,Hombres
+   Benin,204,2015,341137,Hombres
+   Burkina Faso,854,2015,848841,Hombres
+   Cabo Verde,132,2015,76690,Hombres
+   Côte d'Ivoire,384,2015,520911,Hombres
+   Gambia,270,2015,60472,Hombres
+   Ghana,288,2015,466166,Hombres
+   Guinea,324,2015,273042,Hombres
+   Guinea-Bissau,624,2015,51546,Hombres
+   Liberia,430,2015,102946,Hombres
+   Mali,466,2015,696316,Hombres
+   Mauritania,478,2015,71355,Hombres
+   Niger,562,2015,221615,Hombres
+   Nigeria,566,2015,682707,Hombres
+   Saint Helena*,654,2015,1731,Hombres
+   Senegal,686,2015,368123,Hombres
+   Sierra Leone,694,2015,69275,Hombres
+   Togo,768,2015,247162,Hombres
+ ASIA,935,2015,57068023,Hombres
+  Central Asia,5500,2015,3640447,Hombres
+   Kazakhstan,398,2015,1810038,Hombres
+   Kyrgyzstan,417,2015,358754,Hombres
+   Tajikistan,762,2015,334196,Hombres
+   Turkmenistan,795,2015,113826,Hombres
+   Uzbekistan,860,2015,1023633,Hombres
+  Eastern Asia,906,2015,6820704,Hombres
+   China*,156,2015,4769179,Hombres
+"   China, Hong Kong SAR*",344,2015,490995,Hombres
+"   China, Macao SAR*",446,2015,60363,Hombres
+"   China, Taiwan Province of China*",158,2015,0,Hombres
+   Dem. People's Republic of Korea,408,2015,54930,Hombres
+   Japan,392,2015,351281,Hombres
+   Mongolia,496,2015,30999,Hombres
+   Republic of Korea,410,2015,1062957,Hombres
+  South-Eastern Asia,920,2015,10329729,Hombres
+   Brunei Darussalam,96,2015,26000,Hombres
+   Cambodia,116,2015,505718,Hombres
+   Indonesia,360,2015,2272231,Hombres
+   Lao People's Democratic Republic,418,2015,592231,Hombres
+   Malaysia*,458,2015,816165,Hombres
+   Myanmar,104,2015,1593428,Hombres
+   Philippines,608,2015,2533069,Hombres
+   Singapore,702,2015,157614,Hombres
+   Thailand,764,2015,348078,Hombres
+   Timor-Leste,626,2015,20585,Hombres
+   Viet Nam,704,2015,1464610,Hombres
+  Southern Asia,5501,2015,24330659,Hombres
+   Afghanistan,4,2015,2902913,Hombres
+   Bangladesh,50,2015,4505672,Hombres
+   Bhutan,64,2015,26218,Hombres
+   India,356,2015,10356573,Hombres
+   Iran (Islamic Republic of),364,2015,617010,Hombres
+   Maldives,462,2015,1685,Hombres
+   Nepal,524,2015,1239154,Hombres
+   Pakistan,586,2015,3743863,Hombres
+   Sri Lanka,144,2015,937571,Hombres
+  Western Asia,922,2015,11946484,Hombres
+   Armenia,51,2015,507143,Hombres
+   Azerbaijan*,31,2015,606730,Hombres
+   Bahrain,48,2015,29822,Hombres
+   Cyprus*,196,2015,79109,Hombres
+   Georgia*,268,2015,411330,Hombres
+   Iraq,368,2015,910222,Hombres
+   Israel,376,2015,169899,Hombres
+   Jordan,400,2015,449065,Hombres
+   Kuwait,414,2015,118278,Hombres
+   Lebanon,422,2015,447670,Hombres
+   Oman,512,2015,11967,Hombres
+   Qatar,634,2015,11902,Hombres
+   Saudi Arabia,682,2015,154312,Hombres
+   State of Palestine*,275,2015,1972565,Hombres
+   Syrian Arab Republic,760,2015,3664034,Hombres
+   Turkey,792,2015,1587410,Hombres
+   United Arab Emirates,784,2015,94400,Hombres
+   Yemen,887,2015,720626,Hombres
+ EUROPE,908,2015,26369327,Hombres
+  Eastern Europe,923,2015,12864866,Hombres
+   Belarus,112,2015,623669,Hombres
+   Bulgaria,100,2015,496720,Hombres
+   Czechia,203,2015,353286,Hombres
+   Hungary,348,2015,292523,Hombres
+   Poland,616,2015,1884117,Hombres
+   Republic of Moldova*,498,2015,430866,Hombres
+   Romania,642,2015,1567809,Hombres
+   Russian Federation,643,2015,4449268,Hombres
+   Slovakia,703,2015,157103,Hombres
+   Ukraine*,804,2015,2609505,Hombres
+  Northern Europe,924,2015,3529209,Hombres
+   Channel Islands*,830,2015,8292,Hombres
+   Denmark*,208,2015,111890,Hombres
+   Estonia,233,2015,84113,Hombres
+   Faroe Islands*,234,2015,5736,Hombres
+   Finland*,246,2015,108794,Hombres
+   Iceland,352,2015,18348,Hombres
+   Ireland,372,2015,334784,Hombres
+   Isle of Man*,833,2015,5185,Hombres
+   Latvia,428,2015,165315,Hombres
+   Lithuania,440,2015,244904,Hombres
+   Norway*,578,2015,82268,Hombres
+   Sweden,752,2015,135980,Hombres
+   United Kingdom*,826,2015,2223600,Hombres
+  Southern Europe,925,2015,6004592,Hombres
+   Albania,8,2015,576220,Hombres
+   Andorra,20,2015,4200,Hombres
+   Bosnia and Herzegovina,70,2015,763150,Hombres
+   Croatia,191,2015,375750,Hombres
+   Gibraltar*,292,2015,5766,Hombres
+   Greece,300,2015,421173,Hombres
+   Holy See*,336,2015,115,Hombres
+   Italy,380,2015,1400582,Hombres
+   Malta,470,2015,47197,Hombres
+   Montenegro,499,2015,61328,Hombres
+   North Macedonia,807,2015,291278,Hombres
+   Portugal,620,2015,1010281,Hombres
+   San Marino,674,2015,1269,Hombres
+   Serbia*,688,2015,406341,Hombres
+   Slovenia,705,2015,61173,Hombres
+   Spain*,724,2015,578769,Hombres
+  Western Europe,926,2015,3970660,Hombres
+   Austria,40,2015,233867,Hombres
+   Belgium,56,2015,243956,Hombres
+   France*,250,2015,1023721,Hombres
+   Germany,276,2015,1689326,Hombres
+   Liechtenstein,438,2015,1565,Hombres
+   Luxembourg,442,2015,32722,Hombres
+   Monaco,492,2015,13915,Hombres
+   Netherlands*,528,2015,435630,Hombres
+   Switzerland,756,2015,295958,Hombres
+ LATIN AMERICA AND THE CARIBBEAN,904,2015,17582139,Hombres
+  Caribbean,915,2015,3802917,Hombres
+   Anguilla*,660,2015,1350,Hombres
+   Antigua and Barbuda,28,2015,23792,Hombres
+   Aruba*,533,2015,7257,Hombres
+   Bahamas,44,2015,18115,Hombres
+   Barbados,52,2015,47152,Hombres
+"   Bonaire, Sint Eustatius and Saba*",535,2015,3247,Hombres
+   British Virgin Islands*,92,2015,2245,Hombres
+   Cayman Islands*,136,2015,796,Hombres
+   Cuba,192,2015,702390,Hombres
+   Curaçao*,531,2015,3141,Hombres
+   Dominica,212,2015,30442,Hombres
+   Dominican Republic,214,2015,608480,Hombres
+   Grenada,308,2015,30025,Hombres
+   Guadeloupe*,312,2015,4674,Hombres
+   Haiti,332,2015,793349,Hombres
+   Jamaica,388,2015,440347,Hombres
+   Martinique*,474,2015,5516,Hombres
+   Montserrat*,500,2015,8863,Hombres
+   Puerto Rico*,630,2015,841611,Hombres
+   Saint Barthélemy*,652,2015,0,Hombres
+   Saint Kitts and Nevis,659,2015,18114,Hombres
+   Saint Lucia,662,2015,24201,Hombres
+   Saint Martin (French part)*,663,2015,0,Hombres
+   Saint Vincent and the Grenadines,670,2015,29062,Hombres
+   Sint Maarten (Dutch part)*,534,2015,932,Hombres
+   Trinidad and Tobago,780,2015,154574,Hombres
+   Turks and Caicos Islands*,796,2015,1036,Hombres
+   United States Virgin Islands*,850,2015,2206,Hombres
+  Central America,916,2015,8439482,Hombres
+   Belize,84,2015,26615,Hombres
+   Costa Rica,188,2015,59116,Hombres
+   El Salvador,222,2015,753461,Hombres
+   Guatemala,320,2015,557854,Hombres
+   Honduras,340,2015,305667,Hombres
+   Mexico,484,2015,6358119,Hombres
+   Nicaragua,558,2015,305105,Hombres
+   Panama,591,2015,73545,Hombres
+  South America,931,2015,5339740,Hombres
+   Argentina,32,2015,462826,Hombres
+   Bolivia (Plurinational State of),68,2015,390857,Hombres
+   Brazil,76,2015,637038,Hombres
+   Chile,152,2015,291195,Hombres
+   Colombia,170,2015,1234218,Hombres
+   Ecuador,218,2015,538153,Hombres
+   Falkland Islands (Malvinas)*,238,2015,578,Hombres
+   French Guiana*,254,2015,1847,Hombres
+   Guyana,328,2015,222385,Hombres
+   Paraguay,600,2015,363105,Hombres
+   Peru,604,2015,605953,Hombres
+   Suriname,740,2015,112784,Hombres
+   Uruguay,858,2015,167247,Hombres
+   Venezuela (Bolivarian Republic of),862,2015,311554,Hombres
+ NORTHERN AMERICA,905,2015,1860379,Hombres
+   Bermuda*,60,2015,8007,Hombres
+   Canada,124,2015,479163,Hombres
+   Greenland*,304,2015,7154,Hombres
+   Saint Pierre and Miquelon*,666,2015,222,Hombres
+   United States of America*,840,2015,1365833,Hombres
+ OCEANIA ,909,2015,863511,Hombres
+  Australia and New Zealand,927,2015,622696,Hombres
+   Australia*,36,2015,248125,Hombres
+   New Zealand*,554,2015,374571,Hombres
+  Melanesia,928,2015,109523,Hombres
+   Fiji,242,2015,99311,Hombres
+   New Caledonia*,540,2015,2725,Hombres
+   Papua New Guinea,598,2015,2351,Hombres
+   Solomon Islands,90,2015,1913,Hombres
+   Vanuatu,548,2015,3223,Hombres
+  Micronesia,954,2015,20869,Hombres
+   Guam*,316,2015,981,Hombres
+   Kiribati,296,2015,2017,Hombres
+   Marshall Islands,584,2015,3763,Hombres
+   Micronesia (Fed. States of),583,2015,10312,Hombres
+   Nauru,520,2015,1128,Hombres
+   Northern Mariana Islands*,580,2015,1339,Hombres
+   Palau,585,2015,1329,Hombres
+  Polynesia*,957,2015,110423,Hombres
+   American Samoa*,16,2015,992,Hombres
+   Cook Islands*,184,2015,10691,Hombres
+   French Polynesia*,258,2015,1082,Hombres
+   Niue*,570,2015,2620,Hombres
+   Samoa,882,2015,57509,Hombres
+   Tokelau*,772,2015,1096,Hombres
+   Tonga,776,2015,29476,Hombres
+   Tuvalu,798,2015,1593,Hombres
+   Wallis and Futuna Islands*,876,2015,5364,Hombres
+OTHER,2003,2015,5685512,Hombres
+WORLD,900,2020,145655844,Hombres
+  Sub-Saharan Africa,947,2020,14732802,Hombres
+  Northern Africa and Western Asia,1833,2020,20941050,Hombres
+  Central and Southern Asia,921,2020,31211577,Hombres
+  Eastern and South-Eastern Asia,1832,2020,18801912,Hombres
+  Latin America and the Caribbean,1830,2020,20697275,Hombres
+  Oceania (excluding Australia and New Zealand),1835,2020,273803,Hombres
+  Australia and New Zealand,927,2020,693842,Hombres
+  Europe and Northern America,1829,2020,31770385,Hombres
+  Developed regions,901,2020,32827157,Hombres
+  Less developed regions,902,2020,106295489,Hombres
+" Less developed regions, excluding least developed countries",934,2020,79492160,Hombres
+" Less developed regions, excluding China",948,2020,100946274,Hombres
+  Least developed countries,941,2020,26803329,Hombres
+  Land-locked Developing Countries (LLDC),1636,2020,18147434,Hombres
+  Small island developing States (SIDS),1637,2020,5417850,Hombres
+  High-income countries,1503,2020,25556460,Hombres
+  Middle-income countries,1517,2020,92895832,Hombres
+ Upper-middle-income countries,1502,2020,42001984,Hombres
+ Lower-middle-income countries,1501,2020,50893848,Hombres
+  Low-income countries,1500,2020,20512220,Hombres
+ AFRICA,903,2020,21729832,Hombres
+  Eastern Africa,910,2020,6136440,Hombres
+   Burundi,108,2020,274913,Hombres
+   Comoros,174,2020,73002,Hombres
+   Djibouti,262,2020,9293,Hombres
+   Eritrea,232,2020,422881,Hombres
+   Ethiopia,231,2020,510262,Hombres
+   Kenya,404,2020,252759,Hombres
+   Madagascar,450,2020,74976,Hombres
+   Malawi,454,2020,185426,Hombres
+   Mauritius*,480,2020,82790,Hombres
+   Mayotte*,175,2020,3305,Hombres
+   Mozambique,508,2020,385940,Hombres
+   Réunion*,638,2020,1189,Hombres
+   Rwanda,646,2020,241187,Hombres
+   Seychelles,690,2020,12624,Hombres
+   Somalia,706,2020,1064786,Hombres
+   South Sudan,728,2020,1271104,Hombres
+   Uganda,800,2020,372735,Hombres
+   United Republic of Tanzania*,834,2020,162475,Hombres
+   Zambia,894,2020,93621,Hombres
+   Zimbabwe,716,2020,641172,Hombres
+  Middle Africa,911,2020,2223566,Hombres
+   Angola,24,2020,334386,Hombres
+   Cameroon,120,2020,219379,Hombres
+   Central African Republic,140,2020,409486,Hombres
+   Chad,148,2020,119894,Hombres
+   Congo,178,2020,113453,Hombres
+   Democratic Republic of the Congo,180,2020,916179,Hombres
+   Equatorial Guinea,226,2020,68753,Hombres
+   Gabon,266,2020,23205,Hombres
+   Sao Tome and Principe,678,2020,18831,Hombres
+  Northern Africa,912,2020,6997030,Hombres
+   Algeria,12,2020,1085651,Hombres
+   Egypt,818,2020,2341886,Hombres
+   Libya,434,2020,101126,Hombres
+   Morocco,504,2020,1707428,Hombres
+   Sudan,729,2020,1155684,Hombres
+   Tunisia,788,2020,502404,Hombres
+   Western Sahara,732,2020,102851,Hombres
+  Southern Africa,913,2020,628886,Hombres
+   Botswana,72,2020,39730,Hombres
+   Eswatini,748,2020,24339,Hombres
+   Lesotho,426,2020,89567,Hombres
+   Namibia,516,2020,23612,Hombres
+   South Africa,710,2020,451638,Hombres
+  Western Africa,914,2020,5743910,Hombres
+   Benin,204,2020,365338,Hombres
+   Burkina Faso,854,2020,894339,Hombres
+   Cabo Verde,132,2020,85032,Hombres
+   Côte d'Ivoire,384,2020,571219,Hombres
+   Gambia,270,2020,93414,Hombres
+   Ghana,288,2020,529432,Hombres
+   Guinea,324,2020,312062,Hombres
+   Guinea-Bissau,624,2020,60632,Hombres
+   Liberia,430,2020,116235,Hombres
+   Mali,466,2020,742057,Hombres
+   Mauritania,478,2020,80059,Hombres
+   Niger,562,2020,236316,Hombres
+   Nigeria,566,2020,877687,Hombres
+   Saint Helena*,654,2020,1981,Hombres
+   Senegal,686,2020,430442,Hombres
+   Sierra Leone,694,2020,76143,Hombres
+   Togo,768,2020,271522,Hombres
+ ASIA,935,2020,63957509,Hombres
+  Central Asia,5500,2020,3807379,Hombres
+   Kazakhstan,398,2020,1934708,Hombres
+   Kyrgyzstan,417,2020,368266,Hombres
+   Tajikistan,762,2020,337393,Hombres
+   Turkmenistan,795,2020,115596,Hombres
+   Uzbekistan,860,2020,1051416,Hombres
+  Eastern Asia,906,2020,6898164,Hombres
+   China*,156,2020,4768512,Hombres
+"   China, Hong Kong SAR*",344,2020,516106,Hombres
+"   China, Macao SAR*",446,2020,64597,Hombres
+"   China, Taiwan Province of China*",158,2020,0,Hombres
+   Dem. People's Republic of Korea,408,2020,58162,Hombres
+   Japan,392,2020,362930,Hombres
+   Mongolia,496,2020,39366,Hombres
+   Republic of Korea,410,2020,1088491,Hombres
+  South-Eastern Asia,920,2020,11903748,Hombres
+   Brunei Darussalam,96,2020,25825,Hombres
+   Cambodia,116,2020,513004,Hombres
+   Indonesia,360,2020,2560770,Hombres
+   Lao People's Democratic Republic,418,2020,571192,Hombres
+   Malaysia*,458,2020,805157,Hombres
+   Myanmar,104,2020,2323899,Hombres
+   Philippines,608,2020,2804967,Hombres
+   Singapore,702,2020,166831,Hombres
+   Thailand,764,2020,423456,Hombres
+   Timor-Leste,626,2020,21796,Hombres
+   Viet Nam,704,2020,1686851,Hombres
+  Southern Asia,5501,2020,27404198,Hombres
+   Afghanistan,4,2020,3226319,Hombres
+   Bangladesh,50,2020,4971930,Hombres
+   Bhutan,64,2020,26295,Hombres
+   India,356,2020,11732041,Hombres
+   Iran (Islamic Republic of),364,2020,708864,Hombres
+   Maldives,462,2020,1745,Hombres
+   Nepal,524,2020,1461696,Hombres
+   Pakistan,586,2020,4147071,Hombres
+   Sri Lanka,144,2020,1128237,Hombres
+  Western Asia,922,2020,13944020,Hombres
+   Armenia,51,2020,513437,Hombres
+   Azerbaijan*,31,2020,623400,Hombres
+   Bahrain,48,2020,23771,Hombres
+   Cyprus*,196,2020,83014,Hombres
+   Georgia*,268,2020,428794,Hombres
+   Iraq,368,2020,1038010,Hombres
+   Israel,376,2020,185213,Hombres
+   Jordan,400,2020,516954,Hombres
+   Kuwait,414,2020,129614,Hombres
+   Lebanon,422,2020,506899,Hombres
+   Oman,512,2020,13574,Hombres
+   Qatar,634,2020,13145,Hombres
+   Saudi Arabia,682,2020,165183,Hombres
+   State of Palestine*,275,2020,2112254,Hombres
+   Syrian Arab Republic,760,2020,4869975,Hombres
+   Turkey,792,2020,1766026,Hombres
+   United Arab Emirates,784,2020,107455,Hombres
+   Yemen,887,2020,847302,Hombres
+ EUROPE,908,2020,29748898,Hombres
+  Eastern Europe,923,2020,14468129,Hombres
+   Belarus,112,2020,630018,Hombres
+   Bulgaria,100,2020,692856,Hombres
+   Czechia,203,2020,436228,Hombres
+   Hungary,348,2020,352495,Hombres
+   Poland,616,2020,2298995,Hombres
+   Republic of Moldova*,498,2020,554320,Hombres
+   Romania,642,2020,1874015,Hombres
+   Russian Federation,643,2020,4655021,Hombres
+   Slovakia,703,2020,195564,Hombres
+   Ukraine*,804,2020,2778617,Hombres
+  Northern Europe,924,2020,3820591,Hombres
+   Channel Islands*,830,2020,8836,Hombres
+   Denmark*,208,2020,122100,Hombres
+   Estonia,233,2020,91437,Hombres
+   Faroe Islands*,234,2020,5511,Hombres
+   Finland*,246,2020,123798,Hombres
+   Iceland,352,2020,21173,Hombres
+   Ireland,372,2020,341607,Hombres
+   Isle of Man*,833,2020,5816,Hombres
+   Latvia,428,2020,172595,Hombres
+   Lithuania,440,2020,288652,Hombres
+   Norway*,578,2020,82789,Hombres
+   Sweden,752,2020,147538,Hombres
+   United Kingdom*,826,2020,2408739,Hombres
+  Southern Europe,925,2020,7109579,Hombres
+   Albania,8,2020,642626,Hombres
+   Andorra,20,2020,5302,Hombres
+   Bosnia and Herzegovina,70,2020,820732,Hombres
+   Croatia,191,2020,495533,Hombres
+   Gibraltar*,292,2020,6434,Hombres
+   Greece,300,2020,567041,Hombres
+   Holy See*,336,2020,71,Hombres
+   Italy,380,2020,1757002,Hombres
+   Malta,470,2020,51684,Hombres
+   Montenegro,499,2020,61547,Hombres
+   North Macedonia,807,2020,357739,Hombres
+   Portugal,620,2020,1074098,Hombres
+   San Marino,674,2020,986,Hombres
+   Serbia*,688,2020,497564,Hombres
+   Slovenia,705,2020,73387,Hombres
+   Spain*,724,2020,697833,Hombres
+  Western Europe,926,2020,4350599,Hombres
+   Austria,40,2020,281323,Hombres
+   Belgium,56,2020,276754,Hombres
+   France*,250,2020,1139109,Hombres
+   Germany,276,2020,1784487,Hombres
+   Liechtenstein,438,2020,1655,Hombres
+   Luxembourg,442,2020,40460,Hombres
+   Monaco,492,2020,15473,Hombres
+   Netherlands*,528,2020,484739,Hombres
+   Switzerland,756,2020,326599,Hombres
+ LATIN AMERICA AND THE CARIBBEAN,904,2020,20697275,Hombres
+  Caribbean,915,2020,4252967,Hombres
+   Anguilla*,660,2020,1293,Hombres
+   Antigua and Barbuda,28,2020,29948,Hombres
+   Aruba*,533,2020,9326,Hombres
+   Bahamas,44,2020,22329,Hombres
+   Barbados,52,2020,45906,Hombres
+"   Bonaire, Sint Eustatius and Saba*",535,2020,3657,Hombres
+   British Virgin Islands*,92,2020,2343,Hombres
+   Cayman Islands*,136,2020,863,Hombres
+   Cuba,192,2020,822706,Hombres
+   Curaçao*,531,2020,3800,Hombres
+   Dominica,212,2020,32456,Hombres
+   Dominican Republic,214,2020,664406,Hombres
+   Grenada,308,2020,27572,Hombres
+   Guadeloupe*,312,2020,4953,Hombres
+   Haiti,332,2020,964896,Hombres
+   Jamaica,388,2020,475022,Hombres
+   Martinique*,474,2020,5623,Hombres
+   Montserrat*,500,2020,10680,Hombres
+   Puerto Rico*,630,2020,905682,Hombres
+   Saint Barthélemy*,652,2020,0,Hombres
+   Saint Kitts and Nevis,659,2020,22359,Hombres
+   Saint Lucia,662,2020,29632,Hombres
+   Saint Martin (French part)*,663,2020,0,Hombres
+   Saint Vincent and the Grenadines,670,2020,25768,Hombres
+   Sint Maarten (Dutch part)*,534,2020,1065,Hombres
+   Trinidad and Tobago,780,2020,137377,Hombres
+   Turks and Caicos Islands*,796,2020,1136,Hombres
+   United States Virgin Islands*,850,2020,2169,Hombres
+  Central America,916,2020,8312535,Hombres
+   Belize,84,2020,22097,Hombres
+   Costa Rica,188,2020,64129,Hombres
+   El Salvador,222,2020,794168,Hombres
+   Guatemala,320,2020,676642,Hombres
+   Honduras,340,2020,401073,Hombres
+   Mexico,484,2020,5947873,Hombres
+   Nicaragua,558,2020,338488,Hombres
+   Panama,591,2020,68065,Hombres
+  South America,931,2020,8131773,Hombres
+   Argentina,32,2020,525891,Hombres
+   Bolivia (Plurinational State of),68,2020,435335,Hombres
+   Brazil,76,2020,801922,Hombres
+   Chile,152,2020,306204,Hombres
+   Colombia,170,2020,1376442,Hombres
+   Ecuador,218,2020,531506,Hombres
+   Falkland Islands (Malvinas)*,238,2020,636,Hombres
+   French Guiana*,254,2020,1904,Hombres
+   Guyana,328,2020,201232,Hombres
+   Paraguay,600,2020,384808,Hombres
+   Peru,604,2020,665107,Hombres
+   Suriname,740,2020,120783,Hombres
+   Uruguay,858,2020,174801,Hombres
+   Venezuela (Bolivarian Republic of),862,2020,2605202,Hombres
+ NORTHERN AMERICA,905,2020,2021487,Hombres
+   Bermuda*,60,2020,10312,Hombres
+   Canada,124,2020,499038,Hombres
+   Greenland*,304,2020,7658,Hombres
+   Saint Pierre and Miquelon*,666,2020,242,Hombres
+   United States of America*,840,2020,1504237,Hombres
+ OCEANIA ,909,2020,967645,Hombres
+  Australia and New Zealand,927,2020,693842,Hombres
+   Australia*,36,2020,287109,Hombres
+   New Zealand*,554,2020,406733,Hombres
+  Melanesia,928,2020,121526,Hombres
+   Fiji,242,2020,110816,Hombres
+   New Caledonia*,540,2020,2855,Hombres
+   Papua New Guinea,598,2020,2353,Hombres
+   Solomon Islands,90,2020,2072,Hombres
+   Vanuatu,548,2020,3430,Hombres
+  Micronesia,954,2020,25179,Hombres
+   Guam*,316,2020,1007,Hombres
+   Kiribati,296,2020,2495,Hombres
+   Marshall Islands,584,2020,5315,Hombres
+   Micronesia (Fed. States of),583,2020,12361,Hombres
+   Nauru,520,2020,1214,Hombres
+   Northern Mariana Islands*,580,2020,1401,Hombres
+   Palau,585,2020,1386,Hombres
+  Polynesia*,957,2020,127098,Hombres
+   American Samoa*,16,2020,924,Hombres
+   Cook Islands*,184,2020,10453,Hombres
+   French Polynesia*,258,2020,1187,Hombres
+   Niue*,570,2020,2555,Hombres
+   Samoa,882,2020,66671,Hombres
+   Tokelau*,772,2020,1068,Hombres
+   Tonga,776,2020,36751,Hombres
+   Tuvalu,798,2020,1816,Hombres
+   Wallis and Futuna Islands*,876,2020,5673,Hombres
+OTHER,2003,2020,6533198,Hombres
+WORLD,900,1990,75422690,Mujeres
+  Sub-Saharan Africa,947,1990,7197963,Mujeres
+  Northern Africa and Western Asia,1833,1990,7535205,Mujeres
+  Central and Southern Asia,921,1990,14049348,Mujeres
+  Eastern and South-Eastern Asia,1832,1990,7359668,Mujeres
+  Latin America and the Caribbean,1830,1990,7728710,Mujeres
+  Oceania (excluding Australia and New Zealand),1835,1990,138894,Mujeres
+  Australia and New Zealand,927,1990,353679,Mujeres
+  Europe and Northern America,1829,1990,26827879,Mujeres
+  Developed regions,901,1990,27487262,Mujeres
+  Less developed regions,902,1990,43704084,Mujeres
+" Less developed regions, excluding least developed countries",934,1990,30123697,Mujeres
+" Less developed regions, excluding China",948,1990,41348697,Mujeres
+  Least developed countries,941,1990,13580387,Mujeres
+  Land-locked Developing Countries (LLDC),1636,1990,12207376,Mujeres
+  Small island developing States (SIDS),1637,1990,2847230,Mujeres
+  High-income countries,1503,1990,17618279,Mujeres
+  Middle-income countries,1517,1990,43669259,Mujeres
+ Upper-middle-income countries,1502,1990,23751382,Mujeres
+ Lower-middle-income countries,1501,1990,19917877,Mujeres
+  Low-income countries,1500,1990,9794055,Mujeres
+ AFRICA,903,1990,9405618,Mujeres
+  Eastern Africa,910,1990,3727757,Mujeres
+   Burundi,108,1990,163208,Mujeres
+   Comoros,174,1990,18019,Mujeres
+   Djibouti,262,1990,2418,Mujeres
+   Eritrea,232,1990,80985,Mujeres
+   Ethiopia,231,1990,833647,Mujeres
+   Kenya,404,1990,127288,Mujeres
+   Madagascar,450,1990,33824,Mujeres
+   Malawi,454,1990,58994,Mujeres
+   Mauritius*,480,1990,59243,Mujeres
+   Mayotte*,175,1990,849,Mujeres
+   Mozambique,508,1990,1020308,Mujeres
+   Réunion*,638,1990,1516,Mujeres
+   Rwanda,646,1990,270885,Mujeres
+   Seychelles,690,1990,18412,Mujeres
+   Somalia,706,1990,399204,Mujeres
+   South Sudan,728,1990,248149,Mujeres
+   Uganda,800,1990,153726,Mujeres
+   United Republic of Tanzania*,834,1990,95871,Mujeres
+   Zambia,894,1990,42603,Mujeres
+   Zimbabwe,716,1990,98608,Mujeres
+  Middle Africa,911,1990,963516,Mujeres
+   Angola,24,1990,419421,Mujeres
+   Cameroon,120,1990,55777,Mujeres
+   Central African Republic,140,1990,22152,Mujeres
+   Chad,148,1990,168697,Mujeres
+   Congo,178,1990,44855,Mujeres
+   Democratic Republic of the Congo,180,1990,219303,Mujeres
+   Equatorial Guinea,226,1990,18467,Mujeres
+   Gabon,266,1990,7615,Mujeres
+   Sao Tome and Principe,678,1990,7229,Mujeres
+  Northern Africa,912,1990,2207655,Mujeres
+   Algeria,12,1990,400363,Mujeres
+   Egypt,818,1990,499127,Mujeres
+   Libya,434,1990,36158,Mujeres
+   Morocco,504,1990,763517,Mujeres
+   Sudan,729,1990,248809,Mujeres
+   Tunisia,788,1990,184098,Mujeres
+   Western Sahara,732,1990,75583,Mujeres
+  Southern Africa,913,1990,226519,Mujeres
+   Botswana,72,1990,6815,Mujeres
+   Eswatini,748,1990,9590,Mujeres
+   Lesotho,426,1990,45418,Mujeres
+   Namibia,516,1990,6717,Mujeres
+   South Africa,710,1990,157979,Mujeres
+  Western Africa,914,1990,2280171,Mujeres
+   Benin,204,1990,107062,Mujeres
+   Burkina Faso,854,1990,448036,Mujeres
+   Cabo Verde,132,1990,48682,Mujeres
+   Côte d'Ivoire,384,1990,180707,Mujeres
+   Gambia,270,1990,15472,Mujeres
+   Ghana,288,1990,183782,Mujeres
+   Guinea,324,1990,151233,Mujeres
+   Guinea-Bissau,624,1990,27977,Mujeres
+   Liberia,430,1990,256239,Mujeres
+   Mali,466,1990,286885,Mujeres
+   Mauritania,478,1990,59311,Mujeres
+   Niger,562,1990,54991,Mujeres
+   Nigeria,566,1990,191396,Mujeres
+   Saint Helena*,654,1990,498,Mujeres
+   Senegal,686,1990,139426,Mujeres
+   Sierra Leone,694,1990,29886,Mujeres
+   Togo,768,1990,98588,Mujeres
+ ASIA,935,1990,26736566,Mujeres
+  Central Asia,5500,1990,2962145,Mujeres
+   Kazakhstan,398,1990,1544153,Mujeres
+   Kyrgyzstan,417,1990,269937,Mujeres
+   Tajikistan,762,1990,273274,Mujeres
+   Turkmenistan,795,1990,132576,Mujeres
+   Uzbekistan,860,1990,742205,Mujeres
+  Eastern Asia,906,1990,3460551,Mujeres
+   China*,156,1990,2034060,Mujeres
+"   China, Hong Kong SAR*",344,1990,278229,Mujeres
+"   China, Macao SAR*",446,1990,43098,Mujeres
+"   China, Taiwan Province of China*",158,1990,0,Mujeres
+   Dem. People's Republic of Korea,408,1990,20327,Mujeres
+   Japan,392,1990,305704,Mujeres
+   Mongolia,496,1990,12704,Mujeres
+   Republic of Korea,410,1990,766429,Mujeres
+  South-Eastern Asia,920,1990,3899117,Mujeres
+   Brunei Darussalam,96,1990,10718,Mujeres
+   Cambodia,116,1990,180679,Mujeres
+   Indonesia,360,1990,674001,Mujeres
+   Lao People's Democratic Republic,418,1990,245696,Mujeres
+   Malaysia*,458,1990,285001,Mujeres
+   Myanmar,104,1990,309200,Mujeres
+   Philippines,608,1990,1185865,Mujeres
+   Singapore,702,1990,81895,Mujeres
+   Thailand,764,1990,185853,Mujeres
+   Timor-Leste,626,1990,5340,Mujeres
+   Viet Nam,704,1990,734869,Mujeres
+  Southern Asia,5501,1990,11087203,Mujeres
+   Afghanistan,4,1990,3546350,Mujeres
+   Bangladesh,50,1990,2287989,Mujeres
+   Bhutan,64,1990,14540,Mujeres
+   India,356,1990,2812985,Mujeres
+   Iran (Islamic Republic of),364,1990,269045,Mujeres
+   Maldives,462,1990,495,Mujeres
+   Nepal,524,1990,358761,Mujeres
+   Pakistan,586,1990,1371772,Mujeres
+   Sri Lanka,144,1990,425266,Mujeres
+  Western Asia,922,1990,5327550,Mujeres
+   Armenia,51,1990,462865,Mujeres
+   Azerbaijan*,31,1990,866252,Mujeres
+   Bahrain,48,1990,6699,Mujeres
+   Cyprus*,196,1990,83641,Mujeres
+   Georgia*,268,1990,472938,Mujeres
+   Iraq,368,1990,299805,Mujeres
+   Israel,376,1990,141360,Mujeres
+   Jordan,400,1990,126435,Mujeres
+   Kuwait,414,1990,36364,Mujeres
+   Lebanon,422,1990,216044,Mujeres
+   Oman,512,1990,6073,Mujeres
+   Qatar,634,1990,6157,Mujeres
+   Saudi Arabia,682,1990,49361,Mujeres
+   State of Palestine*,275,1990,924577,Mujeres
+   Syrian Arab Republic,760,1990,265703,Mujeres
+   Turkey,792,1990,1163269,Mujeres
+   United Arab Emirates,784,1990,34828,Mujeres
+   Yemen,887,1990,165179,Mujeres
+ EUROPE,908,1990,25291380,Mujeres
+  Eastern Europe,923,1990,13550943,Mujeres
+   Belarus,112,1990,952053,Mujeres
+   Bulgaria,100,1990,312610,Mujeres
+   Czechia,203,1990,292321,Mujeres
+   Hungary,348,1990,195024,Mujeres
+   Poland,616,1990,910509,Mujeres
+   Republic of Moldova*,498,1990,335071,Mujeres
+   Romania,642,1990,435063,Mujeres
+   Russian Federation,643,1990,7140383,Mujeres
+   Slovakia,703,1990,67062,Mujeres
+   Ukraine*,804,1990,2910847,Mujeres
+  Northern Europe,924,1990,3268068,Mujeres
+   Channel Islands*,830,1990,9971,Mujeres
+   Denmark*,208,1990,110006,Mujeres
+   Estonia,233,1990,59566,Mujeres
+   Faroe Islands*,234,1990,4529,Mujeres
+   Finland*,246,1990,148777,Mujeres
+   Iceland,352,1990,8984,Mujeres
+   Ireland,372,1990,503978,Mujeres
+   Isle of Man*,833,1990,5637,Mujeres
+   Latvia,428,1990,115153,Mujeres
+   Lithuania,440,1990,188405,Mujeres
+   Norway*,578,1990,78517,Mujeres
+   Sweden,752,1990,118537,Mujeres
+   United Kingdom*,826,1990,1916008,Mujeres
+  Southern Europe,925,1990,5197043,Mujeres
+   Albania,8,1990,70790,Mujeres
+   Andorra,20,1990,2003,Mujeres
+   Bosnia and Herzegovina,70,1990,434393,Mujeres
+   Croatia,191,1990,211435,Mujeres
+   Gibraltar*,292,1990,6319,Mujeres
+   Greece,300,1990,488712,Mujeres
+   Holy See*,336,1990,5,Mujeres
+   Italy,380,1990,1611594,Mujeres
+   Malta,470,1990,54248,Mujeres
+   Montenegro,499,1990,38565,Mujeres
+   North Macedonia,807,1990,215073,Mujeres
+   Portugal,620,1990,907691,Mujeres
+   San Marino,674,1990,845,Mujeres
+   Serbia*,688,1990,348680,Mujeres
+   Slovenia,705,1990,51491,Mujeres
+   Spain*,724,1990,755199,Mujeres
+  Western Europe,926,1990,3275326,Mujeres
+   Austria,40,1990,270895,Mujeres
+   Belgium,56,1990,207488,Mujeres
+   France*,250,1990,643356,Mujeres
+   Germany,276,1990,1588365,Mujeres
+   Liechtenstein,438,1990,1979,Mujeres
+   Luxembourg,442,1990,17566,Mujeres
+   Monaco,492,1990,2220,Mujeres
+   Netherlands*,528,1990,363077,Mujeres
+   Switzerland,756,1990,180380,Mujeres
+ LATIN AMERICA AND THE CARIBBEAN,904,1990,7728710,Mujeres
+  Caribbean,915,1990,2166251,Mujeres
+   Anguilla*,660,1990,879,Mujeres
+   Antigua and Barbuda,28,1990,11726,Mujeres
+   Aruba*,533,1990,3281,Mujeres
+   Bahamas,44,1990,14531,Mujeres
+   Barbados,52,1990,44666,Mujeres
+"   Bonaire, Sint Eustatius and Saba*",535,1990,219,Mujeres
+   British Virgin Islands*,92,1990,1754,Mujeres
+   Cayman Islands*,136,1990,169,Mujeres
+   Cuba,192,1990,436142,Mujeres
+   Curaçao*,531,1990,1079,Mujeres
+   Dominica,212,1990,21987,Mujeres
+   Dominican Republic,214,1990,261853,Mujeres
+   Grenada,308,1990,23638,Mujeres
+   Guadeloupe*,312,1990,3207,Mujeres
+   Haiti,332,1990,232024,Mujeres
+   Jamaica,388,1990,320505,Mujeres
+   Martinique*,474,1990,5429,Mujeres
+   Montserrat*,500,1990,3815,Mujeres
+   Puerto Rico*,630,1990,625666,Mujeres
+   Saint Barthélemy*,652,1990,0,Mujeres
+   Saint Kitts and Nevis,659,1990,9916,Mujeres
+   Saint Lucia,662,1990,11949,Mujeres
+   Saint Martin (French part)*,663,1990,0,Mujeres
+   Saint Vincent and the Grenadines,670,1990,19121,Mujeres
+   Sint Maarten (Dutch part)*,534,1990,363,Mujeres
+   Trinidad and Tobago,780,1990,109869,Mujeres
+   Turks and Caicos Islands*,796,1990,1304,Mujeres
+   United States Virgin Islands*,850,1990,1159,Mujeres
+  Central America,916,1990,3283815,Mujeres
+   Belize,84,1990,21017,Mujeres
+   Costa Rica,188,1990,40231,Mujeres
+   El Salvador,222,1990,633376,Mujeres
+   Guatemala,320,1990,172375,Mujeres
+   Honduras,340,1990,89578,Mujeres
+   Mexico,484,1990,2037244,Mujeres
+   Nicaragua,558,1990,221984,Mujeres
+   Panama,591,1990,68010,Mujeres
+  South America,931,1990,2278644,Mujeres
+   Argentina,32,1990,226575,Mujeres
+   Bolivia (Plurinational State of),68,1990,109247,Mujeres
+   Brazil,76,1990,269965,Mujeres
+   Chile,152,1990,244595,Mujeres
+   Colombia,170,1990,550509,Mujeres
+   Ecuador,218,1990,108362,Mujeres
+   Falkland Islands (Malvinas)*,238,1990,116,Mujeres
+   French Guiana*,254,1990,1590,Mujeres
+   Guyana,328,1990,122727,Mujeres
+   Paraguay,600,1990,166268,Mujeres
+   Peru,604,1990,163773,Mujeres
+   Suriname,740,1990,91247,Mujeres
+   Uruguay,858,1990,120987,Mujeres
+   Venezuela (Bolivarian Republic of),862,1990,102683,Mujeres
+ NORTHERN AMERICA,905,1990,1536499,Mujeres
+   Bermuda*,60,1990,36990,Mujeres
+   Canada,124,1990,629424,Mujeres
+   Greenland*,304,1990,5733,Mujeres
+   Saint Pierre and Miquelon*,666,1990,245,Mujeres
+   United States of America*,840,1990,864107,Mujeres
+ OCEANIA ,909,1990,492573,Mujeres
+  Australia and New Zealand,927,1990,353679,Mujeres
+   Australia*,36,1990,161777,Mujeres
+   New Zealand*,554,1990,191902,Mujeres
+  Melanesia,928,1990,53683,Mujeres
+   Fiji,242,1990,46535,Mujeres
+   New Caledonia*,540,1990,2221,Mujeres
+   Papua New Guinea,598,1990,1537,Mujeres
+   Solomon Islands,90,1990,1078,Mujeres
+   Vanuatu,548,1990,2312,Mujeres
+  Micronesia,954,1990,10993,Mujeres
+   Guam*,316,1990,682,Mujeres
+   Kiribati,296,1990,2116,Mujeres
+   Marshall Islands,584,1990,719,Mujeres
+   Micronesia (Fed. States of),583,1990,3778,Mujeres
+   Nauru,520,1990,792,Mujeres
+   Northern Mariana Islands*,580,1990,1318,Mujeres
+   Palau,585,1990,1588,Mujeres
+  Polynesia*,957,1990,74218,Mujeres
+   American Samoa*,16,1990,992,Mujeres
+   Cook Islands*,184,1990,9108,Mujeres
+   French Polynesia*,258,1990,1549,Mujeres
+   Niue*,570,1990,3026,Mujeres
+   Samoa,882,1990,38259,Mujeres
+   Tokelau*,772,1990,848,Mujeres
+   Tonga,776,1990,16469,Mujeres
+   Tuvalu,798,1990,1147,Mujeres
+   Wallis and Futuna Islands*,876,1990,2820,Mujeres
+OTHER,2003,1990,4231344,Mujeres
+WORLD,900,1995,79708475,Mujeres
+  Sub-Saharan Africa,947,1995,7811167,Mujeres
+  Northern Africa and Western Asia,1833,1995,8240176,Mujeres
+  Central and Southern Asia,921,1995,13027520,Mujeres
+  Eastern and South-Eastern Asia,1832,1995,8999164,Mujeres
+  Latin America and the Caribbean,1830,1995,9943541,Mujeres
+  Oceania (excluding Australia and New Zealand),1835,1995,160703,Mujeres
+  Australia and New Zealand,927,1995,391525,Mujeres
+  Europe and Northern America,1829,1995,27433406,Mujeres
+  Developed regions,901,1995,28158769,Mujeres
+  Less developed regions,902,1995,47848433,Mujeres
+" Less developed regions, excluding least developed countries",934,1995,35037054,Mujeres
+" Less developed regions, excluding China",948,1995,45014671,Mujeres
+  Least developed countries,941,1995,12811379,Mujeres
+  Land-locked Developing Countries (LLDC),1636,1995,11652173,Mujeres
+  Small island developing States (SIDS),1637,1995,3487257,Mujeres
+  High-income countries,1503,1995,18538014,Mujeres
+  Middle-income countries,1517,1995,48578813,Mujeres
+ Upper-middle-income countries,1502,1995,27189324,Mujeres
+ Lower-middle-income countries,1501,1995,21389489,Mujeres
+  Low-income countries,1500,1995,8773978,Mujeres
+ AFRICA,903,1995,10267916,Mujeres
+  Eastern Africa,910,1995,3732528,Mujeres
+   Burundi,108,1995,263134,Mujeres
+   Comoros,174,1995,23421,Mujeres
+   Djibouti,262,1995,3060,Mujeres
+   Eritrea,232,1995,177844,Mujeres
+   Ethiopia,231,1995,403406,Mujeres
+   Kenya,404,1995,142297,Mujeres
+   Madagascar,450,1995,38713,Mujeres
+   Malawi,454,1995,61953,Mujeres
+   Mauritius*,480,1995,62126,Mujeres
+   Mayotte*,175,1995,1989,Mujeres
+   Mozambique,508,1995,327422,Mujeres
+   Réunion*,638,1995,1366,Mujeres
+   Rwanda,646,1995,1038889,Mujeres
+   Seychelles,690,1995,14527,Mujeres
+   Somalia,706,1995,461138,Mujeres
+   South Sudan,728,1995,204343,Mujeres
+   Uganda,800,1995,184091,Mujeres
+   United Republic of Tanzania*,834,1995,109709,Mujeres
+   Zambia,894,1995,73159,Mujeres
+   Zimbabwe,716,1995,139941,Mujeres
+  Middle Africa,911,1995,923898,Mujeres
+   Angola,24,1995,343818,Mujeres
+   Cameroon,120,1995,67061,Mujeres
+   Central African Republic,140,1995,24170,Mujeres
+   Chad,148,1995,110130,Mujeres
+   Congo,178,1995,54866,Mujeres
+   Democratic Republic of the Congo,180,1995,281515,Mujeres
+   Equatorial Guinea,226,1995,23941,Mujeres
+   Gabon,266,1995,8287,Mujeres
+   Sao Tome and Principe,678,1995,10110,Mujeres
+  Northern Africa,912,1995,2456749,Mujeres
+   Algeria,12,1995,429431,Mujeres
+   Egypt,818,1995,541352,Mujeres
+   Libya,434,1995,36623,Mujeres
+   Morocco,504,1995,843549,Mujeres
+   Sudan,729,1995,335549,Mujeres
+   Tunisia,788,1995,194961,Mujeres
+   Western Sahara,732,1995,75284,Mujeres
+  Southern Africa,913,1995,271227,Mujeres
+   Botswana,72,1995,7631,Mujeres
+   Eswatini,748,1995,10493,Mujeres
+   Lesotho,426,1995,42491,Mujeres
+   Namibia,516,1995,13246,Mujeres
+   South Africa,710,1995,197366,Mujeres
+  Western Africa,914,1995,2883514,Mujeres
+   Benin,204,1995,126927,Mujeres
+   Burkina Faso,854,1995,534295,Mujeres
+   Cabo Verde,132,1995,56577,Mujeres
+   Côte d'Ivoire,384,1995,220918,Mujeres
+   Gambia,270,1995,16237,Mujeres
+   Ghana,288,1995,212256,Mujeres
+   Guinea,324,1995,158119,Mujeres
+   Guinea-Bissau,624,1995,33011,Mujeres
+   Liberia,430,1995,274705,Mujeres
+   Mali,466,1995,368784,Mujeres
+   Mauritania,478,1995,66449,Mujeres
+   Niger,562,1995,65690,Mujeres
+   Nigeria,566,1995,222381,Mujeres
+   Saint Helena*,654,1995,1320,Mujeres
+   Senegal,686,1995,137523,Mujeres
+   Sierra Leone,694,1995,227586,Mujeres
+   Togo,768,1995,160736,Mujeres
+ ASIA,935,1995,27810111,Mujeres
+  Central Asia,5500,1995,3181190,Mujeres
+   Kazakhstan,398,1995,1737963,Mujeres
+   Kyrgyzstan,417,1995,283979,Mujeres
+   Tajikistan,762,1995,265717,Mujeres
+   Turkmenistan,795,1995,124005,Mujeres
+   Uzbekistan,860,1995,769526,Mujeres
+  Eastern Asia,906,1995,4058047,Mujeres
+   China*,156,1995,2475118,Mujeres
+"   China, Hong Kong SAR*",344,1995,313702,Mujeres
+"   China, Macao SAR*",446,1995,44942,Mujeres
+"   China, Taiwan Province of China*",158,1995,0,Mujeres
+   Dem. People's Republic of Korea,408,1995,27317,Mujeres
+   Japan,392,1995,333838,Mujeres
+   Mongolia,496,1995,14822,Mujeres
+   Republic of Korea,410,1995,848308,Mujeres
+  South-Eastern Asia,920,1995,4941117,Mujeres
+   Brunei Darussalam,96,1995,14017,Mujeres
+   Cambodia,116,1995,212335,Mujeres
+   Indonesia,360,1995,833946,Mujeres
+   Lao People's Democratic Republic,418,1995,277571,Mujeres
+   Malaysia*,458,1995,460043,Mujeres
+   Myanmar,104,1995,416837,Mujeres
+   Philippines,608,1995,1440029,Mujeres
+   Singapore,702,1995,88306,Mujeres
+   Thailand,764,1995,256093,Mujeres
+   Timor-Leste,626,1995,39216,Mujeres
+   Viet Nam,704,1995,902724,Mujeres
+  Southern Asia,5501,1995,9846330,Mujeres
+   Afghanistan,4,1995,1974495,Mujeres
+   Bangladesh,50,1995,2261760,Mujeres
+   Bhutan,64,1995,58116,Mujeres
+   India,356,1995,3039756,Mujeres
+   Iran (Islamic Republic of),364,1995,326976,Mujeres
+   Maldives,462,1995,472,Mujeres
+   Nepal,524,1995,402510,Mujeres
+   Pakistan,586,1995,1346722,Mujeres
+   Sri Lanka,144,1995,435523,Mujeres
+  Western Asia,922,1995,5783427,Mujeres
+   Armenia,51,1995,445500,Mujeres
+   Azerbaijan*,31,1995,869156,Mujeres
+   Bahrain,48,1995,12761,Mujeres
+   Cyprus*,196,1995,79801,Mujeres
+   Georgia*,268,1995,472450,Mujeres
+   Iraq,368,1995,341236,Mujeres
+   Israel,376,1995,146152,Mujeres
+   Jordan,400,1995,133451,Mujeres
+   Kuwait,414,1995,41523,Mujeres
+   Lebanon,422,1995,229081,Mujeres
+   Oman,512,1995,6616,Mujeres
+   Qatar,634,1995,6612,Mujeres
+   Saudi Arabia,682,1995,56707,Mujeres
+   State of Palestine*,275,1995,1145310,Mujeres
+   Syrian Arab Republic,760,1995,282104,Mujeres
+   Turkey,792,1995,1301075,Mujeres
+   United Arab Emirates,784,1995,40513,Mujeres
+   Yemen,887,1995,173379,Mujeres
+ EUROPE,908,1995,25819829,Mujeres
+  Eastern Europe,923,1995,13311350,Mujeres
+   Belarus,112,1995,956274,Mujeres
+   Bulgaria,100,1995,336473,Mujeres
+   Czechia,203,1995,330447,Mujeres
+   Hungary,348,1995,202745,Mujeres
+   Poland,616,1995,983415,Mujeres
+   Republic of Moldova*,498,1995,322162,Mujeres
+   Romania,642,1995,517245,Mujeres
+   Russian Federation,643,1995,6603260,Mujeres
+   Slovakia,703,1995,96414,Mujeres
+   Ukraine*,804,1995,2962915,Mujeres
+  Northern Europe,924,1995,3256622,Mujeres
+   Channel Islands*,830,1995,8149,Mujeres
+   Denmark*,208,1995,113046,Mujeres
+   Estonia,233,1995,69065,Mujeres
+   Faroe Islands*,234,1995,5890,Mujeres
+   Finland*,246,1995,172506,Mujeres
+   Iceland,352,1995,10999,Mujeres
+   Ireland,372,1995,478208,Mujeres
+   Isle of Man*,833,1995,4640,Mujeres
+   Latvia,428,1995,123578,Mujeres
+   Lithuania,440,1995,191627,Mujeres
+   Norway*,578,1995,85771,Mujeres
+   Sweden,752,1995,128615,Mujeres
+   United Kingdom*,826,1995,1864528,Mujeres
+  Southern Europe,925,1995,5861724,Mujeres
+   Albania,8,1995,219100,Mujeres
+   Andorra,20,1995,2203,Mujeres
+   Bosnia and Herzegovina,70,1995,703806,Mujeres
+   Croatia,191,1995,372266,Mujeres
+   Gibraltar*,292,1995,5241,Mujeres
+   Greece,300,1995,483622,Mujeres
+   Holy See*,336,1995,9,Mujeres
+   Italy,380,1995,1543857,Mujeres
+   Malta,470,1995,54315,Mujeres
+   Montenegro,499,1995,74123,Mujeres
+   North Macedonia,807,1995,246158,Mujeres
+   Portugal,620,1995,934396,Mujeres
+   San Marino,674,1995,1324,Mujeres
+   Serbia*,688,1995,433194,Mujeres
+   Slovenia,705,1995,61115,Mujeres
+   Spain*,724,1995,726995,Mujeres
+  Western Europe,926,1995,3390133,Mujeres
+   Austria,40,1995,262083,Mujeres
+   Belgium,56,1995,213358,Mujeres
+   France*,250,1995,707904,Mujeres
+   Germany,276,1995,1632010,Mujeres
+   Liechtenstein,438,1995,1714,Mujeres
+   Luxembourg,442,1995,18635,Mujeres
+   Monaco,492,1995,2396,Mujeres
+   Netherlands*,528,1995,365604,Mujeres
+   Switzerland,756,1995,186429,Mujeres
+ LATIN AMERICA AND THE CARIBBEAN,904,1995,9943541,Mujeres
+  Caribbean,915,1995,2688569,Mujeres
+   Anguilla*,660,1995,1050,Mujeres
+   Antigua and Barbuda,28,1995,14771,Mujeres
+   Aruba*,533,1995,3739,Mujeres
+   Bahamas,44,1995,16996,Mujeres
+   Barbados,52,1995,47189,Mujeres
+"   Bonaire, Sint Eustatius and Saba*",535,1995,266,Mujeres
+   British Virgin Islands*,92,1995,1906,Mujeres
+   Cayman Islands*,136,1995,431,Mujeres
+   Cuba,192,1995,488522,Mujeres
+   Curaçao*,531,1995,1439,Mujeres
+   Dominica,212,1995,23811,Mujeres
+   Dominican Republic,214,1995,383156,Mujeres
+   Grenada,308,1995,29549,Mujeres
+   Guadeloupe*,312,1995,3855,Mujeres
+   Haiti,332,1995,299506,Mujeres
+   Jamaica,388,1995,393961,Mujeres
+   Martinique*,474,1995,6458,Mujeres
+   Montserrat*,500,1995,6393,Mujeres
+   Puerto Rico*,630,1995,768026,Mujeres
+   Saint Barthélemy*,652,1995,0,Mujeres
+   Saint Kitts and Nevis,659,1995,13196,Mujeres
+   Saint Lucia,662,1995,16850,Mujeres
+   Saint Martin (French part)*,663,1995,0,Mujeres
+   Saint Vincent and the Grenadines,670,1995,23424,Mujeres
+   Sint Maarten (Dutch part)*,534,1995,468,Mujeres
+   Trinidad and Tobago,780,1995,141374,Mujeres
+   Turks and Caicos Islands*,796,1995,854,Mujeres
+   United States Virgin Islands*,850,1995,1379,Mujeres
+  Central America,916,1995,4401982,Mujeres
+   Belize,84,1995,24310,Mujeres
+   Costa Rica,188,1995,49354,Mujeres
+   El Salvador,222,1995,470099,Mujeres
+   Guatemala,320,1995,227085,Mujeres
+   Honduras,340,1995,140262,Mujeres
+   Mexico,484,1995,3202402,Mujeres
+   Nicaragua,558,1995,221310,Mujeres
+   Panama,591,1995,67160,Mujeres
+  South America,931,1995,2852990,Mujeres
+   Argentina,32,1995,251701,Mujeres
+   Bolivia (Plurinational State of),68,1995,139074,Mujeres
+   Brazil,76,1995,407474,Mujeres
+   Chile,152,1995,253225,Mujeres
+   Colombia,170,1995,659841,Mujeres
+   Ecuador,218,1995,166565,Mujeres
+   Falkland Islands (Malvinas)*,238,1995,424,Mujeres
+   French Guiana*,254,1995,1831,Mujeres
+   Guyana,328,1995,155452,Mujeres
+   Paraguay,600,1995,188819,Mujeres
+   Peru,604,1995,274041,Mujeres
+   Suriname,740,1995,100218,Mujeres
+   Uruguay,858,1995,119425,Mujeres
+   Venezuela (Bolivarian Republic of),862,1995,134900,Mujeres
+ NORTHERN AMERICA,905,1995,1613577,Mujeres
+   Bermuda*,60,1995,21882,Mujeres
+   Canada,124,1995,670494,Mujeres
+   Greenland*,304,1995,6809,Mujeres
+   Saint Pierre and Miquelon*,666,1995,231,Mujeres
+   United States of America*,840,1995,914161,Mujeres
+ OCEANIA ,909,1995,552228,Mujeres
+  Australia and New Zealand,927,1995,391525,Mujeres
+   Australia*,36,1995,184048,Mujeres
+   New Zealand*,554,1995,207477,Mujeres
+  Melanesia,928,1995,64079,Mujeres
+   Fiji,242,1995,55633,Mujeres
+   New Caledonia*,540,1995,2466,Mujeres
+   Papua New Guinea,598,1995,2024,Mujeres
+   Solomon Islands,90,1995,1261,Mujeres
+   Vanuatu,548,1995,2695,Mujeres
+  Micronesia,954,1995,14698,Mujeres
+   Guam*,316,1995,763,Mujeres
+   Kiribati,296,1995,2213,Mujeres
+   Marshall Islands,584,1995,2074,Mujeres
+   Micronesia (Fed. States of),583,1995,5988,Mujeres
+   Nauru,520,1995,813,Mujeres
+   Northern Mariana Islands*,580,1995,1373,Mujeres
+   Palau,585,1995,1474,Mujeres
+  Polynesia*,957,1995,81926,Mujeres
+   American Samoa*,16,1995,1273,Mujeres
+   Cook Islands*,184,1995,8860,Mujeres
+   French Polynesia*,258,1995,1870,Mujeres
+   Niue*,570,1995,2923,Mujeres
+   Samoa,882,1995,42111,Mujeres
+   Tokelau*,772,1995,910,Mujeres
+   Tonga,776,1995,19393,Mujeres
+   Tuvalu,798,1995,1358,Mujeres
+   Wallis and Futuna Islands*,876,1995,3228,Mujeres
+OTHER,2003,1995,3701273,Mujeres
+WORLD,900,2000,85510752,Mujeres
+  Sub-Saharan Africa,947,2000,7391439,Mujeres
+  Northern Africa and Western Asia,1833,2000,8700647,Mujeres
+  Central and Southern Asia,921,2000,13718322,Mujeres
+  Eastern and South-Eastern Asia,1832,2000,10940422,Mujeres
+  Latin America and the Caribbean,1830,2000,12446161,Mujeres
+  Oceania (excluding Australia and New Zealand),1835,2000,191857,Mujeres
+  Australia and New Zealand,927,2000,450533,Mujeres
+  Europe and Northern America,1829,2000,28201599,Mujeres
+  Developed regions,901,2000,29020262,Mujeres
+  Less developed regions,902,2000,53020718,Mujeres
+" Less developed regions, excluding least developed countries",934,2000,40317436,Mujeres
+" Less developed regions, excluding China",948,2000,49664535,Mujeres
+  Least developed countries,941,2000,12703282,Mujeres
+  Land-locked Developing Countries (LLDC),1636,2000,11152992,Mujeres
+  Small island developing States (SIDS),1637,2000,4185315,Mujeres
+  High-income countries,1503,2000,19873544,Mujeres
+  Middle-income countries,1517,2000,53834190,Mujeres
+ Upper-middle-income countries,1502,2000,30464291,Mujeres
+ Lower-middle-income countries,1501,2000,23369899,Mujeres
+  Low-income countries,1500,2000,8208137,Mujeres
+ AFRICA,903,2000,10094675,Mujeres
+  Eastern Africa,910,2000,2912688,Mujeres
+   Burundi,108,2000,370228,Mujeres
+   Comoros,174,2000,33544,Mujeres
+   Djibouti,262,2000,3854,Mujeres
+   Eritrea,232,2000,256053,Mujeres
+   Ethiopia,231,2000,206521,Mujeres
+   Kenya,404,2000,163226,Mujeres
+   Madagascar,450,2000,44771,Mujeres
+   Malawi,454,2000,76012,Mujeres
+   Mauritius*,480,2000,65697,Mujeres
+   Mayotte*,175,2000,3238,Mujeres
+   Mozambique,508,2000,253231,Mujeres
+   Réunion*,638,2000,1303,Mujeres
+   Rwanda,646,2000,160272,Mujeres
+   Seychelles,690,2000,10497,Mujeres
+   Somalia,706,2000,488438,Mujeres
+   South Sudan,728,2000,152302,Mujeres
+   Uganda,800,2000,263312,Mujeres
+   United Republic of Tanzania*,834,2000,106807,Mujeres
+   Zambia,894,2000,83072,Mujeres
+   Zimbabwe,716,2000,170310,Mujeres
+  Middle Africa,911,2000,1214513,Mujeres
+   Angola,24,2000,455330,Mujeres
+   Cameroon,120,2000,79197,Mujeres
+   Central African Republic,140,2000,27923,Mujeres
+   Chad,148,2000,98558,Mujeres
+   Congo,178,2000,64673,Mujeres
+   Democratic Republic of the Congo,180,2000,435481,Mujeres
+   Equatorial Guinea,226,2000,31031,Mujeres
+   Gabon,266,2000,9056,Mujeres
+   Sao Tome and Principe,678,2000,13264,Mujeres
+  Northern Africa,912,2000,2703236,Mujeres
+   Algeria,12,2000,457682,Mujeres
+   Egypt,818,2000,602779,Mujeres
+   Libya,434,2000,37367,Mujeres
+   Morocco,504,2000,942702,Mujeres
+   Sudan,729,2000,382903,Mujeres
+   Tunisia,788,2000,204815,Mujeres
+   Western Sahara,732,2000,74988,Mujeres
+  Southern Africa,913,2000,359195,Mujeres
+   Botswana,72,2000,10543,Mujeres
+   Eswatini,748,2000,14989,Mujeres
+   Lesotho,426,2000,53354,Mujeres
+   Namibia,516,2000,24519,Mujeres
+   South Africa,710,2000,255790,Mujeres
+  Western Africa,914,2000,2905043,Mujeres
+   Benin,204,2000,153291,Mujeres
+   Burkina Faso,854,2000,563481,Mujeres
+   Cabo Verde,132,2000,65495,Mujeres
+   Côte d'Ivoire,384,2000,267873,Mujeres
+   Gambia,270,2000,19190,Mujeres
+   Ghana,288,2000,244307,Mujeres
+   Guinea,324,2000,165187,Mujeres
+   Guinea-Bissau,624,2000,35187,Mujeres
+   Liberia,430,2000,125117,Mujeres
+   Mali,466,2000,342620,Mujeres
+   Mauritania,478,2000,41902,Mujeres
+   Niger,562,2000,78270,Mujeres
+   Nigeria,566,2000,257570,Mujeres
+   Saint Helena*,654,2000,2247,Mujeres
+   Senegal,686,2000,152750,Mujeres
+   Sierra Leone,694,2000,254302,Mujeres
+   Togo,768,2000,136254,Mujeres
+ ASIA,935,2000,30656155,Mujeres
+  Central Asia,5500,2000,3340029,Mujeres
+   Kazakhstan,398,2000,1901555,Mujeres
+   Kyrgyzstan,417,2000,293281,Mujeres
+   Tajikistan,762,2000,242064,Mujeres
+   Turkmenistan,795,2000,114399,Mujeres
+   Uzbekistan,860,2000,788730,Mujeres
+  Eastern Asia,906,2000,4734150,Mujeres
+   China*,156,2000,2960175,Mujeres
+"   China, Hong Kong SAR*",344,2000,348685,Mujeres
+"   China, Macao SAR*",446,2000,47323,Mujeres
+"   China, Taiwan Province of China*",158,2000,0,Mujeres
+   Dem. People's Republic of Korea,408,2000,36364,Mujeres
+   Japan,392,2000,368130,Mujeres
+   Mongolia,496,2000,16778,Mujeres
+   Republic of Korea,410,2000,956695,Mujeres
+  South-Eastern Asia,920,2000,6206272,Mujeres
+   Brunei Darussalam,96,2000,18056,Mujeres
+   Cambodia,116,2000,235827,Mujeres
+   Indonesia,360,2000,1070801,Mujeres
+   Lao People's Democratic Republic,418,2000,331723,Mujeres
+   Malaysia*,458,2000,661487,Mujeres
+   Myanmar,104,2000,567639,Mujeres
+   Philippines,608,2000,1755056,Mujeres
+   Singapore,702,2000,101737,Mujeres
+   Thailand,764,2000,333827,Mujeres
+   Timor-Leste,626,2000,73903,Mujeres
+   Viet Nam,704,2000,1056216,Mujeres
+  Southern Asia,5501,2000,10378293,Mujeres
+   Afghanistan,4,2000,2139897,Mujeres
+   Bangladesh,50,2000,2248095,Mujeres
+   Bhutan,64,2000,58769,Mujeres
+   India,356,2000,3303785,Mujeres
+   Iran (Islamic Republic of),364,2000,374592,Mujeres
+   Maldives,462,2000,518,Mujeres
+   Nepal,524,2000,452556,Mujeres
+   Pakistan,586,2000,1346040,Mujeres
+   Sri Lanka,144,2000,454041,Mujeres
+  Western Asia,922,2000,5997411,Mujeres
+   Armenia,51,2000,407161,Mujeres
+   Azerbaijan*,31,2000,783663,Mujeres
+   Bahrain,48,2000,23154,Mujeres
+   Cyprus*,196,2000,77150,Mujeres
+   Georgia*,268,2000,464405,Mujeres
+   Iraq,368,2000,358949,Mujeres
+   Israel,376,2000,152119,Mujeres
+   Jordan,400,2000,142161,Mujeres
+   Kuwait,414,2000,47091,Mujeres
+   Lebanon,422,2000,243419,Mujeres
+   Oman,512,2000,7385,Mujeres
+   Qatar,634,2000,7191,Mujeres
+   Saudi Arabia,682,2000,63783,Mujeres
+   State of Palestine*,275,2000,1367273,Mujeres
+   Syrian Arab Republic,760,2000,299834,Mujeres
+   Turkey,792,2000,1322241,Mujeres
+   United Arab Emirates,784,2000,44856,Mujeres
+   Yemen,887,2000,185576,Mujeres
+ EUROPE,908,2000,26480131,Mujeres
+  Eastern Europe,923,2000,13245256,Mujeres
+   Belarus,112,2000,949780,Mujeres
+   Bulgaria,100,2000,362178,Mujeres
+   Czechia,203,2000,398727,Mujeres
+   Hungary,348,2000,210376,Mujeres
+   Poland,616,2000,1165386,Mujeres
+   Republic of Moldova*,498,2000,303506,Mujeres
+   Romania,642,2000,596353,Mujeres
+   Russian Federation,643,2000,6154881,Mujeres
+   Slovakia,703,2000,126295,Mujeres
+   Ukraine*,804,2000,2977774,Mujeres
+  Northern Europe,924,2000,3368586,Mujeres
+   Channel Islands*,830,2000,6509,Mujeres
+   Denmark*,208,2000,117416,Mujeres
+   Estonia,233,2000,76764,Mujeres
+   Faroe Islands*,234,2000,7174,Mujeres
+   Finland*,246,2000,190093,Mujeres
+   Iceland,352,2000,13409,Mujeres
+   Ireland,372,2000,459095,Mujeres
+   Isle of Man*,833,2000,3702,Mujeres
+   Latvia,428,2000,129680,Mujeres
+   Lithuania,440,2000,196986,Mujeres
+   Norway*,578,2000,92802,Mujeres
+   Sweden,752,2000,144107,Mujeres
+   United Kingdom*,826,2000,1930849,Mujeres
+  Southern Europe,925,2000,6263391,Mujeres
+   Albania,8,2000,369669,Mujeres
+   Andorra,20,2000,2928,Mujeres
+   Bosnia and Herzegovina,70,2000,764681,Mujeres
+   Croatia,191,2000,471348,Mujeres
+   Gibraltar*,292,2000,4277,Mujeres
+   Greece,300,2000,476519,Mujeres
+   Holy See*,336,2000,13,Mujeres
+   Italy,380,2000,1476637,Mujeres
+   Malta,470,2000,52558,Mujeres
+   Montenegro,499,2000,98048,Mujeres
+   North Macedonia,807,2000,265195,Mujeres
+   Portugal,620,2000,972069,Mujeres
+   San Marino,674,2000,1801,Mujeres
+   Serbia*,688,2000,539023,Mujeres
+   Slovenia,705,2000,66454,Mujeres
+   Spain*,724,2000,702171,Mujeres
+  Western Europe,926,2000,3602898,Mujeres
+   Austria,40,2000,255157,Mujeres
+   Belgium,56,2000,226130,Mujeres
+   France*,250,2000,806762,Mujeres
+   Germany,276,2000,1714751,Mujeres
+   Liechtenstein,438,2000,1486,Mujeres
+   Luxembourg,442,2000,19771,Mujeres
+   Monaco,492,2000,2594,Mujeres
+   Netherlands*,528,2000,375171,Mujeres
+   Switzerland,756,2000,201076,Mujeres
+ LATIN AMERICA AND THE CARIBBEAN,904,2000,12446161,Mujeres
+  Caribbean,915,2000,3237341,Mujeres
+   Anguilla*,660,2000,1232,Mujeres
+   Antigua and Barbuda,28,2000,17926,Mujeres
+   Aruba*,533,2000,4267,Mujeres
+   Bahamas,44,2000,19564,Mujeres
+   Barbados,52,2000,50006,Mujeres
+"   Bonaire, Sint Eustatius and Saba*",535,2000,321,Mujeres
+   British Virgin Islands*,92,2000,2080,Mujeres
+   Cayman Islands*,136,2000,719,Mujeres
+   Cuba,192,2000,548199,Mujeres
+   Curaçao*,531,2000,1894,Mujeres
+   Dominica,212,2000,25891,Mujeres
+   Dominican Republic,214,2000,513415,Mujeres
+   Grenada,308,2000,34908,Mujeres
+   Guadeloupe*,312,2000,4515,Mujeres
+   Haiti,332,2000,368789,Mujeres
+   Jamaica,388,2000,472377,Mujeres
+   Martinique*,474,2000,7521,Mujeres
+   Montserrat*,500,2000,9049,Mujeres
+   Puerto Rico*,630,2000,911887,Mujeres
+   Saint Barthélemy*,652,2000,0,Mujeres
+   Saint Kitts and Nevis,659,2000,16558,Mujeres
+   Saint Lucia,662,2000,21885,Mujeres
+   Saint Martin (French part)*,663,2000,0,Mujeres
+   Saint Vincent and the Grenadines,670,2000,27328,Mujeres
+   Sint Maarten (Dutch part)*,534,2000,595,Mujeres
+   Trinidad and Tobago,780,2000,174387,Mujeres
+   Turks and Caicos Islands*,796,2000,395,Mujeres
+   United States Virgin Islands*,850,2000,1633,Mujeres
+  Central America,916,2000,5751225,Mujeres
+   Belize,84,2000,27790,Mujeres
+   Costa Rica,188,2000,60681,Mujeres
+   El Salvador,222,2000,468858,Mujeres
+   Guatemala,320,2000,284942,Mujeres
+   Honduras,340,2000,193716,Mujeres
+   Mexico,484,2000,4389888,Mujeres
+   Nicaragua,558,2000,256425,Mujeres
+   Panama,591,2000,68925,Mujeres
+  South America,931,2000,3457595,Mujeres
+   Argentina,32,2000,287155,Mujeres
+   Bolivia (Plurinational State of),68,2000,169983,Mujeres
+   Brazil,76,2000,533690,Mujeres
+   Chile,152,2000,265126,Mujeres
+   Colombia,170,2000,775690,Mujeres
+   Ecuador,218,2000,228646,Mujeres
+   Falkland Islands (Malvinas)*,238,2000,734,Mujeres
+   French Guiana*,254,2000,2092,Mujeres
+   Guyana,328,2000,190738,Mujeres
+   Paraguay,600,2000,211965,Mujeres
+   Peru,604,2000,382535,Mujeres
+   Suriname,740,2000,112481,Mujeres
+   Uruguay,858,2000,120223,Mujeres
+   Venezuela (Bolivarian Republic of),862,2000,176537,Mujeres
+ NORTHERN AMERICA,905,2000,1721468,Mujeres
+   Bermuda*,60,2000,7117,Mujeres
+   Canada,124,2000,715140,Mujeres
+   Greenland*,304,2000,7976,Mujeres
+   Saint Pierre and Miquelon*,666,2000,224,Mujeres
+   United States of America*,840,2000,991011,Mujeres
+ OCEANIA ,909,2000,642390,Mujeres
+  Australia and New Zealand,927,2000,450533,Mujeres
+   Australia*,36,2000,206283,Mujeres
+   New Zealand*,554,2000,244250,Mujeres
+  Melanesia,928,2000,77917,Mujeres
+   Fiji,242,2000,68600,Mujeres
+   New Caledonia*,540,2000,2667,Mujeres
+   Papua New Guinea,598,2000,2273,Mujeres
+   Solomon Islands,90,2000,1382,Mujeres
+   Vanuatu,548,2000,2995,Mujeres
+  Micronesia,954,2000,19784,Mujeres
+   Guam*,316,2000,1410,Mujeres
+   Kiribati,296,2000,2093,Mujeres
+   Marshall Islands,584,2000,3487,Mujeres
+   Micronesia (Fed. States of),583,2000,8396,Mujeres
+   Nauru,520,2000,824,Mujeres
+   Northern Mariana Islands*,580,2000,1432,Mujeres
+   Palau,585,2000,2142,Mujeres
+  Polynesia*,957,2000,94156,Mujeres
+   American Samoa*,16,2000,1557,Mujeres
+   Cook Islands*,184,2000,9987,Mujeres
+   French Polynesia*,258,2000,2175,Mujeres
+   Niue*,570,2000,2961,Mujeres
+   Samoa,882,2000,47970,Mujeres
+   Tokelau*,772,2000,1044,Mujeres
+   Tonga,776,2000,23565,Mujeres
+   Tuvalu,798,2000,1257,Mujeres
+   Wallis and Futuna Islands*,876,2000,3640,Mujeres
+OTHER,2003,2000,3469772,Mujeres
+WORLD,900,2005,93783747,Mujeres
+  Sub-Saharan Africa,947,2005,8047927,Mujeres
+  Northern Africa and Western Asia,1833,2005,9770550,Mujeres
+  Central and Southern Asia,921,2005,14451806,Mujeres
+  Eastern and South-Eastern Asia,1832,2005,13069932,Mujeres
+  Latin America and the Caribbean,1830,2005,14842839,Mujeres
+  Oceania (excluding Australia and New Zealand),1835,2005,208246,Mujeres
+  Australia and New Zealand,927,2005,502354,Mujeres
+  Europe and Northern America,1829,2005,29166292,Mujeres
+  Developed regions,901,2005,30046328,Mujeres
+  Less developed regions,902,2005,60013618,Mujeres
+" Less developed regions, excluding least developed countries",934,2005,46620199,Mujeres
+" Less developed regions, excluding China",948,2005,55791667,Mujeres
+  Least developed countries,941,2005,13393419,Mujeres
+  Land-locked Developing Countries (LLDC),1636,2005,11678885,Mujeres
+  Small island developing States (SIDS),1637,2005,4560774,Mujeres
+  High-income countries,1503,2005,21269750,Mujeres
+  Middle-income countries,1517,2005,60379938,Mujeres
+ Upper-middle-income countries,1502,2005,33578173,Mujeres
+ Lower-middle-income countries,1501,2005,26801765,Mujeres
+  Low-income countries,1500,2005,8300352,Mujeres
+ AFRICA,903,2005,11463019,Mujeres
+  Eastern Africa,910,2005,2871751,Mujeres
+   Burundi,108,2005,233271,Mujeres
+   Comoros,174,2005,46304,Mujeres
+   Djibouti,262,2005,5694,Mujeres
+   Eritrea,232,2005,146249,Mujeres
+   Ethiopia,231,2005,240027,Mujeres
+   Kenya,404,2005,188462,Mujeres
+   Madagascar,450,2005,84402,Mujeres
+   Malawi,454,2005,92637,Mujeres
+   Mauritius*,480,2005,70870,Mujeres
+   Mayotte*,175,2005,3331,Mujeres
+   Mozambique,508,2005,252681,Mujeres
+   Réunion*,638,2005,1488,Mujeres
+   Rwanda,646,2005,146644,Mujeres
+   Seychelles,690,2005,13316,Mujeres
+   Somalia,706,2005,492083,Mujeres
+   South Sudan,728,2005,103926,Mujeres
+   Uganda,800,2005,294721,Mujeres
+   United Republic of Tanzania*,834,2005,116274,Mujeres
+   Zambia,894,2005,94523,Mujeres
+   Zimbabwe,716,2005,244848,Mujeres
+  Middle Africa,911,2005,1340374,Mujeres
+   Angola,24,2005,363307,Mujeres
+   Cameroon,120,2005,110533,Mujeres
+   Central African Republic,140,2005,69895,Mujeres
+   Chad,148,2005,96843,Mujeres
+   Congo,178,2005,85985,Mujeres
+   Democratic Republic of the Congo,180,2005,539002,Mujeres
+   Equatorial Guinea,226,2005,37978,Mujeres
+   Gabon,266,2005,20886,Mujeres
+   Sao Tome and Principe,678,2005,15945,Mujeres
+  Northern Africa,912,2005,3415092,Mujeres
+   Algeria,12,2005,763845,Mujeres
+   Egypt,818,2005,623543,Mujeres
+   Libya,434,2005,47006,Mujeres
+   Morocco,504,2005,1102866,Mujeres
+   Sudan,729,2005,569015,Mujeres
+   Tunisia,788,2005,249533,Mujeres
+   Western Sahara,732,2005,59284,Mujeres
+  Southern Africa,913,2005,447827,Mujeres
+   Botswana,72,2005,13466,Mujeres
+   Eswatini,748,2005,20218,Mujeres
+   Lesotho,426,2005,73609,Mujeres
+   Namibia,516,2005,33403,Mujeres
+   South Africa,710,2005,307131,Mujeres
+  Western Africa,914,2005,3387975,Mujeres
+   Benin,204,2005,223485,Mujeres
+   Burkina Faso,854,2005,594707,Mujeres
+   Cabo Verde,132,2005,75369,Mujeres
+   Côte d'Ivoire,384,2005,370683,Mujeres
+   Gambia,270,2005,24249,Mujeres
+   Ghana,288,2005,310626,Mujeres
+   Guinea,324,2005,175848,Mujeres
+   Guinea-Bissau,624,2005,37518,Mujeres
+   Liberia,430,2005,180792,Mujeres
+   Mali,466,2005,390423,Mujeres
+   Mauritania,478,2005,39309,Mujeres
+   Niger,562,2005,120313,Mujeres
+   Nigeria,566,2005,376823,Mujeres
+   Saint Helena*,654,2005,1949,Mujeres
+   Senegal,686,2005,183836,Mujeres
+   Sierra Leone,694,2005,75202,Mujeres
+   Togo,768,2005,206843,Mujeres
+ ASIA,935,2005,33877196,Mujeres
+  Central Asia,5500,2005,3546128,Mujeres
+   Kazakhstan,398,2005,1981328,Mujeres
+   Kyrgyzstan,417,2005,336927,Mujeres
+   Tajikistan,762,2005,258492,Mujeres
+   Turkmenistan,795,2005,119314,Mujeres
+   Uzbekistan,860,2005,850067,Mujeres
+  Eastern Asia,906,2005,5669339,Mujeres
+   China*,156,2005,3790167,Mujeres
+"   China, Hong Kong SAR*",344,2005,375305,Mujeres
+"   China, Macao SAR*",446,2005,56479,Mujeres
+"   China, Taiwan Province of China*",158,2005,0,Mujeres
+   Dem. People's Republic of Korea,408,2005,42684,Mujeres
+   Japan,392,2005,377682,Mujeres
+   Mongolia,496,2005,22597,Mujeres
+   Republic of Korea,410,2005,1004425,Mujeres
+  South-Eastern Asia,920,2005,7400593,Mujeres
+   Brunei Darussalam,96,2005,18728,Mujeres
+   Cambodia,116,2005,354758,Mujeres
+   Indonesia,360,2005,1237063,Mujeres
+   Lao People's Democratic Republic,418,2005,475543,Mujeres
+   Malaysia*,458,2005,748004,Mujeres
+   Myanmar,104,2005,776146,Mujeres
+   Philippines,608,2005,2075491,Mujeres
+   Singapore,702,2005,122389,Mujeres
+   Thailand,764,2005,401665,Mujeres
+   Timor-Leste,626,2005,44707,Mujeres
+   Viet Nam,704,2005,1146099,Mujeres
+  Southern Asia,5501,2005,10905678,Mujeres
+   Afghanistan,4,2005,1833762,Mujeres
+   Bangladesh,50,2005,2229277,Mujeres
+   Bhutan,64,2005,58805,Mujeres
+   India,356,2005,3784675,Mujeres
+   Iran (Islamic Republic of),364,2005,396419,Mujeres
+   Maldives,462,2005,1086,Mujeres
+   Nepal,524,2005,613191,Mujeres
+   Pakistan,586,2005,1473302,Mujeres
+   Sri Lanka,144,2005,515161,Mujeres
+  Western Asia,922,2005,6355458,Mujeres
+   Armenia,51,2005,413006,Mujeres
+   Azerbaijan*,31,2005,698481,Mujeres
+   Bahrain,48,2005,24744,Mujeres
+   Cyprus*,196,2005,77589,Mujeres
+   Georgia*,268,2005,431644,Mujeres
+   Iraq,368,2005,594383,Mujeres
+   Israel,376,2005,156134,Mujeres
+   Jordan,400,2005,163515,Mujeres
+   Kuwait,414,2005,52905,Mujeres
+   Lebanon,422,2005,256466,Mujeres
+   Oman,512,2005,8822,Mujeres
+   Qatar,634,2005,8216,Mujeres
+   Saudi Arabia,682,2005,73279,Mujeres
+   State of Palestine*,275,2005,1591225,Mujeres
+   Syrian Arab Republic,760,2005,329037,Mujeres
+   Turkey,792,2005,1203110,Mujeres
+   United Arab Emirates,784,2005,56056,Mujeres
+   Yemen,887,2005,216846,Mujeres
+ EUROPE,908,2005,27275792,Mujeres
+  Eastern Europe,923,2005,14131109,Mujeres
+   Belarus,112,2005,897958,Mujeres
+   Bulgaria,100,2005,481022,Mujeres
+   Czechia,203,2005,415468,Mujeres
+   Hungary,348,2005,237793,Mujeres
+   Poland,616,2005,1576286,Mujeres
+   Republic of Moldova*,498,2005,373243,Mujeres
+   Romania,642,2005,1118982,Mujeres
+   Russian Federation,643,2005,5877921,Mujeres
+   Slovakia,703,2005,143309,Mujeres
+   Ukraine*,804,2005,3009127,Mujeres
+  Northern Europe,924,2005,3525477,Mujeres
+   Channel Islands*,830,2005,7648,Mujeres
+   Denmark*,208,2005,118135,Mujeres
+   Estonia,233,2005,82277,Mujeres
+   Faroe Islands*,234,2005,7284,Mujeres
+   Finland*,246,2005,179283,Mujeres
+   Iceland,352,2005,14509,Mujeres
+   Ireland,372,2005,427536,Mujeres
+   Isle of Man*,833,2005,4317,Mujeres
+   Latvia,428,2005,149109,Mujeres
+   Lithuania,440,2005,232639,Mujeres
+   Norway*,578,2005,96735,Mujeres
+   Sweden,752,2005,149018,Mujeres
+   United Kingdom*,826,2005,2056987,Mujeres
+  Southern Europe,925,2005,5715861,Mujeres
+   Albania,8,2005,448663,Mujeres
+   Andorra,20,2005,2986,Mujeres
+   Bosnia and Herzegovina,70,2005,774336,Mujeres
+   Croatia,191,2005,439882,Mujeres
+   Gibraltar*,292,2005,4900,Mujeres
+   Greece,300,2005,417424,Mujeres
+   Holy See*,336,2005,56,Mujeres
+   Italy,380,2005,1285240,Mujeres
+   Malta,470,2005,50426,Mujeres
+   Montenegro,499,2005,77681,Mujeres
+   North Macedonia,807,2005,228915,Mujeres
+   Portugal,620,2005,843650,Mujeres
+   San Marino,674,2005,1609,Mujeres
+   Serbia*,688,2005,469414,Mujeres
+   Slovenia,705,2005,66597,Mujeres
+   Spain*,724,2005,604082,Mujeres
+  Western Europe,926,2005,3903345,Mujeres
+   Austria,40,2005,265861,Mujeres
+   Belgium,56,2005,235051,Mujeres
+   France*,250,2005,892023,Mujeres
+   Germany,276,2005,1813302,Mujeres
+   Liechtenstein,438,2005,1628,Mujeres
+   Luxembourg,442,2005,26492,Mujeres
+   Monaco,492,2005,9523,Mujeres
+   Netherlands*,528,2005,392663,Mujeres
+   Switzerland,756,2005,266802,Mujeres
+ LATIN AMERICA AND THE CARIBBEAN,904,2005,14842839,Mujeres
+  Caribbean,915,2005,3527306,Mujeres
+   Anguilla*,660,2005,1205,Mujeres
+   Antigua and Barbuda,28,2005,19818,Mujeres
+   Aruba*,533,2005,5252,Mujeres
+   Bahamas,44,2005,19672,Mujeres
+   Barbados,52,2005,49024,Mujeres
+"   Bonaire, Sint Eustatius and Saba*",535,2005,375,Mujeres
+   British Virgin Islands*,92,2005,2232,Mujeres
+   Cayman Islands*,136,2005,700,Mujeres
+   Cuba,192,2005,606844,Mujeres
+   Curaçao*,531,2005,2291,Mujeres
+   Dominica,212,2005,35265,Mujeres
+   Dominican Republic,214,2005,583494,Mujeres
+   Grenada,308,2005,35788,Mujeres
+   Guadeloupe*,312,2005,5249,Mujeres
+   Haiti,332,2005,452240,Mujeres
+   Jamaica,388,2005,502343,Mujeres
+   Martinique*,474,2005,7703,Mujeres
+   Montserrat*,500,2005,8720,Mujeres
+   Puerto Rico*,630,2005,929213,Mujeres
+   Saint Barthélemy*,652,2005,0,Mujeres
+   Saint Kitts and Nevis,659,2005,18038,Mujeres
+   Saint Lucia,662,2005,26404,Mujeres
+   Saint Martin (French part)*,663,2005,0,Mujeres
+   Saint Vincent and the Grenadines,670,2005,28982,Mujeres
+   Sint Maarten (Dutch part)*,534,2005,623,Mujeres
+   Trinidad and Tobago,780,2005,183603,Mujeres
+   Turks and Caicos Islands*,796,2005,665,Mujeres
+   United States Virgin Islands*,850,2005,1563,Mujeres
+  Central America,916,2005,6554307,Mujeres
+   Belize,84,2005,29627,Mujeres
+   Costa Rica,188,2005,67035,Mujeres
+   El Salvador,222,2005,550417,Mujeres
+   Guatemala,320,2005,361464,Mujeres
+   Honduras,340,2005,253140,Mujeres
+   Mexico,484,2005,4940675,Mujeres
+   Nicaragua,558,2005,285850,Mujeres
+   Panama,591,2005,66099,Mujeres
+  South America,931,2005,4761226,Mujeres
+   Argentina,32,2005,407751,Mujeres
+   Bolivia (Plurinational State of),68,2005,277877,Mujeres
+   Brazil,76,2005,682853,Mujeres
+   Chile,152,2005,281709,Mujeres
+   Colombia,170,2005,1024586,Mujeres
+   Ecuador,218,2005,507799,Mujeres
+   Falkland Islands (Malvinas)*,238,2005,628,Mujeres
+   French Guiana*,254,2005,2188,Mujeres
+   Guyana,328,2005,207501,Mujeres
+   Paraguay,600,2005,307266,Mujeres
+   Peru,604,2005,531859,Mujeres
+   Suriname,740,2005,133495,Mujeres
+   Uruguay,858,2005,152545,Mujeres
+   Venezuela (Bolivarian Republic of),862,2005,243169,Mujeres
+ NORTHERN AMERICA,905,2005,1890500,Mujeres
+   Bermuda*,60,2005,7516,Mujeres
+   Canada,124,2005,732574,Mujeres
+   Greenland*,304,2005,8580,Mujeres
+   Saint Pierre and Miquelon*,666,2005,207,Mujeres
+   United States of America*,840,2005,1141623,Mujeres
+ OCEANIA ,909,2005,710600,Mujeres
+  Australia and New Zealand,927,2005,502354,Mujeres
+   Australia*,36,2005,227715,Mujeres
+   New Zealand*,554,2005,274639,Mujeres
+  Melanesia,928,2005,91751,Mujeres
+   Fiji,242,2005,81698,Mujeres
+   New Caledonia*,540,2005,2733,Mujeres
+   Papua New Guinea,598,2005,2269,Mujeres
+   Solomon Islands,90,2005,1543,Mujeres
+   Vanuatu,548,2005,3508,Mujeres
+  Micronesia,954,2005,20098,Mujeres
+   Guam*,316,2005,1307,Mujeres
+   Kiribati,296,2005,2081,Mujeres
+   Marshall Islands,584,2005,3317,Mujeres
+   Micronesia (Fed. States of),583,2005,9119,Mujeres
+   Nauru,520,2005,936,Mujeres
+   Northern Mariana Islands*,580,2005,1379,Mujeres
+   Palau,585,2005,1959,Mujeres
+  Polynesia*,957,2005,96397,Mujeres
+   American Samoa*,16,2005,1261,Mujeres
+   Cook Islands*,184,2005,10030,Mujeres
+   French Polynesia*,258,2005,1347,Mujeres
+   Niue*,570,2005,2703,Mujeres
+   Samoa,882,2005,50391,Mujeres
+   Tokelau*,772,2005,1053,Mujeres
+   Tonga,776,2005,24440,Mujeres
+   Tuvalu,798,2005,1435,Mujeres
+   Wallis and Futuna Islands*,876,2005,3737,Mujeres
+OTHER,2003,2005,3723801,Mujeres
+WORLD,900,2010,107042306,Mujeres
+  Sub-Saharan Africa,947,2010,9411604,Mujeres
+  Northern Africa and Western Asia,1833,2010,11064248,Mujeres
+  Central and Southern Asia,921,2010,16638221,Mujeres
+  Eastern and South-Eastern Asia,1832,2010,15846242,Mujeres
+  Latin America and the Caribbean,1830,2010,17780032,Mujeres
+  Oceania (excluding Australia and New Zealand),1835,2010,227037,Mujeres
+  Australia and New Zealand,927,2010,575326,Mujeres
+  Europe and Northern America,1829,2010,31343852,Mujeres
+  Developed regions,901,2010,32323370,Mujeres
+  Less developed regions,902,2010,70563192,Mujeres
+" Less developed regions, excluding least developed countries",934,2010,54880710,Mujeres
+" Less developed regions, excluding China",948,2010,65453615,Mujeres
+  Least developed countries,941,2010,15682482,Mujeres
+  Land-locked Developing Countries (LLDC),1636,2010,13513622,Mujeres
+  Small island developing States (SIDS),1637,2010,5115756,Mujeres
+  High-income countries,1503,2010,23864846,Mujeres
+  Middle-income countries,1517,2010,69104651,Mujeres
+ Upper-middle-income countries,1502,2010,38088831,Mujeres
+ Lower-middle-income countries,1501,2010,31015820,Mujeres
+  Low-income countries,1500,2010,9779608,Mujeres
+ AFRICA,903,2010,13194997,Mujeres
+  Eastern Africa,910,2010,3591380,Mujeres
+   Burundi,108,2010,140342,Mujeres
+   Comoros,174,2010,54935,Mujeres
+   Djibouti,262,2010,6619,Mujeres
+   Eritrea,232,2010,155910,Mujeres
+   Ethiopia,231,2010,311247,Mujeres
+   Kenya,404,2010,228653,Mujeres
+   Madagascar,450,2010,96226,Mujeres
+   Malawi,454,2010,109340,Mujeres
+   Mauritius*,480,2010,80619,Mujeres
+   Mayotte*,175,2010,3229,Mujeres
+   Mozambique,508,2010,284972,Mujeres
+   Réunion*,638,2010,1666,Mujeres
+   Rwanda,646,2010,172531,Mujeres
+   Seychelles,690,2010,14763,Mujeres
+   Somalia,706,2010,755523,Mujeres
+   South Sudan,728,2010,192714,Mujeres
+   Uganda,800,2010,382328,Mujeres
+   United Republic of Tanzania*,834,2010,130663,Mujeres
+   Zambia,894,2010,96614,Mujeres
+   Zimbabwe,716,2010,372486,Mujeres
+  Middle Africa,911,2010,1511921,Mujeres
+   Angola,24,2010,329021,Mujeres
+   Cameroon,120,2010,142568,Mujeres
+   Central African Republic,140,2010,125698,Mujeres
+   Chad,148,2010,90115,Mujeres
+   Congo,178,2010,86906,Mujeres
+   Democratic Republic of the Congo,180,2010,657845,Mujeres
+   Equatorial Guinea,226,2010,44281,Mujeres
+   Gabon,266,2010,18868,Mujeres
+   Sao Tome and Principe,678,2010,16619,Mujeres
+  Northern Africa,912,2010,3783393,Mujeres
+   Algeria,12,2010,741411,Mujeres
+   Egypt,818,2010,838958,Mujeres
+   Libya,434,2010,60313,Mujeres
+   Morocco,504,2010,1280424,Mujeres
+   Sudan,729,2010,527726,Mujeres
+   Tunisia,788,2010,254298,Mujeres
+   Western Sahara,732,2010,80263,Mujeres
+  Southern Africa,913,2010,589580,Mujeres
+   Botswana,72,2010,18139,Mujeres
+   Eswatini,748,2010,31228,Mujeres
+   Lesotho,426,2010,113173,Mujeres
+   Namibia,516,2010,50745,Mujeres
+   South Africa,710,2010,376295,Mujeres
+  Western Africa,914,2010,3718723,Mujeres
+   Benin,204,2010,242958,Mujeres
+   Burkina Faso,854,2010,632559,Mujeres
+   Cabo Verde,132,2010,82689,Mujeres
+   Côte d'Ivoire,384,2010,476098,Mujeres
+   Gambia,270,2010,29575,Mujeres
+   Ghana,288,2010,357279,Mujeres
+   Guinea,324,2010,199393,Mujeres
+   Guinea-Bissau,624,2010,42336,Mujeres
+   Liberia,430,2010,110086,Mujeres
+   Mali,466,2010,431482,Mujeres
+   Mauritania,478,2010,42408,Mujeres
+   Niger,562,2010,134097,Mujeres
+   Nigeria,566,2010,461826,Mujeres
+   Saint Helena*,654,2010,2097,Mujeres
+   Senegal,686,2010,203060,Mujeres
+   Sierra Leone,694,2010,63763,Mujeres
+   Togo,768,2010,207017,Mujeres
+ ASIA,935,2010,39765318,Mujeres
+  Central Asia,5500,2010,3674228,Mujeres
+   Kazakhstan,398,2010,2019232,Mujeres
+   Kyrgyzstan,417,2010,373720,Mujeres
+   Tajikistan,762,2010,248073,Mujeres
+   Turkmenistan,795,2010,122020,Mujeres
+   Uzbekistan,860,2010,911183,Mujeres
+  Eastern Asia,906,2010,6744241,Mujeres
+   China*,156,2010,4619937,Mujeres
+"   China, Hong Kong SAR*",344,2010,422934,Mujeres
+"   China, Macao SAR*",446,2010,66706,Mujeres
+"   China, Taiwan Province of China*",158,2010,0,Mujeres
+   Dem. People's Republic of Korea,408,2010,46185,Mujeres
+   Japan,392,2010,404192,Mujeres
+   Mongolia,496,2010,30012,Mujeres
+   Republic of Korea,410,2010,1154275,Mujeres
+  South-Eastern Asia,920,2010,9102001,Mujeres
+   Brunei Darussalam,96,2010,18493,Mujeres
+   Cambodia,116,2010,502674,Mujeres
+   Indonesia,360,2010,1512421,Mujeres
+   Lao People's Democratic Republic,418,2010,645062,Mujeres
+   Malaysia*,458,2010,859699,Mujeres
+   Myanmar,104,2010,1099361,Mujeres
+   Philippines,608,2010,2542981,Mujeres
+   Singapore,702,2010,146237,Mujeres
+   Thailand,764,2010,486804,Mujeres
+   Timor-Leste,626,2010,16014,Mujeres
+   Viet Nam,704,2010,1272255,Mujeres
+  Southern Asia,5501,2010,12963993,Mujeres
+   Afghanistan,4,2010,2401964,Mujeres
+   Bangladesh,50,2010,2214988,Mujeres
+   Bhutan,64,2010,44955,Mujeres
+   India,356,2010,4721254,Mujeres
+   Iran (Islamic Republic of),364,2010,455447,Mujeres
+   Maldives,462,2010,1831,Mujeres
+   Nepal,524,2010,839084,Mujeres
+   Pakistan,586,2010,1654118,Mujeres
+   Sri Lanka,144,2010,630352,Mujeres
+  Western Asia,922,2010,7280855,Mujeres
+   Armenia,51,2010,423195,Mujeres
+   Azerbaijan*,31,2010,542471,Mujeres
+   Bahrain,48,2010,24508,Mujeres
+   Cyprus*,196,2010,81662,Mujeres
+   Georgia*,268,2010,400032,Mujeres
+   Iraq,368,2010,1189310,Mujeres
+   Israel,376,2010,162001,Mujeres
+   Jordan,400,2010,216929,Mujeres
+   Kuwait,414,2010,68972,Mujeres
+   Lebanon,422,2010,285702,Mujeres
+   Oman,512,2010,9587,Mujeres
+   Qatar,634,2010,9961,Mujeres
+   Saudi Arabia,682,2010,89356,Mujeres
+   State of Palestine*,275,2010,1734148,Mujeres
+   Syrian Arab Republic,760,2010,409961,Mujeres
+   Turkey,792,2010,1276181,Mujeres
+   United Arab Emirates,784,2010,71725,Mujeres
+   Yemen,887,2010,285154,Mujeres
+ EUROPE,908,2010,29202848,Mujeres
+  Eastern Europe,923,2010,15231736,Mujeres
+   Belarus,112,2010,842096,Mujeres
+   Bulgaria,100,2010,594303,Mujeres
+   Czechia,203,2010,443525,Mujeres
+   Hungary,348,2010,263606,Mujeres
+   Poland,616,2010,1983194,Mujeres
+   Republic of Moldova*,498,2010,443564,Mujeres
+   Romania,642,2010,1782593,Mujeres
+   Russian Federation,643,2010,5745803,Mujeres
+   Slovakia,703,2010,141376,Mujeres
+   Ukraine*,804,2010,2991676,Mujeres
+  Northern Europe,924,2010,3735453,Mujeres
+   Channel Islands*,830,2010,7955,Mujeres
+   Denmark*,208,2010,122053,Mujeres
+   Estonia,233,2010,84981,Mujeres
+   Faroe Islands*,234,2010,7175,Mujeres
+   Finland*,246,2010,176322,Mujeres
+   Iceland,352,2010,16294,Mujeres
+   Ireland,372,2010,401456,Mujeres
+   Isle of Man*,833,2010,4499,Mujeres
+   Latvia,428,2010,155499,Mujeres
+   Lithuania,440,2010,292620,Mujeres
+   Norway*,578,2010,99636,Mujeres
+   Sweden,752,2010,162409,Mujeres
+   United Kingdom*,826,2010,2204554,Mujeres
+  Southern Europe,925,2010,5883409,Mujeres
+   Albania,8,2010,537028,Mujeres
+   Andorra,20,2010,4061,Mujeres
+   Bosnia and Herzegovina,70,2010,812913,Mujeres
+   Croatia,191,2010,436936,Mujeres
+   Gibraltar*,292,2010,5067,Mujeres
+   Greece,300,2010,381138,Mujeres
+   Holy See*,336,2010,99,Mujeres
+   Italy,380,2010,1229031,Mujeres
+   Malta,470,2010,49898,Mujeres
+   Montenegro,499,2010,81013,Mujeres
+   North Macedonia,807,2010,266909,Mujeres
+   Portugal,620,2010,940021,Mujeres
+   San Marino,674,2010,1402,Mujeres
+   Serbia*,688,2010,472167,Mujeres
+   Slovenia,705,2010,68512,Mujeres
+   Spain*,724,2010,597214,Mujeres
+  Western Europe,926,2010,4352250,Mujeres
+   Austria,40,2010,285630,Mujeres
+   Belgium,56,2010,265980,Mujeres
+   France*,250,2010,1013530,Mujeres
+   Germany,276,2010,1976971,Mujeres
+   Liechtenstein,438,2010,2024,Mujeres
+   Luxembourg,442,2010,33159,Mujeres
+   Monaco,492,2010,13860,Mujeres
+   Netherlands*,528,2010,426811,Mujeres
+   Switzerland,756,2010,334285,Mujeres
+ LATIN AMERICA AND THE CARIBBEAN,904,2010,17780032,Mujeres
+  Caribbean,915,2010,3998568,Mujeres
+   Anguilla*,660,2010,1114,Mujeres
+   Antigua and Barbuda,28,2010,22679,Mujeres
+   Aruba*,533,2010,7644,Mujeres
+   Bahamas,44,2010,20602,Mujeres
+   Barbados,52,2010,51175,Mujeres
+"   Bonaire, Sint Eustatius and Saba*",535,2010,3915,Mujeres
+   British Virgin Islands*,92,2010,2748,Mujeres
+   Cayman Islands*,136,2010,746,Mujeres
+   Cuba,192,2010,696683,Mujeres
+   Curaçao*,531,2010,24319,Mujeres
+   Dominica,212,2010,42298,Mujeres
+   Dominican Republic,214,2010,687672,Mujeres
+   Grenada,308,2010,36025,Mujeres
+   Guadeloupe*,312,2010,6386,Mujeres
+   Haiti,332,2010,535446,Mujeres
+   Jamaica,388,2010,562743,Mujeres
+   Martinique*,474,2010,7881,Mujeres
+   Montserrat*,500,2010,9534,Mujeres
+   Puerto Rico*,630,2010,994146,Mujeres
+   Saint Barthélemy*,652,2010,0,Mujeres
+   Saint Kitts and Nevis,659,2010,19675,Mujeres
+   Saint Lucia,662,2010,28946,Mujeres
+   Saint Martin (French part)*,663,2010,0,Mujeres
+   Saint Vincent and the Grenadines,670,2010,29485,Mujeres
+   Sint Maarten (Dutch part)*,534,2010,1740,Mujeres
+   Trinidad and Tobago,780,2010,202083,Mujeres
+   Turks and Caicos Islands*,796,2010,1248,Mujeres
+   United States Virgin Islands*,850,2010,1635,Mujeres
+  Central America,916,2010,7714953,Mujeres
+   Belize,84,2010,33014,Mujeres
+   Costa Rica,188,2010,75684,Mujeres
+   El Salvador,222,2010,666884,Mujeres
+   Guatemala,320,2010,461277,Mujeres
+   Honduras,340,2010,337531,Mujeres
+   Mexico,484,2010,5746825,Mujeres
+   Nicaragua,558,2010,322648,Mujeres
+   Panama,591,2010,71090,Mujeres
+  South America,931,2010,6066511,Mujeres
+   Argentina,32,2010,475461,Mujeres
+   Bolivia (Plurinational State of),68,2010,411279,Mujeres
+   Brazil,76,2010,863162,Mujeres
+   Chile,152,2010,300575,Mujeres
+   Colombia,170,2010,1376167,Mujeres
+   Ecuador,218,2010,596574,Mujeres
+   Falkland Islands (Malvinas)*,238,2010,659,Mujeres
+   French Guiana*,254,2010,2274,Mujeres
+   Guyana,328,2010,235088,Mujeres
+   Paraguay,600,2010,436806,Mujeres
+   Peru,604,2010,735166,Mujeres
+   Suriname,740,2010,142598,Mujeres
+   Uruguay,858,2010,177129,Mujeres
+   Venezuela (Bolivarian Republic of),862,2010,313573,Mujeres
+ NORTHERN AMERICA,905,2010,2141004,Mujeres
+   Bermuda*,60,2010,7725,Mujeres
+   Canada,124,2010,785079,Mujeres
+   Greenland*,304,2010,8907,Mujeres
+   Saint Pierre and Miquelon*,666,2010,201,Mujeres
+   United States of America*,840,2010,1339092,Mujeres
+ OCEANIA ,909,2010,802363,Mujeres
+  Australia and New Zealand,927,2010,575326,Mujeres
+   Australia*,36,2010,250505,Mujeres
+   New Zealand*,554,2010,324821,Mujeres
+  Melanesia,928,2010,106545,Mujeres
+   Fiji,242,2010,96168,Mujeres
+   New Caledonia*,540,2010,2713,Mujeres
+   Papua New Guinea,598,2010,2141,Mujeres
+   Solomon Islands,90,2010,1726,Mujeres
+   Vanuatu,548,2010,3797,Mujeres
+  Micronesia,954,2010,19582,Mujeres
+   Guam*,316,2010,1207,Mujeres
+   Kiribati,296,2010,1826,Mujeres
+   Marshall Islands,584,2010,3278,Mujeres
+   Micronesia (Fed. States of),583,2010,9693,Mujeres
+   Nauru,520,2010,1036,Mujeres
+   Northern Mariana Islands*,580,2010,1282,Mujeres
+   Palau,585,2010,1260,Mujeres
+  Polynesia*,957,2010,100910,Mujeres
+   American Samoa*,16,2010,1060,Mujeres
+   Cook Islands*,184,2010,10491,Mujeres
+   French Polynesia*,258,2010,717,Mujeres
+   Niue*,570,2010,2738,Mujeres
+   Samoa,882,2010,53367,Mujeres
+   Tokelau*,772,2010,1078,Mujeres
+   Tonga,776,2010,26091,Mujeres
+   Tuvalu,798,2010,1536,Mujeres
+   Wallis and Futuna Islands*,876,2010,3832,Mujeres
+OTHER,2003,2010,4155744,Mujeres
+WORLD,900,2015,119720586,Mujeres
+  Sub-Saharan Africa,947,2015,11618863,Mujeres
+  Northern Africa and Western Asia,1833,2015,14428744,Mujeres
+  Central and Southern Asia,921,2015,18510024,Mujeres
+  Eastern and South-Eastern Asia,1832,2015,18055157,Mujeres
+  Latin America and the Caribbean,1830,2015,18623861,Mujeres
+  Oceania (excluding Australia and New Zealand),1835,2015,254405,Mujeres
+  Australia and New Zealand,927,2015,633506,Mujeres
+  Europe and Northern America,1829,2015,32362696,Mujeres
+  Developed regions,901,2015,33409329,Mujeres
+  Less developed regions,902,2015,81077927,Mujeres
+" Less developed regions, excluding least developed countries",934,2015,62610770,Mujeres
+" Less developed regions, excluding China",948,2015,75067062,Mujeres
+  Least developed countries,941,2015,18467157,Mujeres
+  Land-locked Developing Countries (LLDC),1636,2015,15246649,Mujeres
+  Small island developing States (SIDS),1637,2015,5563640,Mujeres
+  High-income countries,1503,2015,24646216,Mujeres
+  Middle-income countries,1517,2015,75378997,Mujeres
+ Upper-middle-income countries,1502,2015,40090879,Mujeres
+ Lower-middle-income countries,1501,2015,35288118,Mujeres
+  Low-income countries,1500,2015,14311203,Mujeres
+ AFRICA,903,2015,16302792,Mujeres
+  Eastern Africa,910,2015,4802344,Mujeres
+   Burundi,108,2015,232253,Mujeres
+   Comoros,174,2015,62573,Mujeres
+   Djibouti,262,2015,8310,Mujeres
+   Eritrea,232,2015,298354,Mujeres
+   Ethiopia,231,2015,390524,Mujeres
+   Kenya,404,2015,253430,Mujeres
+   Madagascar,450,2015,107649,Mujeres
+   Malawi,454,2015,125149,Mujeres
+   Mauritius*,480,2015,91310,Mujeres
+   Mayotte*,175,2015,3346,Mujeres
+   Mozambique,508,2015,248849,Mujeres
+   Réunion*,638,2015,1820,Mujeres
+   Rwanda,646,2015,256512,Mujeres
+   Seychelles,690,2015,15700,Mujeres
+   Somalia,706,2015,967505,Mujeres
+   South Sudan,728,2015,516856,Mujeres
+   Uganda,800,2015,410278,Mujeres
+   United Republic of Tanzania*,834,2015,148780,Mujeres
+   Zambia,894,2015,98206,Mujeres
+   Zimbabwe,716,2015,564940,Mujeres
+  Middle Africa,911,2015,1906229,Mujeres
+   Angola,24,2015,312362,Mujeres
+   Cameroon,120,2015,177104,Mujeres
+   Central African Republic,140,2015,338148,Mujeres
+   Chad,148,2015,86776,Mujeres
+   Congo,178,2015,102543,Mujeres
+   Democratic Republic of the Congo,180,2015,793953,Mujeres
+   Equatorial Guinea,226,2015,53988,Mujeres
+   Gabon,266,2015,22439,Mujeres
+   Sao Tome and Principe,678,2015,18916,Mujeres
+  Northern Africa,912,2015,4683929,Mujeres
+   Algeria,12,2015,850907,Mujeres
+   Egypt,818,2015,1109446,Mujeres
+   Libya,434,2015,70907,Mujeres
+   Morocco,504,2015,1396518,Mujeres
+   Sudan,729,2015,828614,Mujeres
+   Tunisia,788,2015,339784,Mujeres
+   Western Sahara,732,2015,87753,Mujeres
+  Southern Africa,913,2015,584345,Mujeres
+   Botswana,72,2015,22817,Mujeres
+   Eswatini,748,2015,23670,Mujeres
+   Lesotho,426,2015,105379,Mujeres
+   Namibia,516,2015,25368,Mujeres
+   South Africa,710,2015,407111,Mujeres
+  Western Africa,914,2015,4325945,Mujeres
+   Benin,204,2015,293786,Mujeres
+   Burkina Faso,854,2015,669727,Mujeres
+   Cabo Verde,132,2015,94739,Mujeres
+   Côte d'Ivoire,384,2015,535469,Mujeres
+   Gambia,270,2015,36491,Mujeres
+   Ghana,288,2015,426087,Mujeres
+   Guinea,324,2015,220369,Mujeres
+   Guinea-Bissau,624,2015,46605,Mujeres
+   Liberia,430,2015,102795,Mujeres
+   Mali,466,2015,532228,Mujeres
+   Mauritania,478,2015,43275,Mujeres
+   Niger,562,2015,153378,Mujeres
+   Nigeria,566,2015,623819,Mujeres
+   Saint Helena*,654,2015,2554,Mujeres
+   Senegal,686,2015,226384,Mujeres
+   Sierra Leone,694,2015,70021,Mujeres
+   Togo,768,2015,248218,Mujeres
+ ASIA,935,2015,46309996,Mujeres
+  Central Asia,5500,2015,3787585,Mujeres
+   Kazakhstan,398,2015,2075538,Mujeres
+   Kyrgyzstan,417,2015,384087,Mujeres
+   Tajikistan,762,2015,250864,Mujeres
+   Turkmenistan,795,2015,124705,Mujeres
+   Uzbekistan,860,2015,952391,Mujeres
+  Eastern Asia,906,2015,7597021,Mujeres
+   China*,156,2015,5471638,Mujeres
+"   China, Hong Kong SAR*",344,2015,466294,Mujeres
+"   China, Macao SAR*",446,2015,72933,Mujeres
+"   China, Taiwan Province of China*",158,2015,0,Mujeres
+   Dem. People's Republic of Korea,408,2015,48968,Mujeres
+   Japan,392,2015,413127,Mujeres
+   Mongolia,496,2015,34486,Mujeres
+   Republic of Korea,410,2015,1089575,Mujeres
+  South-Eastern Asia,920,2015,10458136,Mujeres
+   Brunei Darussalam,96,2015,19110,Mujeres
+   Cambodia,116,2015,568854,Mujeres
+   Indonesia,360,2015,1792864,Mujeres
+   Lao People's Democratic Republic,418,2015,695948,Mujeres
+   Malaysia*,458,2015,964873,Mujeres
+   Myanmar,104,2015,1249066,Mujeres
+   Philippines,608,2015,2965163,Mujeres
+   Singapore,702,2015,167025,Mujeres
+   Thailand,764,2015,573612,Mujeres
+   Timor-Leste,626,2015,16740,Mujeres
+   Viet Nam,704,2015,1444881,Mujeres
+  Southern Asia,5501,2015,14722439,Mujeres
+   Afghanistan,4,2015,2498003,Mujeres
+   Bangladesh,50,2015,2325610,Mujeres
+   Bhutan,64,2015,25173,Mujeres
+   India,356,2015,5529084,Mujeres
+   Iran (Islamic Republic of),364,2015,538607,Mujeres
+   Maldives,462,2015,1921,Mujeres
+   Nepal,524,2015,1031012,Mujeres
+   Pakistan,586,2015,2054347,Mujeres
+   Sri Lanka,144,2015,718682,Mujeres
+  Western Asia,922,2015,9744815,Mujeres
+   Armenia,51,2015,437377,Mujeres
+   Azerbaijan*,31,2015,523618,Mujeres
+   Bahrain,48,2015,26899,Mujeres
+   Cyprus*,196,2015,87476,Mujeres
+   Georgia*,268,2015,417601,Mujeres
+   Iraq,368,2015,765391,Mujeres
+   Israel,376,2015,161427,Mujeres
+   Jordan,400,2015,257767,Mujeres
+   Kuwait,414,2015,76756,Mujeres
+   Lebanon,422,2015,309513,Mujeres
+   Oman,512,2015,10830,Mujeres
+   Qatar,634,2015,11672,Mujeres
+   Saudi Arabia,682,2015,128594,Mujeres
+   State of Palestine*,275,2015,1801423,Mujeres
+   Syrian Arab Republic,760,2015,2783809,Mujeres
+   Turkey,792,2015,1486124,Mujeres
+   United Arab Emirates,784,2015,83924,Mujeres
+   Yemen,887,2015,374614,Mujeres
+ EUROPE,908,2015,30208426,Mujeres
+  Eastern Europe,923,2015,15957749,Mujeres
+   Belarus,112,2015,846213,Mujeres
+   Bulgaria,100,2015,682905,Mujeres
+   Czechia,203,2015,466490,Mujeres
+   Hungary,348,2015,308364,Mujeres
+   Poland,616,2015,2192921,Mujeres
+   Republic of Moldova*,498,2015,498893,Mujeres
+   Romania,642,2015,1852905,Mujeres
+   Russian Federation,643,2015,5730731,Mujeres
+   Slovakia,703,2015,190282,Mujeres
+   Ukraine*,804,2015,3188045,Mujeres
+  Northern Europe,924,2015,3785938,Mujeres
+   Channel Islands*,830,2015,8177,Mujeres
+   Denmark*,208,2015,124942,Mujeres
+   Estonia,233,2015,104996,Mujeres
+   Faroe Islands*,234,2015,7671,Mujeres
+   Finland*,246,2015,173429,Mujeres
+   Iceland,352,2015,18658,Mujeres
+   Ireland,372,2015,401855,Mujeres
+   Isle of Man*,833,2015,5395,Mujeres
+   Latvia,428,2015,203923,Mujeres
+   Lithuania,440,2015,311388,Mujeres
+   Norway*,578,2015,103310,Mujeres
+   Sweden,752,2015,166428,Mujeres
+   United Kingdom*,826,2015,2155766,Mujeres
+  Southern Europe,925,2015,6040661,Mujeres
+   Albania,8,2015,566624,Mujeres
+   Andorra,20,2015,4540,Mujeres
+   Bosnia and Herzegovina,70,2015,830280,Mujeres
+   Croatia,191,2015,430492,Mujeres
+   Gibraltar*,292,2015,6150,Mujeres
+   Greece,300,2015,398946,Mujeres
+   Holy See*,336,2015,195,Mujeres
+   Italy,380,2015,1262079,Mujeres
+   Malta,470,2015,46357,Mujeres
+   Montenegro,499,2015,72700,Mujeres
+   North Macedonia,807,2015,272076,Mujeres
+   Portugal,620,2015,961374,Mujeres
+   San Marino,674,2015,2419,Mujeres
+   Serbia*,688,2015,420550,Mujeres
+   Slovenia,705,2015,75365,Mujeres
+   Spain*,724,2015,690514,Mujeres
+  Western Europe,926,2015,4424078,Mujeres
+   Austria,40,2015,281367,Mujeres
+   Belgium,56,2015,271837,Mujeres
+   France*,250,2015,1095545,Mujeres
+   Germany,276,2015,1940952,Mujeres
+   Liechtenstein,438,2015,1971,Mujeres
+   Luxembourg,442,2015,36644,Mujeres
+   Monaco,492,2015,15402,Mujeres
+   Netherlands*,528,2015,431463,Mujeres
+   Switzerland,756,2015,348897,Mujeres
+ LATIN AMERICA AND THE CARIBBEAN,904,2015,18623861,Mujeres
+  Caribbean,915,2015,4332390,Mujeres
+   Anguilla*,660,2015,1203,Mujeres
+   Antigua and Barbuda,28,2015,28397,Mujeres
+   Aruba*,533,2015,9364,Mujeres
+   Bahamas,44,2015,24850,Mujeres
+   Barbados,52,2015,54727,Mujeres
+"   Bonaire, Sint Eustatius and Saba*",535,2015,4048,Mujeres
+   British Virgin Islands*,92,2015,2873,Mujeres
+   Cayman Islands*,136,2015,913,Mujeres
+   Cuba,192,2015,803437,Mujeres
+   Curaçao*,531,2015,3098,Mujeres
+   Dominica,212,2015,42143,Mujeres
+   Dominican Republic,214,2015,846122,Mujeres
+   Grenada,308,2015,39030,Mujeres
+   Guadeloupe*,312,2015,7319,Mujeres
+   Haiti,332,2015,673693,Mujeres
+   Jamaica,388,2015,591249,Mujeres
+   Martinique*,474,2015,7159,Mujeres
+   Montserrat*,500,2015,11273,Mujeres
+   Puerto Rico*,630,2015,874206,Mujeres
+   Saint Barthélemy*,652,2015,0,Mujeres
+   Saint Kitts and Nevis,659,2015,22097,Mujeres
+   Saint Lucia,662,2015,33738,Mujeres
+   Saint Martin (French part)*,663,2015,0,Mujeres
+   Saint Vincent and the Grenadines,670,2015,33230,Mujeres
+   Sint Maarten (Dutch part)*,534,2015,997,Mujeres
+   Trinidad and Tobago,780,2015,214059,Mujeres
+   Turks and Caicos Islands*,796,2015,1418,Mujeres
+   United States Virgin Islands*,850,2015,1747,Mujeres
+  Central America,916,2015,7851740,Mujeres
+   Belize,84,2015,36484,Mujeres
+   Costa Rica,188,2015,79121,Mujeres
+   El Salvador,222,2015,759434,Mujeres
+   Guatemala,320,2015,560261,Mujeres
+   Honduras,340,2015,424188,Mujeres
+   Mexico,484,2015,5565115,Mujeres
+   Nicaragua,558,2015,350472,Mujeres
+   Panama,591,2015,76665,Mujeres
+  South America,931,2015,6439731,Mujeres
+   Argentina,32,2015,481017,Mujeres
+   Bolivia (Plurinational State of),68,2015,433151,Mujeres
+   Brazil,76,2015,867193,Mujeres
+   Chile,152,2015,326820,Mujeres
+   Colombia,170,2015,1464470,Mujeres
+   Ecuador,218,2015,592621,Mujeres
+   Falkland Islands (Malvinas)*,238,2015,792,Mujeres
+   French Guiana*,254,2015,2670,Mujeres
+   Guyana,328,2015,258873,Mujeres
+   Paraguay,600,2015,482486,Mujeres
+   Peru,604,2015,804246,Mujeres
+   Suriname,740,2015,141828,Mujeres
+   Uruguay,858,2015,185978,Mujeres
+   Venezuela (Bolivarian Republic of),862,2015,397586,Mujeres
+ NORTHERN AMERICA,905,2015,2154270,Mujeres
+   Bermuda*,60,2015,8218,Mujeres
+   Canada,124,2015,784389,Mujeres
+   Greenland*,304,2015,9557,Mujeres
+   Saint Pierre and Miquelon*,666,2015,178,Mujeres
+   United States of America*,840,2015,1351928,Mujeres
+ OCEANIA ,909,2015,887911,Mujeres
+  Australia and New Zealand,927,2015,633506,Mujeres
+   Australia*,36,2015,270033,Mujeres
+   New Zealand*,554,2015,363473,Mujeres
+  Melanesia,928,2015,120246,Mujeres
+   Fiji,242,2015,109257,Mujeres
+   New Caledonia*,540,2015,2859,Mujeres
+   Papua New Guinea,598,2015,2629,Mujeres
+   Solomon Islands,90,2015,1973,Mujeres
+   Vanuatu,548,2015,3528,Mujeres
+  Micronesia,954,2015,21081,Mujeres
+   Guam*,316,2015,1151,Mujeres
+   Kiribati,296,2015,2110,Mujeres
+   Marshall Islands,584,2015,3862,Mujeres
+   Micronesia (Fed. States of),583,2015,10321,Mujeres
+   Nauru,520,2015,1139,Mujeres
+   Northern Mariana Islands*,580,2015,1268,Mujeres
+   Palau,585,2015,1230,Mujeres
+  Polynesia*,957,2015,113078,Mujeres
+   American Samoa*,16,2015,969,Mujeres
+   Cook Islands*,184,2015,10864,Mujeres
+   French Polynesia*,258,2015,896,Mujeres
+   Niue*,570,2015,2728,Mujeres
+   Samoa,882,2015,59346,Mujeres
+   Tokelau*,772,2015,1075,Mujeres
+   Tonga,776,2015,29727,Mujeres
+   Tuvalu,798,2015,1610,Mujeres
+   Wallis and Futuna Islands*,876,2015,5863,Mujeres
+OTHER,2003,2015,5233330,Mujeres
+WORLD,900,2020,134942261,Mujeres
+  Sub-Saharan Africa,947,2020,13551736,Mujeres
+  Northern Africa and Western Asia,1833,2020,16622770,Mujeres
+  Central and Southern Asia,921,2020,20017972,Mujeres
+  Eastern and South-Eastern Asia,1832,2020,19598828,Mujeres
+  Latin America and the Caribbean,1830,2020,22193206,Mujeres
+  Oceania (excluding Australia and New Zealand),1835,2020,291478,Mujeres
+  Australia and New Zealand,927,2020,711082,Mujeres
+  Europe and Northern America,1829,2020,35831236,Mujeres
+  Developed regions,901,2020,36988213,Mujeres
+  Less developed regions,902,2020,91830095,Mujeres
+" Less developed regions, excluding least developed countries",934,2020,71028827,Mujeres
+" Less developed regions, excluding China",948,2020,85565160,Mujeres
+  Least developed countries,941,2020,20801268,Mujeres
+  Land-locked Developing Countries (LLDC),1636,2020,17130334,Mujeres
+  Small island developing States (SIDS),1637,2020,6141558,Mujeres
+  High-income countries,1503,2020,27251559,Mujeres
+  Middle-income countries,1517,2020,84500002,Mujeres
+ Upper-middle-income countries,1502,2020,45646534,Mujeres
+ Lower-middle-income countries,1501,2020,38853468,Mujeres
+  Low-income countries,1500,2020,16907452,Mujeres
+ AFRICA,903,2020,18837331,Mujeres
+  Eastern Africa,910,2020,5890849,Mujeres
+   Burundi,108,2020,276192,Mujeres
+   Comoros,174,2020,77821,Mujeres
+   Djibouti,262,2020,9072,Mujeres
+   Eritrea,232,2020,379941,Mujeres
+   Ethiopia,231,2020,435867,Mujeres
+   Kenya,404,2020,282589,Mujeres
+   Madagascar,450,2020,118550,Mujeres
+   Malawi,454,2020,125626,Mujeres
+   Mauritius*,480,2020,100183,Mujeres
+   Mayotte*,175,2020,3462,Mujeres
+   Mozambique,508,2020,254220,Mujeres
+   Réunion*,638,2020,1875,Mujeres
+   Rwanda,646,2020,251302,Mujeres
+   Seychelles,690,2020,16634,Mujeres
+   Somalia,706,2020,969435,Mujeres
+   South Sudan,728,2020,1304766,Mujeres
+   Uganda,800,2020,408705,Mujeres
+   United Republic of Tanzania*,834,2020,165388,Mujeres
+   Zambia,894,2020,107079,Mujeres
+   Zimbabwe,716,2020,602142,Mujeres
+  Middle Africa,911,2020,2197096,Mujeres
+   Angola,24,2020,333680,Mujeres
+   Cameroon,120,2020,221636,Mujeres
+   Central African Republic,140,2020,407182,Mujeres
+   Chad,148,2020,102409,Mujeres
+   Congo,178,2020,110314,Mujeres
+   Democratic Republic of the Congo,180,2020,915890,Mujeres
+   Equatorial Guinea,226,2020,60021,Mujeres
+   Gabon,266,2020,25187,Mujeres
+   Sao Tome and Principe,678,2020,20777,Mujeres
+  Northern Africa,912,2020,5285595,Mujeres
+   Algeria,12,2020,936686,Mujeres
+   Egypt,818,2020,1268575,Mujeres
+   Libya,434,2020,84392,Mujeres
+   Morocco,504,2020,1554794,Mujeres
+   Sudan,729,2020,949203,Mujeres
+   Tunisia,788,2020,399864,Mujeres
+   Western Sahara,732,2020,92081,Mujeres
+  Southern Africa,913,2020,649549,Mujeres
+   Botswana,72,2020,23831,Mujeres
+   Eswatini,748,2020,25700,Mujeres
+   Lesotho,426,2020,112597,Mujeres
+   Namibia,516,2020,24158,Mujeres
+   South Africa,710,2020,463263,Mujeres
+  Western Africa,914,2020,4814242,Mujeres
+   Benin,204,2020,316489,Mujeres
+   Burkina Faso,854,2020,705008,Mujeres
+   Cabo Verde,132,2020,102526,Mujeres
+   Côte d'Ivoire,384,2020,578079,Mujeres
+   Gambia,270,2020,45796,Mujeres
+   Ghana,288,2020,474892,Mujeres
+   Guinea,324,2020,238728,Mujeres
+   Guinea-Bissau,624,2020,51158,Mujeres
+   Liberia,430,2020,117329,Mujeres
+   Mali,466,2020,561454,Mujeres
+   Mauritania,478,2020,50167,Mujeres
+   Niger,562,2020,163391,Mujeres
+   Nigeria,566,2020,792768,Mujeres
+   Saint Helena*,654,2020,2904,Mujeres
+   Senegal,686,2020,263323,Mujeres
+   Sierra Leone,694,2020,76343,Mujeres
+   Togo,768,2020,273887,Mujeres
+ ASIA,935,2020,50953975,Mujeres
+  Central Asia,5500,2020,4028125,Mujeres
+   Kazakhstan,398,2020,2269191,Mujeres
+   Kyrgyzstan,417,2020,406111,Mujeres
+   Tajikistan,762,2020,249458,Mujeres
+   Turkmenistan,795,2020,126958,Mujeres
+   Uzbekistan,860,2020,976407,Mujeres
+  Eastern Asia,906,2020,7921840,Mujeres
+   China*,156,2020,5692658,Mujeres
+"   China, Hong Kong SAR*",344,2020,491682,Mujeres
+"   China, Macao SAR*",446,2020,80595,Mujeres
+"   China, Taiwan Province of China*",158,2020,0,Mujeres
+   Dem. People's Republic of Korea,408,2020,52215,Mujeres
+   Japan,392,2020,445895,Mujeres
+   Mongolia,496,2020,42732,Mujeres
+   Republic of Korea,410,2020,1116063,Mujeres
+  South-Eastern Asia,920,2020,11676988,Mujeres
+   Brunei Darussalam,96,2020,19515,Mujeres
+   Cambodia,116,2020,591815,Mujeres
+   Indonesia,360,2020,2040599,Mujeres
+   Lao People's Democratic Republic,418,2020,724859,Mujeres
+   Malaysia*,458,2020,1054880,Mujeres
+   Myanmar,104,2020,1387852,Mujeres
+   Philippines,608,2020,3289340,Mujeres
+   Singapore,702,2020,181633,Mujeres
+   Thailand,764,2020,663529,Mujeres
+   Timor-Leste,626,2020,17792,Mujeres
+   Viet Nam,704,2020,1705174,Mujeres
+  Southern Asia,5501,2020,15989847,Mujeres
+   Afghanistan,4,2020,2627519,Mujeres
+   Bangladesh,50,2020,2429833,Mujeres
+   Bhutan,64,2020,25703,Mujeres
+   India,356,2020,6137451,Mujeres
+   Iran (Islamic Republic of),364,2020,616249,Mujeres
+   Maldives,462,2020,1970,Mujeres
+   Nepal,524,2020,1138005,Mujeres
+   Pakistan,586,2020,2181329,Mujeres
+   Sri Lanka,144,2020,831788,Mujeres
+  Western Asia,922,2020,11337175,Mujeres
+   Armenia,51,2020,444753,Mujeres
+   Azerbaijan*,31,2020,540522,Mujeres
+   Bahrain,48,2020,34499,Mujeres
+   Cyprus*,196,2020,90196,Mujeres
+   Georgia*,268,2020,432283,Mujeres
+   Iraq,368,2020,1039966,Mujeres
+   Israel,376,2020,173478,Mujeres
+   Jordan,400,2020,297955,Mujeres
+   Kuwait,414,2020,82657,Mujeres
+   Lebanon,422,2020,349915,Mujeres
+   Oman,512,2020,11525,Mujeres
+   Qatar,634,2020,12560,Mujeres
+   Saudi Arabia,682,2020,134085,Mujeres
+   State of Palestine*,275,2020,1910537,Mujeres
+   Syrian Arab Republic,760,2020,3587239,Mujeres
+   Turkey,792,2020,1645382,Mujeres
+   United Arab Emirates,784,2020,95759,Mujeres
+   Yemen,887,2020,453864,Mujeres
+ EUROPE,908,2020,33524765,Mujeres
+  Eastern Europe,923,2020,17726223,Mujeres
+   Belarus,112,2020,853608,Mujeres
+   Bulgaria,100,2020,990218,Mujeres
+   Czechia,203,2020,589880,Mujeres
+   Hungary,348,2020,361925,Mujeres
+   Poland,616,2020,2526101,Mujeres
+   Republic of Moldova*,498,2020,605123,Mujeres
+   Romania,642,2020,2113078,Mujeres
+   Russian Federation,643,2020,6101676,Mujeres
+   Slovakia,703,2020,224087,Mujeres
+   Ukraine*,804,2020,3360527,Mujeres
+  Northern Europe,924,2020,4064189,Mujeres
+   Channel Islands*,830,2020,8322,Mujeres
+   Denmark*,208,2020,134925,Mujeres
+   Estonia,233,2020,115194,Mujeres
+   Faroe Islands*,234,2020,7416,Mujeres
+   Finland*,246,2020,188091,Mujeres
+   Iceland,352,2020,22078,Mujeres
+   Ireland,372,2020,392710,Mujeres
+   Isle of Man*,833,2020,6216,Mujeres
+   Latvia,428,2020,207415,Mujeres
+   Lithuania,440,2020,369405,Mujeres
+   Norway*,578,2020,108603,Mujeres
+   Sweden,752,2020,180043,Mujeres
+   United Kingdom*,826,2020,2323771,Mujeres
+  Southern Europe,925,2020,6907532,Mujeres
+   Albania,8,2020,607825,Mujeres
+   Andorra,20,2020,5830,Mujeres
+   Bosnia and Herzegovina,70,2020,866907,Mujeres
+   Croatia,191,2020,543993,Mujeres
+   Gibraltar*,292,2020,6955,Mujeres
+   Greece,300,2020,521466,Mujeres
+   Holy See*,336,2020,103,Mujeres
+   Italy,380,2020,1501829,Mujeres
+   Malta,470,2020,51109,Mujeres
+   Montenegro,499,2020,71418,Mujeres
+   North Macedonia,807,2020,336157,Mujeres
+   Portugal,620,2020,1007321,Mujeres
+   San Marino,674,2020,1421,Mujeres
+   Serbia*,688,2020,506398,Mujeres
+   Slovenia,705,2020,86810,Mujeres
+   Spain*,724,2020,791990,Mujeres
+  Western Europe,926,2020,4826821,Mujeres
+   Austria,40,2020,319417,Mujeres
+   Belgium,56,2020,300709,Mujeres
+   France*,250,2020,1202799,Mujeres
+   Germany,276,2020,2070781,Mujeres
+   Liechtenstein,438,2020,2051,Mujeres
+   Luxembourg,442,2020,41297,Mujeres
+   Monaco,492,2020,17079,Mujeres
+   Netherlands*,528,2020,485664,Mujeres
+   Switzerland,756,2020,387024,Mujeres
+ LATIN AMERICA AND THE CARIBBEAN,904,2020,22193206,Mujeres
+  Caribbean,915,2020,4825805,Mujeres
+   Anguilla*,660,2020,1212,Mujeres
+   Antigua and Barbuda,28,2020,36613,Mujeres
+   Aruba*,533,2020,12130,Mujeres
+   Bahamas,44,2020,31464,Mujeres
+   Barbados,52,2020,53705,Mujeres
+"   Bonaire, Sint Eustatius and Saba*",535,2020,4491,Mujeres
+   British Virgin Islands*,92,2020,3012,Mujeres
+   Cayman Islands*,136,2020,1045,Mujeres
+   Cuba,192,2020,934594,Mujeres
+   Curaçao*,531,2020,3811,Mujeres
+   Dominica,212,2020,45735,Mujeres
+   Dominican Republic,214,2020,944161,Mujeres
+   Grenada,308,2020,34632,Mujeres
+   Guadeloupe*,312,2020,7589,Mujeres
+   Haiti,332,2020,804775,Mujeres
+   Jamaica,388,2020,643909,Mujeres
+   Martinique*,474,2020,7340,Mujeres
+   Montserrat*,500,2020,13902,Mujeres
+   Puerto Rico*,630,2020,944847,Mujeres
+   Saint Barthélemy*,652,2020,0,Mujeres
+   Saint Kitts and Nevis,659,2020,27926,Mujeres
+   Saint Lucia,662,2020,41595,Mujeres
+   Saint Martin (French part)*,663,2020,0,Mujeres
+   Saint Vincent and the Grenadines,670,2020,29757,Mujeres
+   Sint Maarten (Dutch part)*,534,2020,1126,Mujeres
+   Trinidad and Tobago,780,2020,193142,Mujeres
+   Turks and Caicos Islands*,796,2020,1553,Mujeres
+   United States Virgin Islands*,850,2020,1739,Mujeres
+  Central America,916,2020,7886439,Mujeres
+   Belize,84,2020,30659,Mujeres
+   Costa Rica,188,2020,86112,Mujeres
+   El Salvador,222,2020,804890,Mujeres
+   Guatemala,320,2020,691789,Mujeres
+   Honduras,340,2020,584004,Mujeres
+   Mexico,484,2020,5237864,Mujeres
+   Nicaragua,558,2020,379666,Mujeres
+   Panama,591,2020,71455,Mujeres
+  South America,931,2020,9480962,Mujeres
+   Argentina,32,2020,550257,Mujeres
+   Bolivia (Plurinational State of),68,2020,491909,Mujeres
+   Brazil,76,2020,1095206,Mujeres
+   Chile,152,2020,337596,Mujeres
+   Colombia,170,2020,1647831,Mujeres
+   Ecuador,218,2020,596385,Mujeres
+   Falkland Islands (Malvinas)*,238,2020,882,Mujeres
+   French Guiana*,254,2020,2691,Mujeres
+   Guyana,328,2020,237181,Mujeres
+   Paraguay,600,2020,511676,Mujeres
+   Peru,604,2020,854528,Mujeres
+   Suriname,740,2020,152426,Mujeres
+   Uruguay,858,2020,192259,Mujeres
+   Venezuela (Bolivarian Republic of),862,2020,2810135,Mujeres
+ NORTHERN AMERICA,905,2020,2306471,Mujeres
+   Bermuda*,60,2020,10795,Mujeres
+   Canada,124,2020,793291,Mujeres
+   Greenland*,304,2020,10208,Mujeres
+   Saint Pierre and Miquelon*,666,2020,191,Mujeres
+   United States of America*,840,2020,1491986,Mujeres
+ OCEANIA ,909,2020,1002560,Mujeres
+  Australia and New Zealand,927,2020,711082,Mujeres
+   Australia*,36,2020,311656,Mujeres
+   New Zealand*,554,2020,399426,Mujeres
+  Melanesia,928,2020,134495,Mujeres
+   Fiji,242,2020,123040,Mujeres
+   New Caledonia*,540,2020,2984,Mujeres
+   Papua New Guinea,598,2020,2457,Mujeres
+   Solomon Islands,90,2020,2198,Mujeres
+   Vanuatu,548,2020,3816,Mujeres
+  Micronesia,954,2020,25819,Mujeres
+   Guam*,316,2020,1206,Mujeres
+   Kiribati,296,2020,2608,Mujeres
+   Marshall Islands,584,2020,5571,Mujeres
+   Micronesia (Fed. States of),583,2020,12584,Mujeres
+   Nauru,520,2020,1240,Mujeres
+   Northern Mariana Islands*,580,2020,1340,Mujeres
+   Palau,585,2020,1270,Mujeres
+  Polynesia*,957,2020,131164,Mujeres
+   American Samoa*,16,2020,908,Mujeres
+   Cook Islands*,184,2020,10653,Mujeres
+   French Polynesia*,258,2020,970,Mujeres
+   Niue*,570,2020,2631,Mujeres
+   Samoa,882,2020,69061,Mujeres
+   Tokelau*,772,2020,1044,Mujeres
+   Tonga,776,2020,37799,Mujeres
+   Tuvalu,798,2020,1854,Mujeres
+   Wallis and Futuna Islands*,876,2020,6244,Mujeres
+OTHER,2003,2020,6123953,Mujeres

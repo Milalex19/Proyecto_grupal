@@ -1,0 +1,1814 @@
+"Region, development group, country or area",Notes,Location code,Type of data,Year,Numero de Migrantes
+   Burundi,0,108,B R,1990,51.0
+   Comoros,0,174,B,1990,52.3
+   Djibouti,0,262,B R,1990,47.4
+   Eritrea,0,232,I R,1990,47.4
+   Ethiopia,0,231,B R,1990,47.4
+   Kenya,0,404,B R,1990,45.9
+   Madagascar,0,450,C R,1990,44.2
+   Malawi,0,454,B R,1990,51.5
+   Mauritius*,0,480,C,1990,51.2
+   Mayotte*,1.0,175,B R,1990,42.3
+   Mozambique,0,508,B R,1990,46.0
+   Réunion*,2.0,638,B,1990,46.3
+   Rwanda,0,646,B R,1990,49.5
+   Seychelles,0,690,B,1990,40.8
+   Somalia,0,706,I R,1990,48.9
+   South Sudan,0,728,B R,1990,0.0
+   Uganda,0,800,B R,1990,47.9
+   United Republic of Tanzania*,0,834,B R,1990,50.6
+   Zambia,0,894,B R,1990,48.8
+   Zimbabwe,0,716,B R,1990,43.9
+  Middle Africa,0,911,0,1990,49.0
+   Angola,0,24,B R,1990,45.9
+   Cameroon,0,120,B R,1990,45.2
+   Central African Republic,0,140,C R,1990,46.9
+   Chad,0,148,B R,1990,46.0
+   Congo,0,178,B R,1990,50.3
+   Democratic Republic of the Congo,0,180,B R,1990,51.9
+   Equatorial Guinea,0,226,C,1990,46.5
+   Gabon,0,266,C R,1990,42.9
+   Sao Tome and Principe,0,678,C,1990,47.1
+  Northern Africa,0,912,0,1990,48.8
+   Algeria,0,12,B R,1990,45.2
+   Egypt,0,818,B R,1990,47.1
+   Libya,0,434,C R,1990,46.9
+   Morocco,0,504,C R,1990,47.1
+   Sudan,3.0,729,B R,1990,50.4
+   Tunisia,0,788,C R,1990,50.2
+   Western Sahara,0,732,I,1990,45.5
+  Southern Africa,0,913,0,1990,39.7
+   Botswana,0,72,B R,1990,39.6
+   Eswatini,0,748,B R,1990,46.8
+   Lesotho,0,426,C R,1990,47.6
+   Namibia,0,516,B R,1990,47.2
+   South Africa,0,710,B R,1990,38.4
+  Western Africa,0,914,0,1990,46.5
+   Benin,0,204,C B R,1990,47.3
+   Burkina Faso,0,854,B R,1990,52.0
+   Cabo Verde,0,132,B R,1990,50.4
+   Côte d'Ivoire,0,384,C B R,1990,44.3
+   Gambia,0,270,B R,1990,43.9
+   Ghana,0,288,B R,1990,49.6
+   Guinea,0,324,C B R,1990,50.1
+   Guinea-Bissau,0,624,B R,1990,50.0
+   Liberia,0,430,B R,1990,43.2
+   Mali,0,466,B R,1990,49.0
+   Mauritania,0,478,C R,1990,48.4
+   Niger,0,562,B R,1990,52.2
+   Nigeria,0,566,C R,1990,43.9
+   Saint Helena*,4.0,654,C,1990,38.2
+   Senegal,0,686,B R,1990,48.7
+   Sierra Leone,0,694,B R,1990,44.7
+   Togo,0,768,C R,1990,49.4
+ ASIA,0,935,0,1990,46.8
+  Central Asia,0,5500,0,1990,55.2
+   Kazakhstan,0,398,B R,1990,54.0
+   Kyrgyzstan,0,417,B R,1990,58.2
+   Tajikistan,0,762,B R,1990,56.2
+   Turkmenistan,0,795,B R,1990,56.2
+   Uzbekistan,0,860,B R,1990,56.2
+  Eastern Asia,0,906,0,1990,49.6
+   China*,0,156,C,1990,49.0
+"   China, Hong Kong SAR*",0,344,B R,1990,49.3
+"   China, Macao SAR*",0,446,B,1990,53.0
+"   China, Taiwan Province of China*",0,158,0,1990,0.0
+   Dem. People's Republic of Korea,0,408,I,1990,49.0
+   Japan,0,392,C,1990,49.9
+   Mongolia,0,496,C R,1990,49.1
+   Republic of Korea,0,410,C R,1990,43.7
+  South-Eastern Asia,0,920,0,1990,47.5
+   Brunei Darussalam,0,96,B,1990,42.8
+   Cambodia,0,116,B R,1990,50.3
+   Indonesia,0,360,B R,1990,50.6
+   Lao People's Democratic Republic,0,418,C R,1990,48.4
+   Malaysia*,0,458,C R,1990,41.7
+   Myanmar,0,104,C,1990,45.9
+   Philippines,0,608,C R,1990,47.2
+   Singapore,0,702,B,1990,52.4
+   Thailand,0,764,B R,1990,46.4
+   Timor-Leste,0,626,B R,1990,50.3
+   Viet Nam,0,704,C R,1990,45.8
+  Southern Asia,0,5501,0,1990,47.4
+   Afghanistan,0,4,B R,1990,43.6
+   Bangladesh,0,50,B R,1990,46.0
+   Bhutan,0,64,B,1990,18.5
+   India,0,356,B R,1990,47.8
+   Iran (Islamic Republic of),0,364,C R,1990,44.8
+   Maldives,0,462,C,1990,45.0
+   Nepal,0,524,B R,1990,70.7
+   Pakistan,0,586,B R,1990,47.4
+   Sri Lanka,0,144,B R,1990,43.6
+  Western Asia,0,922,0,1990,41.4
+   Armenia,0,51,B R,1990,58.9
+   Azerbaijan*,0,31,B R,1990,56.2
+   Bahrain,0,48,C R,1990,29.1
+   Cyprus*,0,196,B,1990,53.3
+   Georgia*,0,268,B R,1990,56.2
+   Iraq,0,368,C R,1990,33.3
+   Israel,0,376,B R,1990,52.8
+   Jordan,0,400,C R,1990,48.8
+   Kuwait,0,414,C R,1990,39.0
+   Lebanon,0,422,B R,1990,48.8
+   Oman,0,512,C R,1990,20.2
+   Qatar,0,634,C,1990,27.1
+   Saudi Arabia,0,682,C R,1990,33.5
+   State of Palestine*,5.0,275,B,1990,54.2
+   Syrian Arab Republic,0,760,C R,1990,49.0
+   Turkey,0,792,B R,1990,50.4
+   United Arab Emirates,0,784,C R,1990,28.7
+   Yemen,0,887,C R,1990,43.6
+ EUROPE,0,908,0,1990,51.4
+  Eastern Europe,0,923,0,1990,53.6
+   Belarus,0,112,B,1990,54.2
+   Bulgaria,0,100,B,1990,57.9
+   Czechia,0,203,C,1990,48.0
+   Hungary,0,348,B,1990,55.1
+   Poland,0,616,B,1990,57.2
+   Republic of Moldova*,0,498,B,1990,56.3
+   Romania,0,642,B,1990,57.6
+   Russian Federation,0,643,B,1990,50.9
+   Slovakia,0,703,B,1990,56.0
+   Ukraine*,0,804,B,1990,57.2
+  Northern Europe,0,924,0,1990,52.2
+   Channel Islands*,6.0,830,B,1990,53.0
+   Denmark*,7.0,208,B,1990,51.4
+   Estonia,0,233,B,1990,55.1
+   Faroe Islands*,8.0,234,B,1990,43.1
+   Finland*,0,246,B,1990,49.9
+   Iceland,0,352,B,1990,55.7
+   Ireland,0,372,B,1990,50.8
+   Isle of Man*,9.0,833,B,1990,52.9
+   Latvia,0,428,B,1990,55.0
+   Lithuania,0,440,B,1990,52.9
+   Norway*,0,578,B,1990,48.3
+   Sweden,0,752,B,1990,51.4
+   United Kingdom*,10.0,826,B,1990,51.9
+  Southern Europe,0,925,0,1990,52.5
+   Albania,0,8,B,1990,53.7
+   Andorra,0,20,C,1990,46.0
+   Bosnia and Herzegovina,0,70,I R,1990,52.6
+   Croatia,0,191,B,1990,53.2
+   Gibraltar*,11.0,292,B,1990,48.0
+   Greece,0,300,B,1990,46.6
+   Holy See*,0,336,I,1990,50.7
+   Italy,0,380,B,1990,55.0
+   Malta,0,470,B,1990,53.5
+   Montenegro,0,499,B,1990,0.0
+   North Macedonia,0,807,B,1990,58.3
+   Portugal,0,620,B,1990,51.8
+   San Marino,0,674,C,1990,47.8
+   Serbia*,0,688,B,1990,52.9
+   Slovenia,0,705,B,1990,49.7
+   Spain*,0,724,B,1990,52.5
+  Western Europe,0,926,0,1990,47.8
+   Austria,0,40,B,1990,53.6
+   Belgium,0,56,B,1990,48.9
+   France*,12.0,250,B,1990,49.1
+   Germany,0,276,B,1990,44.5
+   Liechtenstein,0,438,B,1990,45.4
+   Luxembourg,0,442,B,1990,50.7
+   Monaco,0,492,B,1990,53.5
+   Netherlands*,13.0,528,B,1990,49.9
+   Switzerland,0,756,B,1990,49.6
+ LATIN AMERICA AND THE CARIBBEAN,0,904,0,1990,49.8
+  Caribbean,0,915,0,1990,47.7
+   Anguilla*,14.0,660,B R,1990,51.1
+   Antigua and Barbuda,0,28,B R,1990,52.0
+   Aruba*,15.0,533,B R,1990,55.5
+   Bahamas,0,44,B R,1990,48.5
+   Barbados,0,52,B R,1990,58.1
+"   Bonaire, Sint Eustatius and Saba*",16.0,535,B,1990,0.0
+   British Virgin Islands*,18.0,92,B R,1990,48.6
+   Cayman Islands*,19.0,136,C R,1990,50.8
+   Cuba,0,192,B,1990,50.0
+   Curaçao*,20.0,531,B R,1990,0.0
+   Dominica,0,212,B,1990,48.0
+   Dominican Republic,0,214,B R,1990,37.6
+   Grenada,0,308,B,1990,50.6
+   Guadeloupe*,21.0,312,B,1990,50.4
+   Haiti,0,332,B R,1990,44.4
+   Jamaica,0,388,B R,1990,51.3
+   Martinique*,22.0,474,B R,1990,50.7
+   Montserrat*,23.0,500,B,1990,48.9
+   Puerto Rico*,24.0,630,B,1990,52.4
+   Saint Barthélemy*,0,652,0,1990,0.0
+   Saint Kitts and Nevis,0,659,B R,1990,48.8
+   Saint Lucia,0,662,B R,1990,50.7
+   Saint Martin (French part)*,0,663,0,1990,0.0
+   Saint Vincent and the Grenadines,0,670,B R,1990,51.4
+   Sint Maarten (Dutch part)*,25.0,534,B R,1990,0.0
+   Trinidad and Tobago,0,780,B R,1990,53.6
+   Turks and Caicos Islands*,26.0,796,B R,1990,48.2
+   United States Virgin Islands*,27.0,850,B,1990,52.2
+  Central America,0,916,0,1990,50.6
+   Belize,0,84,B R ,1990,46.1
+   Costa Rica,0,188,B R,1990,49.2
+   El Salvador,0,222,B R,1990,53.1
+   Guatemala,0,320,B R,1990,57.4
+   Honduras,0,340,B R,1990,49.1
+   Mexico,0,484,B R,1990,49.9
+   Nicaragua,0,558,B R,1990,49.6
+   Panama,0,591,B R,1990,47.2
+  South America,0,931,0,1990,49.9
+   Argentina,0,32,B R,1990,52.2
+   Bolivia (Plurinational State of),0,68,B R,1990,49.1
+   Brazil,0,76,B R,1990,46.6
+   Chile,0,152,B,1990,49.3
+   Colombia,0,170,B,1990,49.1
+   Ecuador,0,218,B R,1990,51.0
+   Falkland Islands (Malvinas)*,28.0,238,B,1990,42.9
+   French Guiana*,29.0,254,B R,1990,45.2
+   Guyana,0,328,B R,1990,46.3
+   Paraguay,0,600,B R,1990,47.5
+   Peru,0,604,B R,1990,49.9
+   Suriname,0,740,C R,1990,46.0
+   Uruguay,0,858,B R,1990,53.3
+   Venezuela (Bolivarian Republic of),0,862,B R,1990,49.5
+ NORTHERN AMERICA,0,905,0,1990,51.1
+   Bermuda*,30.0,60,B,1990,51.8
+   Canada,0,124,B,1990,51.3
+   Greenland*,31.0,304,B,1990,30.3
+   Saint Pierre and Miquelon*,32.0,666,B,1990,49.0
+   United States of America*,33.0,840,B,1990,51.1
+ OCEANIA ,0,909,0,1990,48.9
+   Australia*,0,36,B,1990,49.1
+   New Zealand*,34.0,554,B,1990,50.2
+  Melanesia,0,928,0,1990,44.4
+   Fiji,0,242,B R,1990,48.5
+   New Caledonia*,0,540,B,1990,44.6
+   Papua New Guinea,0,598,C R,1990,42.6
+   Solomon Islands,0,90,B R,1990,44.4
+   Vanuatu,0,548,B R,1990,45.0
+  Micronesia,0,954,0,1990,44.2
+   Guam*,35.0,316,B,1990,43.6
+   Kiribati,0,296,B,1990,48.8
+   Marshall Islands,0,584,B,1990,37.7
+   Micronesia (Fed. States of),0,583,B,1990,43.0
+   Nauru,0,520,C R,1990,46.5
+   Northern Mariana Islands*,36.0,580,B,1990,46.4
+   Palau,0,585,B,1990,35.7
+  Polynesia*,0,957,0,1990,44.2
+   American Samoa*,0,16,B,1990,47.5
+   Cook Islands*,37.0,184,B R,1990,44.2
+   French Polynesia*,38.0,258,B R,1990,40.2
+   Niue*,39.0,570,B,1990,46.9
+   Samoa,0,882,B R,1990,47.2
+   Tokelau*,40.0,772,B R,1990,45.6
+   Tonga,0,776,B R,1990,48.9
+   Tuvalu,0,798,C,1990,43.4
+   Wallis and Futuna Islands*,41.0,876,B R,1990,48.2
+   Burundi,0,108,B R,1995,51.3
+   Comoros,0,174,B,1995,52.6
+   Djibouti,0,262,B R,1995,47.4
+   Eritrea,0,232,I R,1995,47.2
+   Ethiopia,0,231,B R,1995,47.4
+   Kenya,0,404,B R,1995,47.9
+   Madagascar,0,450,C R,1995,43.8
+   Malawi,0,454,B R,1995,51.9
+   Mauritius*,0,480,C,1995,56.9
+   Mayotte*,1.0,175,B R,1995,44.2
+   Mozambique,0,508,B R,1995,45.8
+   Réunion*,2.0,638,B,1995,47.2
+   Rwanda,0,646,B R,1995,49.1
+   Seychelles,0,690,B,1995,41.3
+   Somalia,0,706,I R,1995,47.3
+   South Sudan,0,728,B R,1995,0.0
+   Uganda,0,800,B R,1995,49.2
+   United Republic of Tanzania*,0,834,B R,1995,50.5
+   Zambia,0,894,B R,1995,48.7
+   Zimbabwe,0,716,B R,1995,43.0
+  Middle Africa,0,911,0,1995,49.1
+   Angola,0,24,B R,1995,47.9
+   Cameroon,0,120,B R,1995,45.3
+   Central African Republic,0,140,C R,1995,46.9
+   Chad,0,148,B R,1995,46.1
+   Congo,0,178,B R,1995,50.0
+   Democratic Republic of the Congo,0,180,B R,1995,50.4
+   Equatorial Guinea,0,226,C,1995,46.8
+   Gabon,0,266,C R,1995,42.9
+   Sao Tome and Principe,0,678,C,1995,48.4
+  Northern Africa,0,912,0,1995,46.9
+   Algeria,0,12,B R,1995,45.2
+   Egypt,0,818,B R,1995,47.0
+   Libya,0,434,C R,1995,40.8
+   Morocco,0,504,C R,1995,47.8
+   Sudan,3.0,729,B R,1995,50.1
+   Tunisia,0,788,C R,1995,49.7
+   Western Sahara,0,732,I,1995,44.8
+  Southern Africa,0,913,0,1995,40.2
+   Botswana,0,72,B R,1995,41.5
+   Eswatini,0,748,B R,1995,46.8
+   Lesotho,0,426,C R,1995,46.9
+   Namibia,0,516,B R,1995,46.9
+   South Africa,0,710,B R,1995,39.1
+  Western Africa,0,914,0,1995,47.1
+   Benin,0,204,C B R,1995,46.7
+   Burkina Faso,0,854,B R,1995,51.9
+   Cabo Verde,0,132,B R,1995,49.0
+   Côte d'Ivoire,0,384,C B R,1995,44.6
+   Gambia,0,270,B R,1995,45.6
+   Ghana,0,288,B R,1995,49.6
+   Guinea,0,324,C B R,1995,50.1
+   Guinea-Bissau,0,624,B R,1995,50.5
+   Liberia,0,430,B R,1995,46.5
+   Mali,0,466,B R,1995,48.4
+   Mauritania,0,478,C R,1995,47.5
+   Niger,0,562,B R,1995,52.2
+   Nigeria,0,566,C R,1995,44.3
+   Saint Helena*,4.0,654,C,1995,40.2
+   Senegal,0,686,B R,1995,48.8
+   Sierra Leone,0,694,B R,1995,43.2
+   Togo,0,768,C R,1995,50.1
+ ASIA,0,935,0,1995,46.6
+  Central Asia,0,5500,0,1995,55.0
+   Kazakhstan,0,398,B R,1995,54.0
+   Kyrgyzstan,0,417,B R,1995,58.2
+   Tajikistan,0,762,B R,1995,56.4
+   Turkmenistan,0,795,B R,1995,51.7
+   Uzbekistan,0,860,B R,1995,56.5
+  Eastern Asia,0,906,0,1995,51.0
+   China*,0,156,C,1995,49.6
+"   China, Hong Kong SAR*",0,344,B R,1995,51.9
+"   China, Macao SAR*",0,446,B,1995,53.9
+"   China, Taiwan Province of China*",0,158,0,1995,0.0
+   Dem. People's Republic of Korea,0,408,I,1995,50.0
+   Japan,0,392,C,1995,50.1
+   Mongolia,0,496,C R,1995,46.7
+   Republic of Korea,0,410,C R,1995,42.9
+  South-Eastern Asia,0,920,0,1995,48.2
+   Brunei Darussalam,0,96,B,1995,43.6
+   Cambodia,0,116,B R,1995,50.8
+   Indonesia,0,360,B R,1995,49.4
+   Lao People's Democratic Republic,0,418,C R,1995,48.1
+   Malaysia*,0,458,C R,1995,42.9
+   Myanmar,0,104,C,1995,45.9
+   Philippines,0,608,C R,1995,48.1
+   Singapore,0,702,B,1995,54.0
+   Thailand,0,764,B R,1995,47.4
+   Timor-Leste,0,626,B R,1995,51.1
+   Viet Nam,0,704,C R,1995,45.0
+  Southern Asia,0,5501,0,1995,47.9
+   Afghanistan,0,4,B R,1995,45.3
+   Bangladesh,0,50,B R,1995,46.1
+   Bhutan,0,64,B,1995,18.5
+   India,0,356,B R,1995,48.1
+   Iran (Islamic Republic of),0,364,C R,1995,45.1
+   Maldives,0,462,C,1995,50.1
+   Nepal,0,524,B R,1995,68.5
+   Pakistan,0,586,B R,1995,46.8
+   Sri Lanka,0,144,B R,1995,44.4
+  Western Asia,0,922,0,1995,40.9
+   Armenia,0,51,B R,1995,58.9
+   Azerbaijan*,0,31,B R,1995,56.5
+   Bahrain,0,48,C R,1995,30.0
+   Cyprus*,0,196,B,1995,55.4
+   Georgia*,0,268,B R,1995,56.2
+   Iraq,0,368,C R,1995,42.4
+   Israel,0,376,B R,1995,53.7
+   Jordan,0,400,C R,1995,48.9
+   Kuwait,0,414,C R,1995,35.8
+   Lebanon,0,422,B R,1995,48.9
+   Oman,0,512,C R,1995,22.6
+   Qatar,0,634,C,1995,25.4
+   Saudi Arabia,0,682,C R,1995,33.3
+   State of Palestine*,5.0,275,B,1995,54.5
+   Syrian Arab Republic,0,760,C R,1995,49.1
+   Turkey,0,792,B R,1995,51.2
+   United Arab Emirates,0,784,C R,1995,28.2
+   Yemen,0,887,C R,1995,43.0
+ EUROPE,0,908,0,1995,51.6
+  Eastern Europe,0,923,0,1995,53.1
+   Belarus,0,112,B,1995,54.2
+   Bulgaria,0,100,B,1995,57.9
+   Czechia,0,203,C,1995,46.7
+   Hungary,0,348,B,1995,54.3
+   Poland,0,616,B,1995,58.1
+   Republic of Moldova*,0,498,B,1995,57.7
+   Romania,0,642,B,1995,55.2
+   Russian Federation,0,643,B,1995,50.3
+   Slovakia,0,703,B,1995,56.0
+   Ukraine*,0,804,B,1995,57.2
+  Northern Europe,0,924,0,1995,52.7
+   Channel Islands*,6.0,830,B,1995,53.0
+   Denmark*,7.0,208,B,1995,51.4
+   Estonia,0,233,B,1995,56.8
+   Faroe Islands*,8.0,234,B,1995,45.7
+   Finland*,0,246,B,1995,50.3
+   Iceland,0,352,B,1995,55.0
+   Ireland,0,372,B,1995,52.4
+   Isle of Man*,9.0,833,B,1995,52.4
+   Latvia,0,428,B,1995,56.5
+   Lithuania,0,440,B,1995,53.0
+   Norway*,0,578,B,1995,49.8
+   Sweden,0,752,B,1995,51.8
+   United Kingdom*,10.0,826,B,1995,52.4
+  Southern Europe,0,925,0,1995,52.5
+   Albania,0,8,B,1995,53.4
+   Andorra,0,20,C,1995,46.6
+   Bosnia and Herzegovina,0,70,I R,1995,52.3
+   Croatia,0,191,B,1995,53.2
+   Gibraltar*,11.0,292,B,1995,49.9
+   Greece,0,300,B,1995,48.1
+   Holy See*,0,336,I,1995,51.3
+   Italy,0,380,B,1995,54.4
+   Malta,0,470,B,1995,52.8
+   Montenegro,0,499,B,1995,0.0
+   North Macedonia,0,807,B,1995,58.3
+   Portugal,0,620,B,1995,51.3
+   San Marino,0,674,C,1995,47.0
+   Serbia*,0,688,B,1995,55.2
+   Slovenia,0,705,B,1995,48.3
+   Spain*,0,724,B,1995,51.1
+  Western Europe,0,926,0,1995,49.1
+   Austria,0,40,B,1995,52.7
+   Belgium,0,56,B,1995,49.4
+   France*,12.0,250,B,1995,50.0
+   Germany,0,276,B,1995,47.8
+   Liechtenstein,0,438,B,1995,46.9
+   Luxembourg,0,442,B,1995,50.6
+   Monaco,0,492,B,1995,52.7
+   Netherlands*,13.0,528,B,1995,50.4
+   Switzerland,0,756,B,1995,48.0
+ LATIN AMERICA AND THE CARIBBEAN,0,904,0,1995,49.9
+  Caribbean,0,915,0,1995,48.1
+   Anguilla*,14.0,660,B R,1995,52.2
+   Antigua and Barbuda,0,28,B R,1995,54.2
+   Aruba*,15.0,533,B R,1995,55.2
+   Bahamas,0,44,B R,1995,47.5
+   Barbados,0,52,B R,1995,57.2
+"   Bonaire, Sint Eustatius and Saba*",16.0,535,B,1995,0.0
+   British Virgin Islands*,18.0,92,B R,1995,49.9
+   Cayman Islands*,19.0,136,C R,1995,50.0
+   Cuba,0,192,B,1995,52.0
+   Curaçao*,20.0,531,B R,1995,0.0
+   Dominica,0,212,B,1995,48.0
+   Dominican Republic,0,214,B R,1995,38.5
+   Grenada,0,308,B,1995,50.5
+   Guadeloupe*,21.0,312,B,1995,51.4
+   Haiti,0,332,B R,1995,44.4
+   Jamaica,0,388,B R,1995,50.5
+   Martinique*,22.0,474,B R,1995,52.2
+   Montserrat*,23.0,500,B,1995,48.8
+   Puerto Rico*,24.0,630,B,1995,52.5
+   Saint Barthélemy*,0,652,0,1995,0.0
+   Saint Kitts and Nevis,0,659,B R,1995,48.3
+   Saint Lucia,0,662,B R,1995,50.2
+   Saint Martin (French part)*,0,663,0,1995,0.0
+   Saint Vincent and the Grenadines,0,670,B R,1995,51.4
+   Sint Maarten (Dutch part)*,25.0,534,B R,1995,0.0
+   Trinidad and Tobago,0,780,B R,1995,53.7
+   Turks and Caicos Islands*,26.0,796,B R,1995,48.2
+   United States Virgin Islands*,27.0,850,B,1995,52.5
+  Central America,0,916,0,1995,50.5
+   Belize,0,84,B R ,1995,47.6
+   Costa Rica,0,188,B R,1995,49.4
+   El Salvador,0,222,B R,1995,53.0
+   Guatemala,0,320,B R,1995,57.2
+   Honduras,0,340,B R,1995,49.1
+   Mexico,0,484,B R,1995,49.9
+   Nicaragua,0,558,B R,1995,49.8
+   Panama,0,591,B R,1995,48.1
+  South America,0,931,0,1995,50.3
+   Argentina,0,32,B R,1995,52.8
+   Bolivia (Plurinational State of),0,68,B R,1995,48.8
+   Brazil,0,76,B R,1995,46.6
+   Chile,0,152,B,1995,51.1
+   Colombia,0,170,B,1995,48.9
+   Ecuador,0,218,B R,1995,49.7
+   Falkland Islands (Malvinas)*,28.0,238,B,1995,41.2
+   French Guiana*,29.0,254,B R,1995,47.4
+   Guyana,0,328,B R,1995,46.4
+   Paraguay,0,600,B R,1995,47.5
+   Peru,0,604,B R,1995,50.5
+   Suriname,0,740,C R,1995,45.8
+   Uruguay,0,858,B R,1995,53.5
+   Venezuela (Bolivarian Republic of),0,862,B R,1995,49.7
+ NORTHERN AMERICA,0,905,0,1995,50.8
+   Bermuda*,30.0,60,B,1995,51.8
+   Canada,0,124,B,1995,51.6
+   Greenland*,31.0,304,B,1995,31.5
+   Saint Pierre and Miquelon*,32.0,666,B,1995,48.3
+   United States of America*,33.0,840,B,1995,50.7
+ OCEANIA ,0,909,0,1995,49.5
+   Australia*,0,36,B,1995,49.6
+   New Zealand*,34.0,554,B,1995,50.9
+  Melanesia,0,928,0,1995,44.1
+   Fiji,0,242,B R,1995,48.3
+   New Caledonia*,0,540,B,1995,45.2
+   Papua New Guinea,0,598,C R,1995,40.8
+   Solomon Islands,0,90,B R,1995,44.3
+   Vanuatu,0,548,B R,1995,47.4
+  Micronesia,0,954,0,1995,46.9
+   Guam*,35.0,316,B,1995,46.0
+   Kiribati,0,296,B,1995,48.8
+   Marshall Islands,0,584,B,1995,38.1
+   Micronesia (Fed. States of),0,583,B,1995,36.6
+   Nauru,0,520,C R,1995,46.4
+   Northern Mariana Islands*,36.0,580,B,1995,51.1
+   Palau,0,585,B,1995,40.9
+  Polynesia*,0,957,0,1995,44.8
+   American Samoa*,0,16,B,1995,47.9
+   Cook Islands*,37.0,184,B R,1995,44.3
+   French Polynesia*,38.0,258,B R,1995,41.2
+   Niue*,39.0,570,B,1995,46.5
+   Samoa,0,882,B R,1995,47.8
+   Tokelau*,40.0,772,B R,1995,47.0
+   Tonga,0,776,B R,1995,47.5
+   Tuvalu,0,798,C,1995,43.7
+   Wallis and Futuna Islands*,41.0,876,B R,1995,48.8
+   Burundi,0,108,B R,2000,51.4
+   Comoros,0,174,B,2000,52.8
+   Djibouti,0,262,B R,2000,47.3
+   Eritrea,0,232,I R,2000,47.1
+   Ethiopia,0,231,B R,2000,47.3
+   Kenya,0,404,B R,2000,50.1
+   Madagascar,0,450,C R,2000,43.6
+   Malawi,0,454,B R,2000,52.1
+   Mauritius*,0,480,C,2000,63.3
+   Mayotte*,1.0,175,B R,2000,48.2
+   Mozambique,0,508,B R,2000,47.3
+   Réunion*,2.0,638,B,2000,48.1
+   Rwanda,0,646,B R,2000,49.4
+   Seychelles,0,690,B,2000,41.6
+   Somalia,0,706,I R,2000,47.1
+   South Sudan,0,728,B R,2000,0.0
+   Uganda,0,800,B R,2000,50.2
+   United Republic of Tanzania*,0,834,B R,2000,49.3
+   Zambia,0,894,B R,2000,49.1
+   Zimbabwe,0,716,B R,2000,43.0
+  Middle Africa,0,911,0,2000,48.4
+   Angola,0,24,B R,2000,49.3
+   Cameroon,0,120,B R,2000,45.4
+   Central African Republic,0,140,C R,2000,46.9
+   Chad,0,148,B R,2000,46.1
+   Congo,0,178,B R,2000,49.9
+   Democratic Republic of the Congo,0,180,B R,2000,51.0
+   Equatorial Guinea,0,226,C,2000,47.0
+   Gabon,0,266,C R,2000,42.6
+   Sao Tome and Principe,0,678,C,2000,49.3
+  Northern Africa,0,912,0,2000,44.4
+   Algeria,0,12,B R,2000,45.2
+   Egypt,0,818,B R,2000,46.8
+   Libya,0,434,C R,2000,35.0
+   Morocco,0,504,C R,2000,48.6
+   Sudan,3.0,729,B R,2000,49.7
+   Tunisia,0,788,C R,2000,49.1
+   Western Sahara,0,732,I,2000,44.1
+  Southern Africa,0,913,0,2000,41.2
+   Botswana,0,72,B R,2000,41.5
+   Eswatini,0,748,B R,2000,47.4
+   Lesotho,0,426,C R,2000,45.9
+   Namibia,0,516,B R,2000,46.0
+   South Africa,0,710,B R,2000,40.3
+  Western Africa,0,914,0,2000,46.9
+   Benin,0,204,C B R,2000,46.4
+   Burkina Faso,0,854,B R,2000,51.8
+   Cabo Verde,0,132,B R,2000,47.8
+   Côte d'Ivoire,0,384,C B R,2000,44.6
+   Gambia,0,270,B R,2000,46.8
+   Ghana,0,288,B R,2000,49.2
+   Guinea,0,324,C B R,2000,50.2
+   Guinea-Bissau,0,624,B R,2000,50.3
+   Liberia,0,430,B R,2000,45.9
+   Mali,0,466,B R,2000,48.4
+   Mauritania,0,478,C R,2000,45.7
+   Niger,0,562,B R,2000,52.4
+   Nigeria,0,566,C R,2000,44.6
+   Saint Helena*,4.0,654,C,2000,43.5
+   Senegal,0,686,B R,2000,47.6
+   Sierra Leone,0,694,B R,2000,44.7
+   Togo,0,768,C R,2000,49.9
+ ASIA,0,935,0,2000,46.4
+  Central Asia,0,5500,0,2000,55.2
+   Kazakhstan,0,398,B R,2000,53.9
+   Kyrgyzstan,0,417,B R,2000,58.2
+   Tajikistan,0,762,B R,2000,56.0
+   Turkmenistan,0,795,B R,2000,53.1
+   Uzbekistan,0,860,B R,2000,56.9
+  Eastern Asia,0,906,0,2000,52.7
+   China*,0,156,C,2000,50.0
+"   China, Hong Kong SAR*",0,344,B R,2000,54.1
+"   China, Macao SAR*",0,446,B,2000,54.6
+"   China, Taiwan Province of China*",0,158,0,2000,0.0
+   Dem. People's Republic of Korea,0,408,I,2000,51.0
+   Japan,0,392,C,2000,52.7
+   Mongolia,0,496,C R,2000,44.4
+   Republic of Korea,0,410,C R,2000,41.4
+  South-Eastern Asia,0,920,0,2000,48.9
+   Brunei Darussalam,0,96,B,2000,44.1
+   Cambodia,0,116,B R,2000,51.0
+   Indonesia,0,360,B R,2000,47.6
+   Lao People's Democratic Republic,0,418,C R,2000,47.3
+   Malaysia*,0,458,C R,2000,43.8
+   Myanmar,0,104,C,2000,46.8
+   Philippines,0,608,C R,2000,49.1
+   Singapore,0,702,B,2000,55.5
+   Thailand,0,764,B R,2000,48.5
+   Timor-Leste,0,626,B R,2000,51.9
+   Viet Nam,0,704,C R,2000,42.2
+  Southern Asia,0,5501,0,2000,47.8
+   Afghanistan,0,4,B R,2000,43.6
+   Bangladesh,0,50,B R,2000,46.2
+   Bhutan,0,64,B,2000,18.5
+   India,0,356,B R,2000,48.5
+   Iran (Islamic Republic of),0,364,C R,2000,44.9
+   Maldives,0,462,C,2000,45.0
+   Nepal,0,524,B R,2000,66.3
+   Pakistan,0,586,B R,2000,46.2
+   Sri Lanka,0,144,B R,2000,45.3
+  Western Asia,0,922,0,2000,40.3
+   Armenia,0,51,B R,2000,58.9
+   Azerbaijan*,0,31,B R,2000,56.9
+   Bahrain,0,48,C R,2000,30.9
+   Cyprus*,0,196,B,2000,56.6
+   Georgia*,0,268,B R,2000,56.2
+   Iraq,0,368,C R,2000,42.8
+   Israel,0,376,B R,2000,53.9
+   Jordan,0,400,C R,2000,49.0
+   Kuwait,0,414,C R,2000,32.5
+   Lebanon,0,422,B R,2000,49.0
+   Oman,0,512,C R,2000,21.7
+   Qatar,0,634,C,2000,23.8
+   Saudi Arabia,0,682,C R,2000,33.2
+   State of Palestine*,5.0,275,B,2000,54.7
+   Syrian Arab Republic,0,760,C R,2000,48.7
+   Turkey,0,792,B R,2000,51.9
+   United Arab Emirates,0,784,C R,2000,28.2
+   Yemen,0,887,C R,2000,44.5
+ EUROPE,0,908,0,2000,51.6
+  Eastern Europe,0,923,0,2000,52.6
+   Belarus,0,112,B,2000,54.2
+   Bulgaria,0,100,B,2000,57.9
+   Czechia,0,203,C,2000,46.0
+   Hungary,0,348,B,2000,53.5
+   Poland,0,616,B,2000,59.0
+   Republic of Moldova*,0,498,B,2000,59.2
+   Romania,0,642,B,2000,53.0
+   Russian Federation,0,643,B,2000,49.7
+   Slovakia,0,703,B,2000,56.0
+   Ukraine*,0,804,B,2000,57.1
+  Northern Europe,0,924,0,2000,53.0
+   Channel Islands*,6.0,830,B,2000,53.0
+   Denmark*,7.0,208,B,2000,51.5
+   Estonia,0,233,B,2000,59.6
+   Faroe Islands*,8.0,234,B,2000,46.5
+   Finland*,0,246,B,2000,50.5
+   Iceland,0,352,B,2000,54.7
+   Ireland,0,372,B,2000,50.7
+   Isle of Man*,9.0,833,B,2000,52.0
+   Latvia,0,428,B,2000,58.7
+   Lithuania,0,440,B,2000,53.1
+   Norway*,0,578,B,2000,50.5
+   Sweden,0,752,B,2000,52.2
+   United Kingdom*,10.0,826,B,2000,52.9
+  Southern Europe,0,925,0,2000,52.0
+   Albania,0,8,B,2000,53.1
+   Andorra,0,20,C,2000,47.6
+   Bosnia and Herzegovina,0,70,I R,2000,52.2
+   Croatia,0,191,B,2000,53.0
+   Gibraltar*,11.0,292,B,2000,52.0
+   Greece,0,300,B,2000,49.6
+   Holy See*,0,336,I,2000,52.0
+   Italy,0,380,B,2000,54.0
+   Malta,0,470,B,2000,52.2
+   Montenegro,0,499,B,2000,0.0
+   North Macedonia,0,807,B,2000,58.3
+   Portugal,0,620,B,2000,50.8
+   San Marino,0,674,C,2000,46.2
+   Serbia*,0,688,B,2000,55.2
+   Slovenia,0,705,B,2000,46.5
+   Spain*,0,724,B,2000,49.4
+  Western Europe,0,926,0,2000,50.1
+   Austria,0,40,B,2000,52.0
+   Belgium,0,56,B,2000,49.8
+   France*,12.0,250,B,2000,50.7
+   Germany,0,276,B,2000,49.9
+   Liechtenstein,0,438,B,2000,48.5
+   Luxembourg,0,442,B,2000,50.4
+   Monaco,0,492,B,2000,52.0
+   Netherlands*,13.0,528,B,2000,50.8
+   Switzerland,0,756,B,2000,46.4
+ LATIN AMERICA AND THE CARIBBEAN,0,904,0,2000,50.1
+  Caribbean,0,915,0,2000,48.4
+   Anguilla*,14.0,660,B R,2000,53.0
+   Antigua and Barbuda,0,28,B R,2000,55.3
+   Aruba*,15.0,533,B R,2000,55.1
+   Bahamas,0,44,B R,2000,46.7
+   Barbados,0,52,B R,2000,56.4
+"   Bonaire, Sint Eustatius and Saba*",16.0,535,B,2000,0.0
+   British Virgin Islands*,18.0,92,B R,2000,50.7
+   Cayman Islands*,19.0,136,C R,2000,49.6
+   Cuba,0,192,B,2000,55.7
+   Curaçao*,20.0,531,B R,2000,0.0
+   Dominica,0,212,B,2000,47.5
+   Dominican Republic,0,214,B R,2000,39.3
+   Grenada,0,308,B,2000,50.4
+   Guadeloupe*,21.0,312,B,2000,52.2
+   Haiti,0,332,B R,2000,44.4
+   Jamaica,0,388,B R,2000,49.9
+   Martinique*,22.0,474,B R,2000,53.3
+   Montserrat*,23.0,500,B,2000,48.6
+   Puerto Rico*,24.0,630,B,2000,52.5
+   Saint Barthélemy*,0,652,0,2000,0.0
+   Saint Kitts and Nevis,0,659,B R,2000,47.7
+   Saint Lucia,0,662,B R,2000,49.8
+   Saint Martin (French part)*,0,663,0,2000,0.0
+   Saint Vincent and the Grenadines,0,670,B R,2000,51.3
+   Sint Maarten (Dutch part)*,25.0,534,B R,2000,0.0
+   Trinidad and Tobago,0,780,B R,2000,53.8
+   Turks and Caicos Islands*,26.0,796,B R,2000,48.3
+   United States Virgin Islands*,27.0,850,B,2000,52.8
+  Central America,0,916,0,2000,49.9
+   Belize,0,84,B R ,2000,48.9
+   Costa Rica,0,188,B R,2000,49.6
+   El Salvador,0,222,B R,2000,53.0
+   Guatemala,0,320,B R,2000,55.9
+   Honduras,0,340,B R,2000,48.8
+   Mexico,0,484,B R,2000,49.7
+   Nicaragua,0,558,B R,2000,49.2
+   Panama,0,591,B R,2000,49.1
+  South America,0,931,0,2000,50.6
+   Argentina,0,32,B R,2000,53.4
+   Bolivia (Plurinational State of),0,68,B R,2000,48.6
+   Brazil,0,76,B R,2000,46.5
+   Chile,0,152,B,2000,52.2
+   Colombia,0,170,B,2000,48.7
+   Ecuador,0,218,B R,2000,49.0
+   Falkland Islands (Malvinas)*,28.0,238,B,2000,40.4
+   French Guiana*,29.0,254,B R,2000,49.3
+   Guyana,0,328,B R,2000,46.4
+   Paraguay,0,600,B R,2000,47.9
+   Peru,0,604,B R,2000,50.5
+   Suriname,0,740,C R,2000,45.7
+   Uruguay,0,858,B R,2000,53.8
+   Venezuela (Bolivarian Republic of),0,862,B R,2000,49.8
+ NORTHERN AMERICA,0,905,0,2000,50.5
+   Bermuda*,30.0,60,B,2000,51.7
+   Canada,0,124,B,2000,51.8
+   Greenland*,31.0,304,B,2000,30.1
+   Saint Pierre and Miquelon*,32.0,666,B,2000,48.1
+   United States of America*,33.0,840,B,2000,50.3
+ OCEANIA ,0,909,0,2000,50.1
+   Australia*,0,36,B,2000,50.1
+   New Zealand*,34.0,554,B,2000,51.4
+  Melanesia,0,928,0,2000,44.4
+   Fiji,0,242,B R,2000,48.1
+   New Caledonia*,0,540,B,2000,45.8
+   Papua New Guinea,0,598,C R,2000,39.7
+   Solomon Islands,0,90,B R,2000,44.1
+   Vanuatu,0,548,B R,2000,49.7
+  Micronesia,0,954,0,2000,50.1
+   Guam*,35.0,316,B,2000,48.3
+   Kiribati,0,296,B,2000,48.0
+   Marshall Islands,0,584,B,2000,38.4
+   Micronesia (Fed. States of),0,583,B,2000,44.8
+   Nauru,0,520,C R,2000,46.4
+   Northern Mariana Islands*,36.0,580,B,2000,56.7
+   Palau,0,585,B,2000,38.1
+  Polynesia*,0,957,0,2000,45.3
+   American Samoa*,0,16,B,2000,48.2
+   Cook Islands*,37.0,184,B R,2000,44.3
+   French Polynesia*,38.0,258,B R,2000,42.0
+   Niue*,39.0,570,B,2000,46.2
+   Samoa,0,882,B R,2000,48.3
+   Tokelau*,40.0,772,B R,2000,48.6
+   Tonga,0,776,B R,2000,46.2
+   Tuvalu,0,798,C,2000,44.5
+   Wallis and Futuna Islands*,41.0,876,B R,2000,49.5
+   Burundi,0,108,B R,2005,51.0
+   Comoros,0,174,B,2005,52.4
+   Djibouti,0,262,B R,2005,44.3
+   Eritrea,0,232,I R,2005,45.9
+   Ethiopia,0,231,B R,2005,47.5
+   Kenya,0,404,B R,2005,48.2
+   Madagascar,0,450,C R,2005,43.4
+   Malawi,0,454,B R,2005,52.2
+   Mauritius*,0,480,C,2005,54.5
+   Mayotte*,1.0,175,B R,2005,50.4
+   Mozambique,0,508,B R,2005,51.5
+   Réunion*,2.0,638,B,2005,48.6
+   Rwanda,0,646,B R,2005,49.6
+   Seychelles,0,690,B,2005,35.3
+   Somalia,0,706,I R,2005,46.6
+   South Sudan,0,728,B R,2005,0.0
+   Uganda,0,800,B R,2005,50.8
+   United Republic of Tanzania*,0,834,B R,2005,36.9
+   Zambia,0,894,B R,2005,49.1
+   Zimbabwe,0,716,B R,2005,43.0
+  Middle Africa,0,911,0,2005,48.8
+   Angola,0,24,B R,2005,50.7
+   Cameroon,0,120,B R,2005,45.0
+   Central African Republic,0,140,C R,2005,46.8
+   Chad,0,148,B R,2005,54.6
+   Congo,0,178,B R,2005,45.6
+   Democratic Republic of the Congo,0,180,B R,2005,51.5
+   Equatorial Guinea,0,226,C,2005,45.9
+   Gabon,0,266,C R,2005,42.2
+   Sao Tome and Principe,0,678,C,2005,49.7
+  Northern Africa,0,912,0,2005,40.2
+   Algeria,0,12,B R,2005,45.2
+   Egypt,0,818,B R,2005,42.0
+   Libya,0,434,C R,2005,28.7
+   Morocco,0,504,C R,2005,49.3
+   Sudan,3.0,729,B R,2005,49.1
+   Tunisia,0,788,C R,2005,48.6
+   Western Sahara,0,732,I,2005,42.8
+  Southern Africa,0,913,0,2005,42.5
+   Botswana,0,72,B R,2005,41.9
+   Eswatini,0,748,B R,2005,48.0
+   Lesotho,0,426,C R,2005,45.9
+   Namibia,0,516,B R,2005,46.3
+   South Africa,0,710,B R,2005,42.1
+  Western Africa,0,914,0,2005,46.4
+   Benin,0,204,C B R,2005,50.7
+   Burkina Faso,0,854,B R,2005,52.2
+   Cabo Verde,0,132,B R,2005,48.6
+   Côte d'Ivoire,0,384,C B R,2005,44.6
+   Gambia,0,270,B R,2005,47.1
+   Ghana,0,288,B R,2005,48.5
+   Guinea,0,324,C B R,2005,51.4
+   Guinea-Bissau,0,624,B R,2005,50.3
+   Liberia,0,430,B R,2005,41.3
+   Mali,0,466,B R,2005,48.4
+   Mauritania,0,478,C R,2005,43.9
+   Niger,0,562,B R,2005,52.5
+   Nigeria,0,566,C R,2005,41.8
+   Saint Helena*,4.0,654,C,2005,47.9
+   Senegal,0,686,B R,2005,47.6
+   Sierra Leone,0,694,B R,2005,47.5
+   Togo,0,768,C R,2005,49.4
+ ASIA,0,935,0,2005,45.4
+  Central Asia,0,5500,0,2005,53.9
+   Kazakhstan,0,398,B R,2005,52.5
+   Kyrgyzstan,0,417,B R,2005,58.6
+   Tajikistan,0,762,B R,2005,56.7
+   Turkmenistan,0,795,B R,2005,52.5
+   Uzbekistan,0,860,B R,2005,55.7
+  Eastern Asia,0,906,0,2005,52.8
+   China*,0,156,C,2005,44.0
+"   China, Hong Kong SAR*",0,344,B R,2005,56.4
+"   China, Macao SAR*",0,446,B,2005,53.3
+"   China, Taiwan Province of China*",0,158,0,2005,0.0
+   Dem. People's Republic of Korea,0,408,I,2005,50.7
+   Japan,0,392,C,2005,53.7
+   Mongolia,0,496,C R,2005,34.0
+   Republic of Korea,0,410,C R,2005,41.5
+  South-Eastern Asia,0,920,0,2005,48.2
+   Brunei Darussalam,0,96,B,2005,43.9
+   Cambodia,0,116,B R,2005,49.6
+   Indonesia,0,360,B R,2005,42.9
+   Lao People's Democratic Republic,0,418,C R,2005,46.3
+   Malaysia*,0,458,C R,2005,40.9
+   Myanmar,0,104,C,2005,46.4
+   Philippines,0,608,C R,2005,48.3
+   Singapore,0,702,B,2005,55.6
+   Thailand,0,764,B R,2005,49.8
+   Timor-Leste,0,626,B R,2005,50.6
+   Viet Nam,0,704,C R,2005,39.9
+  Southern Asia,0,5501,0,2005,48.7
+   Afghanistan,0,4,B R,2005,43.6
+   Bangladesh,0,50,B R,2005,46.1
+   Bhutan,0,64,B,2005,18.7
+   India,0,356,B R,2005,50.6
+   Iran (Islamic Republic of),0,364,C R,2005,45.1
+   Maldives,0,462,C,2005,39.9
+   Nepal,0,524,B R,2005,65.4
+   Pakistan,0,586,B R,2005,46.1
+   Sri Lanka,0,144,B R,2005,46.1
+  Western Asia,0,922,0,2005,38.1
+   Armenia,0,51,B R,2005,59.2
+   Azerbaijan*,0,31,B R,2005,55.2
+   Bahrain,0,48,C R,2005,28.6
+   Cyprus*,0,196,B,2005,56.4
+   Georgia*,0,268,B R,2005,56.2
+   Iraq,0,368,C R,2005,39.3
+   Israel,0,376,B R,2005,54.1
+   Jordan,0,400,C R,2005,49.1
+   Kuwait,0,414,C R,2005,31.1
+   Lebanon,0,422,B R,2005,48.4
+   Oman,0,512,C R,2005,20.8
+   Qatar,0,634,C,2005,22.8
+   Saudi Arabia,0,682,C R,2005,31.3
+   State of Palestine*,5.0,275,B,2005,54.6
+   Syrian Arab Republic,0,760,C R,2005,48.7
+   Turkey,0,792,B R,2005,53.0
+   United Arab Emirates,0,784,C R,2005,27.2
+   Yemen,0,887,C R,2005,42.5
+ EUROPE,0,908,0,2005,51.6
+  Eastern Europe,0,923,0,2005,52.6
+   Belarus,0,112,B,2005,54.2
+   Bulgaria,0,100,B,2005,56.5
+   Czechia,0,203,C,2005,43.7
+   Hungary,0,348,B,2005,52.5
+   Poland,0,616,B,2005,58.9
+   Republic of Moldova*,0,498,B,2005,60.3
+   Romania,0,642,B,2005,51.7
+   Russian Federation,0,643,B,2005,50.2
+   Slovakia,0,703,B,2005,55.0
+   Ukraine*,0,804,B,2005,57.1
+  Northern Europe,0,924,0,2005,52.4
+   Channel Islands*,6.0,830,B,2005,52.6
+   Denmark*,7.0,208,B,2005,51.6
+   Estonia,0,233,B,2005,59.7
+   Faroe Islands*,8.0,234,B,2005,46.5
+   Finland*,0,246,B,2005,49.8
+   Iceland,0,352,B,2005,51.3
+   Ireland,0,372,B,2005,47.4
+   Isle of Man*,9.0,833,B,2005,51.3
+   Latvia,0,428,B,2005,58.9
+   Lithuania,0,440,B,2005,53.2
+   Norway*,0,578,B,2005,51.1
+   Sweden,0,752,B,2005,52.2
+   United Kingdom*,10.0,826,B,2005,52.4
+  Southern Europe,0,925,0,2005,51.3
+   Albania,0,8,B,2005,49.0
+   Andorra,0,20,C,2005,47.4
+   Bosnia and Herzegovina,0,70,I R,2005,52.5
+   Croatia,0,191,B,2005,53.1
+   Gibraltar*,11.0,292,B,2005,50.9
+   Greece,0,300,B,2005,50.6
+   Holy See*,0,336,I,2005,52.3
+   Italy,0,380,B,2005,54.0
+   Malta,0,470,B,2005,51.6
+   Montenegro,0,499,B,2005,0.0
+   North Macedonia,0,807,B,2005,58.3
+   Portugal,0,620,B,2005,51.1
+   San Marino,0,674,C,2005,45.4
+   Serbia*,0,688,B,2005,55.2
+   Slovenia,0,705,B,2005,46.3
+   Spain*,0,724,B,2005,47.9
+  Western Europe,0,926,0,2005,50.6
+   Austria,0,40,B,2005,52.2
+   Belgium,0,56,B,2005,50.3
+   France*,12.0,250,B,2005,51.0
+   Germany,0,276,B,2005,50.3
+   Liechtenstein,0,438,B,2005,50.1
+   Luxembourg,0,442,B,2005,50.2
+   Monaco,0,492,B,2005,51.6
+   Netherlands*,13.0,528,B,2005,51.4
+   Switzerland,0,756,B,2005,48.9
+ LATIN AMERICA AND THE CARIBBEAN,0,904,0,2005,50.3
+  Caribbean,0,915,0,2005,48.6
+   Anguilla*,14.0,660,B R,2005,52.8
+   Antigua and Barbuda,0,28,B R,2005,55.3
+   Aruba*,15.0,533,B R,2005,55.3
+   Bahamas,0,44,B R,2005,48.1
+   Barbados,0,52,B R,2005,55.7
+"   Bonaire, Sint Eustatius and Saba*",16.0,535,B,2005,0.0
+   British Virgin Islands*,18.0,92,B R,2005,50.7
+   Cayman Islands*,19.0,136,C R,2005,49.2
+   Cuba,0,192,B,2005,55.9
+   Curaçao*,20.0,531,B R,2005,0.0
+   Dominica,0,212,B,2005,47.5
+   Dominican Republic,0,214,B R,2005,39.3
+   Grenada,0,308,B,2005,50.4
+   Guadeloupe*,21.0,312,B,2005,53.7
+   Haiti,0,332,B R,2005,44.4
+   Jamaica,0,388,B R,2005,49.6
+   Martinique*,22.0,474,B R,2005,54.6
+   Montserrat*,23.0,500,B,2005,48.6
+   Puerto Rico*,24.0,630,B,2005,52.6
+   Saint Barthélemy*,0,652,0,2005,0.0
+   Saint Kitts and Nevis,0,659,B R,2005,47.6
+   Saint Lucia,0,662,B R,2005,50.8
+   Saint Martin (French part)*,0,663,0,2005,0.0
+   Saint Vincent and the Grenadines,0,670,B R,2005,50.5
+   Sint Maarten (Dutch part)*,25.0,534,B R,2005,52.0
+   Trinidad and Tobago,0,780,B R,2005,53.9
+   Turks and Caicos Islands*,26.0,796,B R,2005,48.3
+   United States Virgin Islands*,27.0,850,B,2005,52.8
+  Central America,0,916,0,2005,50.1
+   Belize,0,84,B R ,2005,49.2
+   Costa Rica,0,188,B R,2005,50.8
+   El Salvador,0,222,B R,2005,52.7
+   Guatemala,0,320,B R,2005,54.5
+   Honduras,0,340,B R,2005,48.2
+   Mexico,0,484,B R,2005,49.5
+   Nicaragua,0,558,B R,2005,49.1
+   Panama,0,591,B R,2005,49.2
+  South America,0,931,0,2005,50.8
+   Argentina,0,32,B R,2005,53.7
+   Bolivia (Plurinational State of),0,68,B R,2005,48.0
+   Brazil,0,76,B R,2005,46.3
+   Chile,0,152,B,2005,52.4
+   Colombia,0,170,B,2005,48.4
+   Ecuador,0,218,B R,2005,48.7
+   Falkland Islands (Malvinas)*,28.0,238,B,2005,42.1
+   French Guiana*,29.0,254,B R,2005,50.6
+   Guyana,0,328,B R,2005,46.5
+   Paraguay,0,600,B R,2005,47.9
+   Peru,0,604,B R,2005,50.0
+   Suriname,0,740,C R,2005,45.5
+   Uruguay,0,858,B R,2005,54.3
+   Venezuela (Bolivarian Republic of),0,862,B R,2005,50.0
+ NORTHERN AMERICA,0,905,0,2005,50.3
+   Bermuda*,30.0,60,B,2005,51.5
+   Canada,0,124,B,2005,52.0
+   Greenland*,31.0,304,B,2005,32.0
+   Saint Pierre and Miquelon*,32.0,666,B,2005,48.0
+   United States of America*,33.0,840,B,2005,50.0
+ OCEANIA ,0,909,0,2005,50.4
+   Australia*,0,36,B,2005,50.4
+   New Zealand*,34.0,554,B,2005,51.5
+  Melanesia,0,928,0,2005,44.6
+   Fiji,0,242,B R,2005,47.2
+   New Caledonia*,0,540,B,2005,46.0
+   Papua New Guinea,0,598,C R,2005,40.4
+   Solomon Islands,0,90,B R,2005,44.1
+   Vanuatu,0,548,B R,2005,50.1
+  Micronesia,0,954,0,2005,50.3
+   Guam*,35.0,316,B,2005,48.4
+   Kiribati,0,296,B,2005,47.2
+   Marshall Islands,0,584,B,2005,38.6
+   Micronesia (Fed. States of),0,583,B,2005,46.1
+   Nauru,0,520,C R,2005,46.4
+   Northern Mariana Islands*,36.0,580,B,2005,57.4
+   Palau,0,585,B,2005,40.1
+  Polynesia*,0,957,0,2005,45.9
+   American Samoa*,0,16,B,2005,48.4
+   Cook Islands*,37.0,184,B R,2005,47.4
+   French Polynesia*,38.0,258,B R,2005,43.0
+   Niue*,39.0,570,B,2005,46.0
+   Samoa,0,882,B R,2005,48.8
+   Tokelau*,40.0,772,B R,2005,50.1
+   Tonga,0,776,B R,2005,46.0
+   Tuvalu,0,798,C,2005,45.0
+   Wallis and Futuna Islands*,41.0,876,B R,2005,49.5
+   Burundi,0,108,B R,2010,50.8
+   Comoros,0,174,B,2010,52.0
+   Djibouti,0,262,B R,2010,47.5
+   Eritrea,0,232,I R,2010,45.1
+   Ethiopia,0,231,B R,2010,47.6
+   Kenya,0,404,B R,2010,50.5
+   Madagascar,0,450,C R,2010,43.2
+   Malawi,0,454,B R,2010,52.3
+   Mauritius*,0,480,C,2010,46.9
+   Mayotte*,1.0,175,B R,2010,52.6
+   Mozambique,0,508,B R,2010,51.7
+   Réunion*,2.0,638,B,2010,49.0
+   Rwanda,0,646,B R,2010,49.9
+   Seychelles,0,690,B,2010,31.7
+   Somalia,0,706,I R,2010,47.6
+   South Sudan,0,728,B R,2010,48.4
+   Uganda,0,800,B R,2010,50.9
+   United Republic of Tanzania*,0,834,B R,2010,50.1
+   Zambia,0,894,B R,2010,49.4
+   Zimbabwe,0,716,B R,2010,43.0
+  Middle Africa,0,911,0,2010,49.0
+   Angola,0,24,B R,2010,51.7
+   Cameroon,0,120,B R,2010,44.6
+   Central African Republic,0,140,C R,2010,46.8
+   Chad,0,148,B R,2010,55.2
+   Congo,0,178,B R,2010,45.6
+   Democratic Republic of the Congo,0,180,B R,2010,51.7
+   Equatorial Guinea,0,226,C,2010,45.3
+   Gabon,0,266,C R,2010,41.4
+   Sao Tome and Principe,0,678,C,2010,49.9
+  Northern Africa,0,912,0,2010,40.8
+   Algeria,0,12,B R,2010,47.1
+   Egypt,0,818,B R,2010,43.8
+   Libya,0,434,C R,2010,28.5
+   Morocco,0,504,C R,2010,49.6
+   Sudan,3.0,729,B R,2010,49.2
+   Tunisia,0,788,C R,2010,48.5
+   Western Sahara,0,732,I,2010,41.9
+  Southern Africa,0,913,0,2010,42.5
+   Botswana,0,72,B R,2010,43.1
+   Eswatini,0,748,B R,2010,48.6
+   Lesotho,0,426,C R,2010,45.9
+   Namibia,0,516,B R,2010,46.3
+   South Africa,0,710,B R,2010,42.2
+  Western Africa,0,914,0,2010,46.4
+   Benin,0,204,C B R,2010,53.6
+   Burkina Faso,0,854,B R,2010,52.4
+   Cabo Verde,0,132,B R,2010,49.3
+   Côte d'Ivoire,0,384,C B R,2010,44.6
+   Gambia,0,270,B R,2010,47.2
+   Ghana,0,288,B R,2010,46.7
+   Guinea,0,324,C B R,2010,47.8
+   Guinea-Bissau,0,624,B R,2010,51.1
+   Liberia,0,430,B R,2010,42.6
+   Mali,0,466,B R,2010,49.3
+   Mauritania,0,478,C R,2010,42.6
+   Niger,0,562,B R,2010,52.5
+   Nigeria,0,566,C R,2010,41.8
+   Saint Helena*,4.0,654,C,2010,45.2
+   Senegal,0,686,B R,2010,46.9
+   Sierra Leone,0,694,B R,2010,45.0
+   Togo,0,768,C R,2010,49.4
+ ASIA,0,935,0,2010,43.0
+  Central Asia,0,5500,0,2010,52.7
+   Kazakhstan,0,398,B R,2010,51.3
+   Kyrgyzstan,0,417,B R,2010,59.2
+   Tajikistan,0,762,B R,2010,56.5
+   Turkmenistan,0,795,B R,2010,54.2
+   Uzbekistan,0,860,B R,2010,54.2
+  Eastern Asia,0,906,0,2010,53.0
+   China*,0,156,C,2010,40.5
+"   China, Hong Kong SAR*",0,344,B R,2010,58.7
+"   China, Macao SAR*",0,446,B,2010,54.0
+"   China, Taiwan Province of China*",0,158,0,2010,0.0
+   Dem. People's Republic of Korea,0,408,I,2010,50.5
+   Japan,0,392,C,2010,54.4
+   Mongolia,0,496,C R,2010,26.0
+   Republic of Korea,0,410,C R,2010,44.0
+  South-Eastern Asia,0,920,0,2010,47.7
+   Brunei Darussalam,0,96,B,2010,43.6
+   Cambodia,0,116,B R,2010,47.1
+   Indonesia,0,360,B R,2010,42.6
+   Lao People's Democratic Republic,0,418,C R,2010,38.9
+   Malaysia*,0,458,C R,2010,39.2
+   Myanmar,0,104,C,2010,45.6
+   Philippines,0,608,C R,2010,48.3
+   Singapore,0,702,B,2010,55.8
+   Thailand,0,764,B R,2010,49.6
+   Timor-Leste,0,626,B R,2010,49.4
+   Viet Nam,0,704,C R,2010,41.8
+  Southern Asia,0,5501,0,2010,49.2
+   Afghanistan,0,4,B R,2010,43.6
+   Bangladesh,0,50,B R,2010,47.2
+   Bhutan,0,64,B,2010,18.9
+   India,0,356,B R,2010,51.6
+   Iran (Islamic Republic of),0,364,C R,2010,45.3
+   Maldives,0,462,C,2010,23.7
+   Nepal,0,524,B R,2010,67.1
+   Pakistan,0,586,B R,2010,47.4
+   Sri Lanka,0,144,B R,2010,46.9
+  Western Asia,0,922,0,2010,34.8
+   Armenia,0,51,B R,2010,59.4
+   Azerbaijan*,0,31,B R,2010,53.2
+   Bahrain,0,48,C R,2010,27.8
+   Cyprus*,0,196,B,2010,56.2
+   Georgia*,0,268,B R,2010,56.2
+   Iraq,0,368,C R,2010,38.1
+   Israel,0,376,B R,2010,54.4
+   Jordan,0,400,C R,2010,49.2
+   Kuwait,0,414,C R,2010,30.0
+   Lebanon,0,422,B R,2010,47.9
+   Oman,0,512,C R,2010,19.3
+   Qatar,0,634,C,2010,17.2
+   Saudi Arabia,0,682,C R,2010,29.6
+   State of Palestine*,5.0,275,B,2010,54.5
+   Syrian Arab Republic,0,760,C R,2010,48.9
+   Turkey,0,792,B R,2010,54.1
+   United Arab Emirates,0,784,C R,2010,25.3
+   Yemen,0,887,C R,2010,45.9
+ EUROPE,0,908,0,2010,51.7
+  Eastern Europe,0,923,0,2010,52.7
+   Belarus,0,112,B,2010,54.2
+   Bulgaria,0,100,B,2010,55.6
+   Czechia,0,203,C,2010,40.7
+   Hungary,0,348,B,2010,51.9
+   Poland,0,616,B,2010,59.2
+   Republic of Moldova*,0,498,B,2010,59.7
+   Romania,0,642,B,2010,50.5
+   Russian Federation,0,643,B,2010,50.7
+   Slovakia,0,703,B,2010,54.3
+   Ukraine*,0,804,B,2010,57.0
+  Northern Europe,0,924,0,2010,51.8
+   Channel Islands*,6.0,830,B,2010,52.3
+   Denmark*,7.0,208,B,2010,51.7
+   Estonia,0,233,B,2010,59.8
+   Faroe Islands*,8.0,234,B,2010,47.0
+   Finland*,0,246,B,2010,49.6
+   Iceland,0,352,B,2010,49.8
+   Ireland,0,372,B,2010,50.7
+   Isle of Man*,9.0,833,B,2010,50.8
+   Latvia,0,428,B,2010,60.3
+   Lithuania,0,440,B,2010,56.7
+   Norway*,0,578,B,2010,49.1
+   Sweden,0,752,B,2010,51.5
+   United Kingdom*,10.0,826,B,2010,51.5
+  Southern Europe,0,925,0,2010,51.4
+   Albania,0,8,B,2010,49.0
+   Andorra,0,20,C,2010,47.6
+   Bosnia and Herzegovina,0,70,I R,2010,52.3
+   Croatia,0,191,B,2010,53.2
+   Gibraltar*,11.0,292,B,2010,50.1
+   Greece,0,300,B,2010,51.5
+   Holy See*,0,336,I,2010,52.1
+   Italy,0,380,B,2010,54.0
+   Malta,0,470,B,2010,48.1
+   Montenegro,0,499,B,2010,59.7
+   North Macedonia,0,807,B,2010,58.3
+   Portugal,0,620,B,2010,51.3
+   San Marino,0,674,C,2010,43.4
+   Serbia*,0,688,B,2010,55.9
+   Slovenia,0,705,B,2010,42.8
+   Spain*,0,724,B,2010,48.4
+  Western Europe,0,926,0,2010,51.2
+   Austria,0,40,B,2010,52.4
+   Belgium,0,56,B,2010,51.7
+   France*,12.0,250,B,2010,51.4
+   Germany,0,276,B,2010,50.6
+   Liechtenstein,0,438,B,2010,51.4
+   Luxembourg,0,442,B,2010,50.1
+   Monaco,0,492,B,2010,51.1
+   Netherlands*,13.0,528,B,2010,51.9
+   Switzerland,0,756,B,2010,51.6
+ LATIN AMERICA AND THE CARIBBEAN,0,904,0,2010,50.3
+  Caribbean,0,915,0,2010,48.9
+   Anguilla*,14.0,660,B R,2010,52.7
+   Antigua and Barbuda,0,28,B R,2010,55.4
+   Aruba*,15.0,533,B R,2010,55.4
+   Bahamas,0,44,B R,2010,49.1
+   Barbados,0,52,B R,2010,55.1
+"   Bonaire, Sint Eustatius and Saba*",16.0,535,B,2010,0.0
+   British Virgin Islands*,18.0,92,B R,2010,51.4
+   Cayman Islands*,19.0,136,C R,2010,48.8
+   Cuba,0,192,B,2010,56.2
+   Curaçao*,20.0,531,B R,2010,59.0
+   Dominica,0,212,B,2010,48.2
+   Dominican Republic,0,214,B R,2010,39.4
+   Grenada,0,308,B,2010,50.4
+   Guadeloupe*,21.0,312,B,2010,55.0
+   Haiti,0,332,B R,2010,44.4
+   Jamaica,0,388,B R,2010,49.2
+   Martinique*,22.0,474,B R,2010,55.8
+   Montserrat*,23.0,500,B,2010,48.6
+   Puerto Rico*,24.0,630,B,2010,53.1
+   Saint Barthélemy*,0,652,0,2010,0.0
+   Saint Kitts and Nevis,0,659,B R,2010,47.5
+   Saint Lucia,0,662,B R,2010,51.6
+   Saint Martin (French part)*,0,663,0,2010,0.0
+   Saint Vincent and the Grenadines,0,670,B R,2010,49.6
+   Sint Maarten (Dutch part)*,25.0,534,B R,2010,52.0
+   Trinidad and Tobago,0,780,B R,2010,52.0
+   Turks and Caicos Islands*,26.0,796,B R,2010,48.3
+   United States Virgin Islands*,27.0,850,B,2010,52.9
+  Central America,0,916,0,2010,50.0
+   Belize,0,84,B R ,2010,49.4
+   Costa Rica,0,188,B R,2010,51.7
+   El Salvador,0,222,B R,2010,52.5
+   Guatemala,0,320,B R,2010,53.4
+   Honduras,0,340,B R,2010,47.6
+   Mexico,0,484,B R,2010,49.4
+   Nicaragua,0,558,B R,2010,48.8
+   Panama,0,591,B R,2010,48.5
+  South America,0,931,0,2010,50.7
+   Argentina,0,32,B R,2010,53.9
+   Bolivia (Plurinational State of),0,68,B R,2010,47.6
+   Brazil,0,76,B R,2010,46.0
+   Chile,0,152,B,2010,52.6
+   Colombia,0,170,B,2010,47.5
+   Ecuador,0,218,B R,2010,48.4
+   Falkland Islands (Malvinas)*,28.0,238,B,2010,43.8
+   French Guiana*,29.0,254,B R,2010,51.6
+   Guyana,0,328,B R,2010,44.6
+   Paraguay,0,600,B R,2010,48.0
+   Peru,0,604,B R,2010,46.4
+   Suriname,0,740,C R,2010,45.5
+   Uruguay,0,858,B R,2010,54.7
+   Venezuela (Bolivarian Republic of),0,862,B R,2010,49.8
+ NORTHERN AMERICA,0,905,0,2010,51.1
+   Bermuda*,30.0,60,B,2010,51.3
+   Canada,0,124,B,2010,52.1
+   Greenland*,31.0,304,B,2010,32.4
+   Saint Pierre and Miquelon*,32.0,666,B,2010,47.8
+   United States of America*,33.0,840,B,2010,50.9
+ OCEANIA ,0,909,0,2010,50.3
+   Australia*,0,36,B,2010,50.3
+   New Zealand*,34.0,554,B,2010,51.5
+  Melanesia,0,928,0,2010,44.4
+   Fiji,0,242,B R,2010,46.5
+   New Caledonia*,0,540,B,2010,46.2
+   Papua New Guinea,0,598,C R,2010,39.3
+   Solomon Islands,0,90,B R,2010,44.0
+   Vanuatu,0,548,B R,2010,50.3
+  Micronesia,0,954,0,2010,49.7
+   Guam*,35.0,316,B,2010,48.4
+   Kiribati,0,296,B,2010,47.3
+   Marshall Islands,0,584,B,2010,38.7
+   Micronesia (Fed. States of),0,583,B,2010,46.4
+   Nauru,0,520,C R,2010,46.4
+   Northern Mariana Islands*,36.0,580,B,2010,57.7
+   Palau,0,585,B,2010,41.5
+  Polynesia*,0,957,0,2010,46.1
+   American Samoa*,0,16,B,2010,48.6
+   Cook Islands*,37.0,184,B R,2010,49.7
+   French Polynesia*,38.0,258,B R,2010,43.0
+   Niue*,39.0,570,B,2010,45.8
+   Samoa,0,882,B R,2010,49.4
+   Tokelau*,40.0,772,B R,2010,51.9
+   Tonga,0,776,B R,2010,45.7
+   Tuvalu,0,798,C,2010,45.0
+   Wallis and Futuna Islands*,41.0,876,B R,2010,49.5
+   Burundi,0,108,B R,2015,50.7
+   Comoros,0,174,B,2015,51.6
+   Djibouti,0,262,B R,2015,47.4
+   Eritrea,0,232,I R,2015,44.6
+   Ethiopia,0,231,B R,2015,49.1
+   Kenya,0,404,B R,2015,50.0
+   Madagascar,0,450,C R,2015,43.0
+   Malawi,0,454,B R,2015,52.5
+   Mauritius*,0,480,C,2015,44.6
+   Mayotte*,1.0,175,B R,2015,53.7
+   Mozambique,0,508,B R,2015,51.7
+   Réunion*,2.0,638,B,2015,49.3
+   Rwanda,0,646,B R,2015,50.2
+   Seychelles,0,690,B,2015,30.0
+   Somalia,0,706,I R,2015,47.3
+   South Sudan,0,728,B R,2015,48.9
+   Uganda,0,800,B R,2015,51.1
+   United Republic of Tanzania*,0,834,B R,2015,50.4
+   Zambia,0,894,B R,2015,49.5
+   Zimbabwe,0,716,B R,2015,43.7
+  Middle Africa,0,911,0,2015,47.4
+   Angola,0,24,B R,2015,51.8
+   Cameroon,0,120,B R,2015,50.6
+   Central African Republic,0,140,C R,2015,47.1
+   Chad,0,148,B R,2015,53.8
+   Congo,0,178,B R,2015,45.2
+   Democratic Republic of the Congo,0,180,B R,2015,51.4
+   Equatorial Guinea,0,226,C,2015,22.9
+   Gabon,0,266,C R,2015,35.6
+   Sao Tome and Principe,0,678,C,2015,50.0
+  Northern Africa,0,912,0,2015,40.5
+   Algeria,0,12,B R,2015,47.2
+   Egypt,0,818,B R,2015,41.3
+   Libya,0,434,C R,2015,28.8
+   Morocco,0,504,C R,2015,49.8
+   Sudan,3.0,729,B R,2015,49.7
+   Tunisia,0,788,C R,2015,48.3
+   Western Sahara,0,732,I,2015,40.9
+  Southern Africa,0,913,0,2015,45.2
+   Botswana,0,72,B R,2015,43.1
+   Eswatini,0,748,B R,2015,48.6
+   Lesotho,0,426,C R,2015,45.0
+   Namibia,0,516,B R,2015,46.1
+   South Africa,0,710,B R,2015,45.2
+  Western Africa,0,914,0,2015,46.9
+   Benin,0,204,C B R,2015,53.0
+   Burkina Faso,0,854,B R,2015,52.4
+   Cabo Verde,0,132,B R,2015,49.4
+   Côte d'Ivoire,0,384,C B R,2015,44.6
+   Gambia,0,270,B R,2015,47.3
+   Ghana,0,288,B R,2015,46.7
+   Guinea,0,324,C B R,2015,41.4
+   Guinea-Bissau,0,624,B R,2015,51.5
+   Liberia,0,430,B R,2015,42.8
+   Mali,0,466,B R,2015,49.3
+   Mauritania,0,478,C R,2015,43.5
+   Niger,0,562,B R,2015,52.6
+   Nigeria,0,566,C R,2015,45.1
+   Saint Helena*,4.0,654,C,2015,33.4
+   Senegal,0,686,B R,2015,46.9
+   Sierra Leone,0,694,B R,2015,43.8
+   Togo,0,768,C R,2015,49.7
+ ASIA,0,935,0,2015,42.3
+  Central Asia,0,5500,0,2015,51.9
+   Kazakhstan,0,398,B R,2015,50.4
+   Kyrgyzstan,0,417,B R,2015,59.6
+   Tajikistan,0,762,B R,2015,56.9
+   Turkmenistan,0,795,B R,2015,53.4
+   Uzbekistan,0,860,B R,2015,53.4
+  Eastern Asia,0,906,0,2015,52.4
+   China*,0,156,C,2015,38.6
+"   China, Hong Kong SAR*",0,344,B R,2015,60.5
+"   China, Macao SAR*",0,446,B,2015,53.6
+"   China, Taiwan Province of China*",0,158,0,2015,0.0
+   Dem. People's Republic of Korea,0,408,I,2015,50.2
+   Japan,0,392,C,2015,53.0
+   Mongolia,0,496,C R,2015,33.2
+   Republic of Korea,0,410,C R,2015,44.5
+  South-Eastern Asia,0,920,0,2015,47.3
+   Brunei Darussalam,0,96,B,2015,43.4
+   Cambodia,0,116,B R,2015,46.1
+   Indonesia,0,360,B R,2015,41.8
+   Lao People's Democratic Republic,0,418,C R,2015,35.6
+   Malaysia*,0,458,C R,2015,39.2
+   Myanmar,0,104,C,2015,45.2
+   Philippines,0,608,C R,2015,48.2
+   Singapore,0,702,B,2015,55.9
+   Thailand,0,764,B R,2015,49.8
+   Timor-Leste,0,626,B R,2015,39.6
+   Viet Nam,0,704,C R,2015,42.1
+  Southern Asia,0,5501,0,2015,49.5
+   Afghanistan,0,4,B R,2015,49.5
+   Bangladesh,0,50,B R,2015,47.1
+   Bhutan,0,64,B,2015,15.1
+   India,0,356,B R,2015,52.5
+   Iran (Islamic Republic of),0,364,C R,2015,45.5
+   Maldives,0,462,C,2015,12.3
+   Nepal,0,524,B R,2015,69.3
+   Pakistan,0,586,B R,2015,47.4
+   Sri Lanka,0,144,B R,2015,47.8
+  Western Asia,0,922,0,2015,35.2
+   Armenia,0,51,B R,2015,59.5
+   Azerbaijan*,0,31,B R,2015,52.1
+   Bahrain,0,48,C R,2015,26.7
+   Cyprus*,0,196,B,2015,56.2
+   Georgia*,0,268,B R,2015,56.2
+   Iraq,0,368,C R,2015,41.8
+   Israel,0,376,B R,2015,54.6
+   Jordan,0,400,C R,2015,49.6
+   Kuwait,0,414,C R,2015,33.6
+   Lebanon,0,422,B R,2015,51.9
+   Oman,0,512,C R,2015,16.4
+   Qatar,0,634,C,2015,16.1
+   Saudi Arabia,0,682,C R,2015,30.7
+   State of Palestine*,5.0,275,B,2015,54.3
+   Syrian Arab Republic,0,760,C R,2015,48.9
+   Turkey,0,792,B R,2015,45.0
+   United Arab Emirates,0,784,C R,2015,26.3
+   Yemen,0,887,C R,2015,47.5
+ EUROPE,0,908,0,2015,52.1
+  Eastern Europe,0,923,0,2015,52.6
+   Belarus,0,112,B,2015,54.2
+   Bulgaria,0,100,B,2015,51.5
+   Czechia,0,203,C,2015,42.6
+   Hungary,0,348,B,2015,50.4
+   Poland,0,616,B,2015,58.1
+   Republic of Moldova*,0,498,B,2015,59.1
+   Romania,0,642,B,2015,47.8
+   Russian Federation,0,643,B,2015,50.9
+   Slovakia,0,703,B,2015,49.9
+   Ukraine*,0,804,B,2015,57.0
+  Northern Europe,0,924,0,2015,51.9
+   Channel Islands*,6.0,830,B,2015,52.2
+   Denmark*,7.0,208,B,2015,51.1
+   Estonia,0,233,B,2015,58.9
+   Faroe Islands*,8.0,234,B,2015,49.3
+   Finland*,0,246,B,2015,49.4
+   Iceland,0,352,B,2015,51.2
+   Ireland,0,372,B,2015,50.4
+   Isle of Man*,9.0,833,B,2015,51.2
+   Latvia,0,428,B,2015,60.8
+   Lithuania,0,440,B,2015,57.7
+   Norway*,0,578,B,2015,47.8
+   Sweden,0,752,B,2015,50.9
+   United Kingdom*,10.0,826,B,2015,52.2
+  Southern Europe,0,925,0,2015,53.0
+   Albania,0,8,B,2015,49.0
+   Andorra,0,20,C,2015,49.2
+   Bosnia and Herzegovina,0,70,I R,2015,52.3
+   Croatia,0,191,B,2015,53.6
+   Gibraltar*,11.0,292,B,2015,49.5
+   Greece,0,300,B,2015,54.1
+   Holy See*,0,336,I,2015,52.4
+   Italy,0,380,B,2015,54.6
+   Malta,0,470,B,2015,46.2
+   Montenegro,0,499,B,2015,60.7
+   North Macedonia,0,807,B,2015,58.3
+   Portugal,0,620,B,2015,53.9
+   San Marino,0,674,C,2015,44.8
+   Serbia*,0,688,B,2015,56.0
+   Slovenia,0,705,B,2015,43.4
+   Spain*,0,724,B,2015,51.0
+  Western Europe,0,926,0,2015,51.2
+   Austria,0,40,B,2015,51.8
+   Belgium,0,56,B,2015,51.2
+   France*,12.0,250,B,2015,51.7
+   Germany,0,276,B,2015,50.7
+   Liechtenstein,0,438,B,2015,51.2
+   Luxembourg,0,442,B,2015,49.3
+   Monaco,0,492,B,2015,51.5
+   Netherlands*,13.0,528,B,2015,52.3
+   Switzerland,0,756,B,2015,51.1
+ LATIN AMERICA AND THE CARIBBEAN,0,904,0,2015,49.8
+  Caribbean,0,915,0,2015,46.8
+   Anguilla*,14.0,660,B R,2015,52.6
+   Antigua and Barbuda,0,28,B R,2015,55.4
+   Aruba*,15.0,533,B R,2015,55.4
+   Bahamas,0,44,B R,2015,49.4
+   Barbados,0,52,B R,2015,55.1
+"   Bonaire, Sint Eustatius and Saba*",16.0,535,B,2015,0.0
+   British Virgin Islands*,18.0,92,B R,2015,51.8
+   Cayman Islands*,19.0,136,C R,2015,48.8
+   Cuba,0,192,B,2015,56.4
+   Curaçao*,20.0,531,B R,2015,58.9
+   Dominica,0,212,B,2015,47.9
+   Dominican Republic,0,214,B R,2015,35.7
+   Grenada,0,308,B,2015,50.4
+   Guadeloupe*,21.0,312,B,2015,57.5
+   Haiti,0,332,B R,2015,44.4
+   Jamaica,0,388,B R,2015,49.2
+   Martinique*,22.0,474,B R,2015,57.5
+   Montserrat*,23.0,500,B,2015,48.5
+   Puerto Rico*,24.0,630,B,2015,53.3
+   Saint Barthélemy*,0,652,0,2015,0.0
+   Saint Kitts and Nevis,0,659,B R,2015,47.4
+   Saint Lucia,0,662,B R,2015,51.8
+   Saint Martin (French part)*,0,663,0,2015,0.0
+   Saint Vincent and the Grenadines,0,670,B R,2015,49.2
+   Sint Maarten (Dutch part)*,25.0,534,B R,2015,52.1
+   Trinidad and Tobago,0,780,B R,2015,51.1
+   Turks and Caicos Islands*,26.0,796,B R,2015,48.3
+   United States Virgin Islands*,27.0,850,B,2015,52.9
+  Central America,0,916,0,2015,50.3
+   Belize,0,84,B R ,2015,49.7
+   Costa Rica,0,188,B R,2015,52.0
+   El Salvador,0,222,B R,2015,52.4
+   Guatemala,0,320,B R,2015,52.3
+   Honduras,0,340,B R,2015,47.5
+   Mexico,0,484,B R,2015,49.9
+   Nicaragua,0,558,B R,2015,48.5
+   Panama,0,591,B R,2015,48.7
+  South America,0,931,0,2015,50.4
+   Argentina,0,32,B R,2015,54.0
+   Bolivia (Plurinational State of),0,68,B R,2015,47.6
+   Brazil,0,76,B R,2015,46.0
+   Chile,0,152,B,2015,50.0
+   Colombia,0,170,B,2015,46.6
+   Ecuador,0,218,B R,2015,48.3
+   Falkland Islands (Malvinas)*,28.0,238,B,2015,44.4
+   French Guiana*,29.0,254,B R,2015,52.5
+   Guyana,0,328,B R,2015,44.6
+   Paraguay,0,600,B R,2015,48.0
+   Peru,0,604,B R,2015,41.1
+   Suriname,0,740,C R,2015,45.4
+   Uruguay,0,858,B R,2015,54.8
+   Venezuela (Bolivarian Republic of),0,862,B R,2015,49.9
+ NORTHERN AMERICA,0,905,0,2015,51.5
+   Bermuda*,30.0,60,B,2015,51.0
+   Canada,0,124,B,2015,52.4
+   Greenland*,31.0,304,B,2015,34.2
+   Saint Pierre and Miquelon*,32.0,666,B,2015,47.7
+   United States of America*,33.0,840,B,2015,51.3
+ OCEANIA ,0,909,0,2015,50.4
+   Australia*,0,36,B,2015,50.3
+   New Zealand*,34.0,554,B,2015,51.6
+  Melanesia,0,928,0,2015,45.2
+   Fiji,0,242,B R,2015,46.0
+   New Caledonia*,0,540,B,2015,47.5
+   Papua New Guinea,0,598,C R,2015,39.5
+   Solomon Islands,0,90,B R,2015,43.9
+   Vanuatu,0,548,B R,2015,50.3
+  Micronesia,0,954,0,2015,49.4
+   Guam*,35.0,316,B,2015,48.4
+   Kiribati,0,296,B,2015,47.3
+   Marshall Islands,0,584,B,2015,38.8
+   Micronesia (Fed. States of),0,583,B,2015,46.6
+   Nauru,0,520,C R,2015,43.4
+   Northern Mariana Islands*,36.0,580,B,2015,58.0
+   Palau,0,585,B,2015,39.3
+  Polynesia*,0,957,0,2015,46.3
+   American Samoa*,0,16,B,2015,49.0
+   Cook Islands*,37.0,184,B R,2015,49.9
+   French Polynesia*,38.0,258,B R,2015,43.0
+   Niue*,39.0,570,B,2015,45.7
+   Samoa,0,882,B R,2015,49.4
+   Tokelau*,40.0,772,B R,2015,52.4
+   Tonga,0,776,B R,2015,45.4
+   Tuvalu,0,798,C,2015,45.2
+   Wallis and Futuna Islands*,41.0,876,B R,2015,49.5
+   Burundi,0,108,B R,2020,50.7
+   Comoros,0,174,B,2020,51.6
+   Djibouti,0,262,B R,2020,47.5
+   Eritrea,0,232,I R,2020,43.9
+   Ethiopia,0,231,B R,2020,50.5
+   Kenya,0,404,B R,2020,49.5
+   Madagascar,0,450,C R,2020,43.0
+   Malawi,0,454,B R,2020,51.1
+   Mauritius*,0,480,C,2020,44.6
+   Mayotte*,1.0,175,B R,2020,53.7
+   Mozambique,0,508,B R,2020,51.2
+   Réunion*,2.0,638,B,2020,49.3
+   Rwanda,0,646,B R,2020,49.4
+   Seychelles,0,690,B,2020,30.0
+   Somalia,0,706,I R,2020,44.9
+   South Sudan,0,728,B R,2020,49.7
+   Uganda,0,800,B R,2020,51.9
+   United Republic of Tanzania*,0,834,B R,2020,50.0
+   Zambia,0,894,B R,2020,48.1
+   Zimbabwe,0,716,B R,2020,43.2
+  Middle Africa,0,911,0,2020,47.4
+   Angola,0,24,B R,2020,49.5
+   Cameroon,0,120,B R,2020,50.6
+   Central African Republic,0,140,C R,2020,47.6
+   Chad,0,148,B R,2020,54.4
+   Congo,0,178,B R,2020,45.5
+   Democratic Republic of the Congo,0,180,B R,2020,51.8
+   Equatorial Guinea,0,226,C,2020,22.9
+   Gabon,0,266,C R,2020,35.7
+   Sao Tome and Principe,0,678,C,2020,50.1
+  Northern Africa,0,912,0,2020,43.6
+   Algeria,0,12,B R,2020,47.2
+   Egypt,0,818,B R,2020,46.8
+   Libya,0,434,C R,2020,28.2
+   Morocco,0,504,C R,2020,48.5
+   Sudan,3.0,729,B R,2020,50.3
+   Tunisia,0,788,C R,2020,47.7
+   Western Sahara,0,732,I,2020,40.9
+  Southern Africa,0,913,0,2020,43.3
+   Botswana,0,72,B R,2020,43.0
+   Eswatini,0,748,B R,2020,48.5
+   Lesotho,0,426,C R,2020,45.8
+   Namibia,0,516,B R,2020,46.0
+   South Africa,0,710,B R,2020,43.1
+  Western Africa,0,914,0,2020,47.0
+   Benin,0,204,C B R,2020,52.9
+   Burkina Faso,0,854,B R,2020,52.4
+   Cabo Verde,0,132,B R,2020,49.4
+   Côte d'Ivoire,0,384,C B R,2020,44.6
+   Gambia,0,270,B R,2020,47.2
+   Ghana,0,288,B R,2020,46.6
+   Guinea,0,324,C B R,2020,41.2
+   Guinea-Bissau,0,624,B R,2020,50.6
+   Liberia,0,430,B R,2020,42.4
+   Mali,0,466,B R,2020,49.3
+   Mauritania,0,478,C R,2020,43.4
+   Niger,0,562,B R,2020,53.5
+   Nigeria,0,566,C R,2020,45.5
+   Saint Helena*,4.0,654,C,2020,30.0
+   Senegal,0,686,B R,2020,47.0
+   Sierra Leone,0,694,B R,2020,43.4
+   Togo,0,768,C R,2020,49.3
+ ASIA,0,935,0,2020,41.8
+  Central Asia,0,5500,0,2020,51.7
+   Kazakhstan,0,398,B R,2020,50.4
+   Kyrgyzstan,0,417,B R,2020,59.6
+   Tajikistan,0,762,B R,2020,56.8
+   Turkmenistan,0,795,B R,2020,52.6
+   Uzbekistan,0,860,B R,2020,53.2
+  Eastern Asia,0,906,0,2020,52.3
+   China*,0,156,C,2020,38.6
+"   China, Hong Kong SAR*",0,344,B R,2020,62.6
+"   China, Macao SAR*",0,446,B,2020,53.6
+"   China, Taiwan Province of China*",0,158,0,2020,0.0
+   Dem. People's Republic of Korea,0,408,I,2020,50.2
+   Japan,0,392,C,2020,51.4
+   Mongolia,0,496,C R,2020,33.2
+   Republic of Korea,0,410,C R,2020,44.5
+  South-Eastern Asia,0,920,0,2020,46.8
+   Brunei Darussalam,0,96,B,2020,43.4
+   Cambodia,0,116,B R,2020,46.1
+   Indonesia,0,360,B R,2020,41.9
+   Lao People's Democratic Republic,0,418,C R,2020,35.6
+   Malaysia*,0,458,C R,2020,38.0
+   Myanmar,0,104,C,2020,45.2
+   Philippines,0,608,C R,2020,48.1
+   Singapore,0,702,B,2020,55.9
+   Thailand,0,764,B R,2020,49.8
+   Timor-Leste,0,626,B R,2020,39.6
+   Viet Nam,0,704,C R,2020,42.1
+  Southern Asia,0,5501,0,2020,49.2
+   Afghanistan,0,4,B R,2020,52.0
+   Bangladesh,0,50,B R,2020,48.3
+   Bhutan,0,64,B,2020,15.1
+   India,0,356,B R,2020,53.4
+   Iran (Islamic Republic of),0,364,C R,2020,45.7
+   Maldives,0,462,C,2020,12.3
+   Nepal,0,524,B R,2020,69.9
+   Pakistan,0,586,B R,2020,44.7
+   Sri Lanka,0,144,B R,2020,47.3
+  Western Asia,0,922,0,2020,35.3
+   Armenia,0,51,B R,2020,59.0
+   Azerbaijan*,0,31,B R,2020,52.0
+   Bahrain,0,48,C R,2020,25.8
+   Cyprus*,0,196,B,2020,55.0
+   Georgia*,0,268,B R,2020,56.1
+   Iraq,0,368,C R,2020,44.9
+   Israel,0,376,B R,2020,54.6
+   Jordan,0,400,C R,2020,49.2
+   Kuwait,0,414,C R,2020,33.7
+   Lebanon,0,422,B R,2020,51.0
+   Oman,0,512,C R,2020,16.4
+   Qatar,0,634,C,2020,17.2
+   Saudi Arabia,0,682,C R,2020,31.4
+   State of Palestine*,5.0,275,B,2020,54.3
+   Syrian Arab Republic,0,760,C R,2020,50.2
+   Turkey,0,792,B R,2020,48.4
+   United Arab Emirates,0,784,C R,2020,26.3
+   Yemen,0,887,C R,2020,42.3
+ EUROPE,0,908,0,2020,51.6
+  Eastern Europe,0,923,0,2020,52.1
+   Belarus,0,112,B,2020,54.2
+   Bulgaria,0,100,B,2020,50.3
+   Czechia,0,203,C,2020,42.1
+   Hungary,0,348,B,2020,48.2
+   Poland,0,616,B,2020,52.2
+   Republic of Moldova*,0,498,B,2020,59.1
+   Romania,0,642,B,2020,45.1
+   Russian Federation,0,643,B,2020,50.9
+   Slovakia,0,703,B,2020,49.0
+   Ukraine*,0,804,B,2020,57.0
+  Northern Europe,0,924,0,2020,51.5
+   Channel Islands*,6.0,830,B,2020,52.2
+   Denmark*,7.0,208,B,2020,50.6
+   Estonia,0,233,B,2020,56.5
+   Faroe Islands*,8.0,234,B,2020,48.0
+   Finland*,0,246,B,2020,48.5
+   Iceland,0,352,B,2020,45.4
+   Ireland,0,372,B,2020,50.1
+   Isle of Man*,9.0,833,B,2020,51.2
+   Latvia,0,428,B,2020,59.5
+   Lithuania,0,440,B,2020,49.6
+   Norway*,0,578,B,2020,48.5
+   Sweden,0,752,B,2020,49.7
+   United Kingdom*,10.0,826,B,2020,52.3
+  Southern Europe,0,925,0,2020,52.7
+   Albania,0,8,B,2020,49.0
+   Andorra,0,20,C,2020,48.8
+   Bosnia and Herzegovina,0,70,I R,2020,53.2
+   Croatia,0,191,B,2020,53.5
+   Gibraltar*,11.0,292,B,2020,49.5
+   Greece,0,300,B,2020,52.1
+   Holy See*,0,336,I,2020,54.0
+   Italy,0,380,B,2020,53.6
+   Malta,0,470,B,2020,42.4
+   Montenegro,0,499,B,2020,60.6
+   North Macedonia,0,807,B,2020,58.3
+   Portugal,0,620,B,2020,52.1
+   San Marino,0,674,C,2020,46.0
+   Serbia*,0,688,B,2020,56.0
+   Slovenia,0,705,B,2020,41.4
+   Spain*,0,724,B,2020,52.2
+  Western Europe,0,926,0,2020,50.7
+   Austria,0,40,B,2020,51.2
+   Belgium,0,56,B,2020,50.9
+   France*,12.0,250,B,2020,51.5
+   Germany,0,276,B,2020,49.9
+   Liechtenstein,0,438,B,2020,51.2
+   Luxembourg,0,442,B,2020,49.1
+   Monaco,0,492,B,2020,51.5
+   Netherlands*,13.0,528,B,2020,51.9
+   Switzerland,0,756,B,2020,50.9
+ LATIN AMERICA AND THE CARIBBEAN,0,904,0,2020,49.5
+  Caribbean,0,915,0,2020,46.9
+   Anguilla*,14.0,660,B R,2020,52.7
+   Antigua and Barbuda,0,28,B R,2020,55.4
+   Aruba*,15.0,533,B R,2020,54.6
+   Bahamas,0,44,B R,2020,49.4
+   Barbados,0,52,B R,2020,55.1
+"   Bonaire, Sint Eustatius and Saba*",16.0,535,B,2020,0.0
+   British Virgin Islands*,18.0,92,B R,2020,51.8
+   Cayman Islands*,19.0,136,C R,2020,48.6
+   Cuba,0,192,B,2020,56.6
+   Curaçao*,20.0,531,B R,2020,56.4
+   Dominica,0,212,B,2020,47.9
+   Dominican Republic,0,214,B R,2020,36.6
+   Grenada,0,308,B,2020,54.4
+   Guadeloupe*,21.0,312,B,2020,58.0
+   Haiti,0,332,B R,2020,44.4
+   Jamaica,0,388,B R,2020,49.2
+   Martinique*,22.0,474,B R,2020,57.5
+   Montserrat*,23.0,500,B,2020,48.4
+   Puerto Rico*,24.0,630,B,2020,53.5
+   Saint Barthélemy*,0,652,0,2020,0.0
+   Saint Kitts and Nevis,0,659,B R,2020,47.4
+   Saint Lucia,0,662,B R,2020,52.0
+   Saint Martin (French part)*,0,663,0,2020,0.0
+   Saint Vincent and the Grenadines,0,670,B R,2020,48.4
+   Sint Maarten (Dutch part)*,25.0,534,B R,2020,52.1
+   Trinidad and Tobago,0,780,B R,2020,50.3
+   Turks and Caicos Islands*,26.0,796,B R,2020,48.2
+   United States Virgin Islands*,27.0,850,B,2020,52.9
+  Central America,0,916,0,2020,49.4
+   Belize,0,84,B R ,2020,49.7
+   Costa Rica,0,188,B R,2020,49.4
+   El Salvador,0,222,B R,2020,52.4
+   Guatemala,0,320,B R,2020,52.7
+   Honduras,0,340,B R,2020,47.5
+   Mexico,0,484,B R,2020,49.8
+   Nicaragua,0,558,B R,2020,48.6
+   Panama,0,591,B R,2020,46.7
+  South America,0,931,0,2020,49.9
+   Argentina,0,32,B R,2020,53.4
+   Bolivia (Plurinational State of),0,68,B R,2020,47.6
+   Brazil,0,76,B R,2020,46.0
+   Chile,0,152,B,2020,49.5
+   Colombia,0,170,B,2020,49.9
+   Ecuador,0,218,B R,2020,48.2
+   Falkland Islands (Malvinas)*,28.0,238,B,2020,44.4
+   French Guiana*,29.0,254,B R,2020,52.5
+   Guyana,0,328,B R,2020,53.5
+   Paraguay,0,600,B R,2020,47.9
+   Peru,0,604,B R,2020,47.5
+   Suriname,0,740,C R,2020,45.0
+   Uruguay,0,858,B R,2020,53.0
+   Venezuela (Bolivarian Republic of),0,862,B R,2020,50.7
+ NORTHERN AMERICA,0,905,0,2020,51.8
+   Bermuda*,30.0,60,B,2020,50.7
+   Canada,0,124,B,2020,52.4
+   Greenland*,31.0,304,B,2020,35.2
+   Saint Pierre and Miquelon*,32.0,666,B,2020,47.6
+   United States of America*,33.0,840,B,2020,51.7
+ OCEANIA ,0,909,0,2020,50.5
+   Australia*,0,36,B,2020,50.4
+   New Zealand*,34.0,554,B,2020,51.6
+  Melanesia,0,928,0,2020,45.3
+   Fiji,0,242,B R,2020,46.0
+   New Caledonia*,0,540,B,2020,47.7
+   Papua New Guinea,0,598,C R,2020,39.2
+   Solomon Islands,0,90,B R,2020,43.8
+   Vanuatu,0,548,B R,2020,50.3
+  Micronesia,0,954,0,2020,49.5
+   Guam*,35.0,316,B,2020,48.4
+   Kiribati,0,296,B,2020,47.2
+   Marshall Islands,0,584,B,2020,38.7
+   Micronesia (Fed. States of),0,583,B,2020,46.5
+   Nauru,0,520,C R,2020,41.1
+   Northern Mariana Islands*,36.0,580,B,2020,58.0
+   Palau,0,585,B,2020,43.2
+  Polynesia*,0,957,0,2020,46.3
+   American Samoa*,0,16,B,2020,49.0
+   Cook Islands*,37.0,184,B R,2020,50.0
+   French Polynesia*,38.0,258,B R,2020,43.0
+   Niue*,39.0,570,B,2020,45.7
+   Samoa,0,882,B R,2020,49.5
+   Tokelau*,40.0,772,B R,2020,52.7
+   Tonga,0,776,B R,2020,45.4
+   Tuvalu,0,798,C,2020,44.8
+   Wallis and Futuna Islands*,41.0,876,B R,2020,49.5

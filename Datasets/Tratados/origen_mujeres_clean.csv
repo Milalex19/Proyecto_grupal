@@ -1,0 +1,1989 @@
+Region,Location code,Year,Numero de Migrantes
+WORLD,900,1990,49.3
+  Sub-Saharan Africa,947,1990,46.9
+  Northern Africa and Western Asia,1833,1990,46.0
+  Central and Southern Asia,921,1990,45.2
+  Eastern and South-Eastern Asia,1832,1990,49.8
+  Latin America and the Caribbean,1830,1990,50.6
+  Oceania (excluding Australia and New Zealand),1835,1990,51.0
+  Australia and New Zealand,927,1990,51.3
+  Europe and Northern America,1829,1990,53.1
+  Developed regions,901,1990,53.0
+  Less developed regions,902,1990,47.2
+" Less developed regions, excluding least developed countries",934,1990,48.0
+" Less developed regions, excluding China",948,1990,47.2
+  Least developed countries,941,1990,45.5
+  Land-locked Developing Countries (LLDC),1636,1990,48.7
+  Small island developing States (SIDS),1637,1990,52.2
+  High-income countries,1503,1990,51.8
+  Middle-income countries,1517,1990,49.1
+ Upper-middle-income countries,1502,1990,51.4
+ Lower-middle-income countries,1501,1990,46.6
+  Low-income countries,1500,1990,46.3
+ AFRICA,903,1990,45.6
+  Eastern Africa,910,1990,47.9
+   Burundi,108,1990,48.4
+   Comoros,174,1990,45.0
+   Djibouti,262,1990,45.6
+   Eritrea,232,1990,47.5
+   Ethiopia,231,1990,49.3
+   Kenya,404,1990,50.8
+   Madagascar,450,1990,56.9
+   Malawi,454,1990,41.1
+   Mauritius*,480,1990,53.5
+   Mayotte*,175,1990,46.3
+   Mozambique,508,1990,45.9
+   Réunion*,638,1990,49.1
+   Rwanda,646,1990,49.5
+   Seychelles,690,1990,51.7
+   Somalia,706,1990,47.1
+   South Sudan,728,1990,48.2
+   Uganda,800,1990,49.3
+   United Republic of Tanzania*,834,1990,47.2
+   Zambia,894,1990,50.0
+   Zimbabwe,716,1990,48.3
+  Middle Africa,911,1990,50.1
+   Angola,24,1990,50.8
+   Cameroon,120,1990,48.2
+   Central African Republic,140,1990,47.8
+   Chad,148,1990,50.1
+   Congo,178,1990,46.5
+   Democratic Republic of the Congo,180,1990,50.2
+   Equatorial Guinea,226,1990,51.0
+   Gabon,266,1990,49.6
+   Sao Tome and Principe,678,1990,51.8
+  Northern Africa,912,1990,41.8
+   Algeria,12,1990,43.4
+   Egypt,818,1990,37.8
+   Libya,434,1990,47.4
+   Morocco,504,1990,43.7
+   Sudan,729,1990,42.5
+   Tunisia,788,1990,39.5
+   Western Sahara,732,1990,44.9
+  Southern Africa,913,1990,39.3
+   Botswana,72,1990,26.2
+   Eswatini,748,1990,27.3
+   Lesotho,426,1990,23.7
+   Namibia,516,1990,41.8
+   South Africa,710,1990,51.3
+  Western Africa,914,1990,45.1
+   Benin,204,1990,45.7
+   Burkina Faso,854,1990,43.9
+   Cabo Verde,132,1990,53.3
+   Côte d'Ivoire,384,1990,49.3
+   Gambia,270,1990,42.6
+   Ghana,288,1990,49.5
+   Guinea,324,1990,42.9
+   Guinea-Bissau,624,1990,50.5
+   Liberia,430,1990,49.6
+   Mali,466,1990,44.3
+   Mauritania,478,1990,44.1
+   Niger,562,1990,36.7
+   Nigeria,566,1990,42.8
+   Saint Helena*,654,1990,56.3
+   Senegal,686,1990,37.7
+   Sierra Leone,694,1990,48.3
+   Togo,768,1990,50.9
+ ASIA,935,1990,46.9
+  Central Asia,5500,1990,51.8
+   Kazakhstan,398,1990,52.0
+   Kyrgyzstan,417,1990,51.7
+   Tajikistan,762,1990,50.8
+   Turkmenistan,795,1990,51.0
+   Uzbekistan,860,1990,52.0
+  Eastern Asia,906,1990,49.1
+   China*,156,1990,48.1
+"   China, Hong Kong SAR*",344,1990,50.7
+"   China, Macao SAR*",446,1990,49.8
+"   China, Taiwan Province of China*",158,1990,0.0
+   Dem. People's Republic of Korea,408,1990,51.6
+   Japan,392,1990,50.5
+   Mongolia,496,1990,51.9
+   Republic of Korea,410,1990,50.7
+  South-Eastern Asia,920,1990,50.5
+   Brunei Darussalam,96,1990,40.7
+   Cambodia,116,1990,50.8
+   Indonesia,360,1990,41.5
+   Lao People's Democratic Republic,418,1990,50.9
+   Malaysia*,458,1990,50.9
+   Myanmar,104,1990,45.1
+   Philippines,608,1990,58.9
+   Singapore,702,1990,52.3
+   Thailand,764,1990,60.6
+   Timor-Leste,626,1990,47.4
+   Viet Nam,704,1990,48.8
+  Southern Asia,5501,1990,43.7
+   Afghanistan,4,1990,46.2
+   Bangladesh,50,1990,42.0
+   Bhutan,64,1990,51.1
+   India,356,1990,42.5
+   Iran (Islamic Republic of),364,1990,42.6
+   Maldives,462,1990,22.6
+   Nepal,524,1990,48.0
+   Pakistan,586,1990,41.1
+   Sri Lanka,144,1990,48.1
+  Western Asia,922,1990,48.1
+   Armenia,51,1990,51.4
+   Azerbaijan*,31,1990,53.0
+   Bahrain,48,1990,52.3
+   Cyprus*,196,1990,48.0
+   Georgia*,268,1990,51.4
+   Iraq,368,1990,46.6
+   Israel,376,1990,50.6
+   Jordan,400,1990,40.3
+   Kuwait,414,1990,44.6
+   Lebanon,422,1990,42.6
+   Oman,512,1990,48.6
+   Qatar,634,1990,50.6
+   Saudi Arabia,682,1990,46.1
+   State of Palestine*,275,1990,51.0
+   Syrian Arab Republic,760,1990,42.8
+   Turkey,792,1990,46.3
+   United Arab Emirates,784,1990,43.8
+   Yemen,887,1990,36.3
+ EUROPE,908,1990,53.0
+  Eastern Europe,923,1990,54.7
+   Belarus,112,1990,53.9
+   Bulgaria,100,1990,51.0
+   Czechia,203,1990,51.8
+   Hungary,348,1990,49.8
+   Poland,616,1990,54.4
+   Republic of Moldova*,498,1990,53.6
+   Romania,642,1990,53.6
+   Russian Federation,643,1990,56.4
+   Slovakia,703,1990,50.4
+   Ukraine*,804,1990,52.5
+  Northern Europe,924,1990,52.5
+   Channel Islands*,830,1990,53.2
+   Denmark*,208,1990,54.6
+   Estonia,233,1990,52.3
+   Faroe Islands*,234,1990,60.2
+   Finland*,246,1990,59.4
+   Iceland,352,1990,51.1
+   Ireland,372,1990,55.0
+   Isle of Man*,833,1990,52.5
+   Latvia,428,1990,53.5
+   Lithuania,440,1990,55.3
+   Norway*,578,1990,56.8
+   Sweden,752,1990,57.6
+   United Kingdom*,826,1990,50.6
+  Southern Europe,925,1990,48.9
+   Albania,8,1990,39.3
+   Andorra,20,1990,53.6
+   Bosnia and Herzegovina,70,1990,50.4
+   Croatia,191,1990,49.7
+   Gibraltar*,292,1990,52.7
+   Greece,300,1990,47.8
+   Holy See*,336,1990,50.0
+   Italy,380,1990,48.1
+   Malta,470,1990,49.0
+   Montenegro,499,1990,49.8
+   North Macedonia,807,1990,49.8
+   Portugal,620,1990,48.5
+   San Marino,674,1990,59.8
+   Serbia*,688,1990,47.0
+   Slovenia,705,1990,56.3
+   Spain*,724,1990,52.5
+  Western Europe,926,1990,53.7
+   Austria,40,1990,53.6
+   Belgium,56,1990,57.0
+   France*,250,1990,52.9
+   Germany,276,1990,54.2
+   Liechtenstein,438,1990,57.8
+   Luxembourg,442,1990,48.6
+   Monaco,492,1990,49.6
+   Netherlands*,528,1990,50.7
+   Switzerland,756,1990,55.4
+ LATIN AMERICA AND THE CARIBBEAN,904,1990,50.6
+  Caribbean,915,1990,52.3
+   Anguilla*,660,1990,48.0
+   Antigua and Barbuda,28,1990,54.8
+   Aruba*,533,1990,55.7
+   Bahamas,44,1990,57.8
+   Barbados,52,1990,52.7
+"   Bonaire, Sint Eustatius and Saba*",535,1990,49.2
+   British Virgin Islands*,92,1990,56.7
+   Cayman Islands*,136,1990,47.5
+   Cuba,192,1990,52.2
+   Curaçao*,531,1990,51.3
+   Dominica,212,1990,54.2
+   Dominican Republic,214,1990,57.2
+   Grenada,308,1990,54.7
+   Guadeloupe*,312,1990,55.6
+   Haiti,332,1990,44.2
+   Jamaica,388,1990,54.5
+   Martinique*,474,1990,49.2
+   Montserrat*,500,1990,53.1
+   Puerto Rico*,630,1990,52.1
+   Saint Barthélemy*,652,1990,0.0
+   Saint Kitts and Nevis,659,1990,53.3
+   Saint Lucia,662,1990,54.3
+   Saint Martin (French part)*,663,1990,0.0
+   Saint Vincent and the Grenadines,670,1990,51.7
+   Sint Maarten (Dutch part)*,534,1990,51.3
+   Trinidad and Tobago,780,1990,55.6
+   Turks and Caicos Islands*,796,1990,56.5
+   United States Virgin Islands*,850,1990,50.2
+  Central America,916,1990,48.1
+   Belize,84,1990,58.2
+   Costa Rica,188,1990,58.1
+   El Salvador,222,1990,51.0
+   Guatemala,320,1990,49.5
+   Honduras,340,1990,57.3
+   Mexico,484,1990,46.3
+   Nicaragua,558,1990,50.3
+   Panama,591,1990,50.6
+  South America,931,1990,52.9
+   Argentina,32,1990,52.7
+   Bolivia (Plurinational State of),68,1990,48.6
+   Brazil,76,1990,54.9
+   Chile,152,1990,49.6
+   Colombia,170,1990,54.6
+   Ecuador,218,1990,50.6
+   Falkland Islands (Malvinas)*,238,1990,45.5
+   French Guiana*,254,1990,56.0
+   Guyana,328,1990,52.6
+   Paraguay,600,1990,55.8
+   Peru,604,1990,52.3
+   Suriname,740,1990,51.3
+   Uruguay,858,1990,50.9
+   Venezuela (Bolivarian Republic of),862,1990,55.4
+ NORTHERN AMERICA,905,1990,54.8
+   Bermuda*,60,1990,51.6
+   Canada,124,1990,63.3
+   Greenland*,304,1990,60.3
+   Saint Pierre and Miquelon*,666,1990,50.7
+   United States of America*,840,1990,50.1
+ OCEANIA ,909,1990,51.2
+  Australia and New Zealand,927,1990,51.3
+   Australia*,36,1990,53.7
+   New Zealand*,554,1990,49.5
+  Melanesia,928,1990,51.4
+   Fiji,242,1990,51.6
+   New Caledonia*,540,1990,53.5
+   Papua New Guinea,598,1990,49.5
+   Solomon Islands,90,1990,48.7
+   Vanuatu,548,1990,47.5
+  Micronesia,954,1990,51.2
+   Guam*,316,1990,49.6
+   Kiribati,296,1990,52.2
+   Marshall Islands,584,1990,50.4
+   Micronesia (Fed. States of),583,1990,49.0
+   Nauru,520,1990,55.8
+   Northern Mariana Islands*,580,1990,52.4
+   Palau,585,1990,53.7
+  Polynesia*,957,1990,50.6
+   American Samoa*,16,1990,48.6
+   Cook Islands*,184,1990,52.1
+   French Polynesia*,258,1990,49.5
+   Niue*,570,1990,51.7
+   Samoa,882,1990,51.1
+   Tokelau*,772,1990,50.4
+   Tonga,776,1990,50.4
+   Tuvalu,798,1990,48.8
+   Wallis and Futuna Islands*,876,1990,43.5
+OTHER,2003,1990,49.0
+WORLD,900,1995,49.4
+  Sub-Saharan Africa,947,1995,47.4
+  Northern Africa and Western Asia,1833,1995,45.6
+  Central and Southern Asia,921,1995,44.8
+  Eastern and South-Eastern Asia,1832,1995,50.4
+  Latin America and the Caribbean,1830,1995,50.6
+  Oceania (excluding Australia and New Zealand),1835,1995,51.3
+  Australia and New Zealand,927,1995,51.6
+  Europe and Northern America,1829,1995,53.2
+  Developed regions,901,1995,53.1
+  Less developed regions,902,1995,47.5
+" Less developed regions, excluding least developed countries",934,1995,48.2
+" Less developed regions, excluding China",948,1995,47.3
+  Least developed countries,941,1995,45.6
+  Land-locked Developing Countries (LLDC),1636,1995,48.8
+  Small island developing States (SIDS),1637,1995,53.1
+  High-income countries,1503,1995,52.0
+  Middle-income countries,1517,1995,49.1
+ Upper-middle-income countries,1502,1995,51.2
+ Lower-middle-income countries,1501,1995,46.6
+  Low-income countries,1500,1995,46.3
+ AFRICA,903,1995,46.0
+  Eastern Africa,910,1995,48.3
+   Burundi,108,1995,48.7
+   Comoros,174,1995,45.7
+   Djibouti,262,1995,43.9
+   Eritrea,232,1995,47.4
+   Ethiopia,231,1995,49.4
+   Kenya,404,1995,51.3
+   Madagascar,450,1995,57.5
+   Malawi,454,1995,41.1
+   Mauritius*,480,1995,54.5
+   Mayotte*,175,1995,50.5
+   Mozambique,508,1995,40.3
+   Réunion*,638,1995,52.1
+   Rwanda,646,1995,50.4
+   Seychelles,690,1995,52.3
+   Somalia,706,1995,47.6
+   South Sudan,728,1995,46.6
+   Uganda,800,1995,50.9
+   United Republic of Tanzania*,834,1995,47.9
+   Zambia,894,1995,51.9
+   Zimbabwe,716,1995,48.6
+  Middle Africa,911,1995,49.7
+   Angola,24,1995,49.9
+   Cameroon,120,1995,48.3
+   Central African Republic,140,1995,49.1
+   Chad,148,1995,49.4
+   Congo,178,1995,47.4
+   Democratic Republic of the Congo,180,1995,50.3
+   Equatorial Guinea,226,1995,51.6
+   Gabon,266,1995,49.9
+   Sao Tome and Principe,678,1995,52.5
+  Northern Africa,912,1995,42.0
+   Algeria,12,1995,43.8
+   Egypt,818,1995,36.3
+   Libya,434,1995,47.3
+   Morocco,504,1995,44.8
+   Sudan,729,1995,43.3
+   Tunisia,788,1995,40.9
+   Western Sahara,732,1995,45.0
+  Southern Africa,913,1995,44.9
+   Botswana,72,1995,32.7
+   Eswatini,748,1995,34.6
+   Lesotho,426,1995,31.1
+   Namibia,516,1995,46.9
+   South Africa,710,1995,51.1
+  Western Africa,914,1995,45.8
+   Benin,204,1995,46.0
+   Burkina Faso,854,1995,44.0
+   Cabo Verde,132,1995,52.9
+   Côte d'Ivoire,384,1995,49.1
+   Gambia,270,1995,42.3
+   Ghana,288,1995,49.6
+   Guinea,324,1995,43.2
+   Guinea-Bissau,624,1995,49.2
+   Liberia,430,1995,50.7
+   Mali,466,1995,44.9
+   Mauritania,478,1995,43.8
+   Niger,562,1995,37.1
+   Nigeria,566,1995,42.4
+   Saint Helena*,654,1995,59.8
+   Senegal,686,1995,38.3
+   Sierra Leone,694,1995,49.7
+   Togo,768,1995,51.9
+ ASIA,935,1995,47.0
+  Central Asia,5500,1995,51.6
+   Kazakhstan,398,1995,52.7
+   Kyrgyzstan,417,1995,51.6
+   Tajikistan,762,1995,47.8
+   Turkmenistan,795,1995,50.9
+   Uzbekistan,860,1995,50.8
+  Eastern Asia,906,1995,49.7
+   China*,156,1995,49.2
+"   China, Hong Kong SAR*",344,1995,50.8
+"   China, Macao SAR*",446,1995,49.9
+"   China, Taiwan Province of China*",158,1995,0.0
+   Dem. People's Republic of Korea,408,1995,50.8
+   Japan,392,1995,51.1
+   Mongolia,496,1995,53.5
+   Republic of Korea,410,1995,50.1
+  South-Eastern Asia,920,1995,51.0
+   Brunei Darussalam,96,1995,40.0
+   Cambodia,116,1995,50.8
+   Indonesia,360,1995,43.0
+   Lao People's Democratic Republic,418,1995,50.7
+   Malaysia*,458,1995,53.4
+   Myanmar,104,1995,45.7
+   Philippines,608,1995,58.0
+   Singapore,702,1995,52.5
+   Thailand,764,1995,62.2
+   Timor-Leste,626,1995,49.6
+   Viet Nam,704,1995,49.0
+  Southern Asia,5501,1995,43.0
+   Afghanistan,4,1995,45.4
+   Bangladesh,50,1995,41.7
+   Bhutan,64,1995,49.3
+   India,356,1995,42.5
+   Iran (Islamic Republic of),364,1995,43.8
+   Maldives,462,1995,28.0
+   Nepal,524,1995,47.0
+   Pakistan,586,1995,40.3
+   Sri Lanka,144,1995,47.2
+  Western Asia,922,1995,47.3
+   Armenia,51,1995,49.4
+   Azerbaijan*,31,1995,50.8
+   Bahrain,48,1995,49.1
+   Cyprus*,196,1995,48.9
+   Georgia*,268,1995,49.6
+   Iraq,368,1995,45.3
+   Israel,376,1995,50.3
+   Jordan,400,1995,39.4
+   Kuwait,414,1995,42.8
+   Lebanon,422,1995,43.1
+   Oman,512,1995,47.8
+   Qatar,634,1995,49.7
+   Saudi Arabia,682,1995,43.3
+   State of Palestine*,275,1995,50.4
+   Syrian Arab Republic,760,1995,42.7
+   Turkey,792,1995,46.9
+   United Arab Emirates,784,1995,41.4
+   Yemen,887,1995,35.7
+ EUROPE,908,1995,53.1
+  Eastern Europe,923,1995,55.1
+   Belarus,112,1995,55.1
+   Bulgaria,100,1995,51.8
+   Czechia,203,1995,53.3
+   Hungary,348,1995,50.2
+   Poland,616,1995,55.4
+   Republic of Moldova*,498,1995,52.0
+   Romania,642,1995,53.0
+   Russian Federation,643,1995,57.0
+   Slovakia,703,1995,50.3
+   Ukraine*,804,1995,52.9
+  Northern Europe,924,1995,52.5
+   Channel Islands*,830,1995,52.2
+   Denmark*,208,1995,54.4
+   Estonia,233,1995,53.3
+   Faroe Islands*,234,1995,58.9
+   Finland*,246,1995,59.8
+   Iceland,352,1995,51.3
+   Ireland,372,1995,55.4
+   Isle of Man*,833,1995,51.5
+   Latvia,428,1995,54.0
+   Lithuania,440,1995,56.0
+   Norway*,578,1995,56.8
+   Sweden,752,1995,57.0
+   United Kingdom*,826,1995,50.3
+  Southern Europe,925,1995,49.3
+   Albania,8,1995,43.7
+   Andorra,20,1995,53.2
+   Bosnia and Herzegovina,70,1995,51.3
+   Croatia,191,1995,50.6
+   Gibraltar*,292,1995,51.7
+   Greece,300,1995,48.2
+   Holy See*,336,1995,34.6
+   Italy,380,1995,48.1
+   Malta,470,1995,49.4
+   Montenegro,499,1995,51.2
+   North Macedonia,807,1995,50.0
+   Portugal,620,1995,48.6
+   San Marino,674,1995,53.9
+   Serbia*,688,1995,47.4
+   Slovenia,705,1995,56.3
+   Spain*,724,1995,53.4
+  Western Europe,926,1995,53.2
+   Austria,40,1995,53.5
+   Belgium,56,1995,56.9
+   France*,250,1995,52.3
+   Germany,276,1995,53.6
+   Liechtenstein,438,1995,56.8
+   Luxembourg,442,1995,49.2
+   Monaco,492,1995,50.1
+   Netherlands*,528,1995,50.3
+   Switzerland,756,1995,55.0
+ LATIN AMERICA AND THE CARIBBEAN,904,1995,50.6
+  Caribbean,915,1995,53.4
+   Anguilla*,660,1995,48.5
+   Antigua and Barbuda,28,1995,54.8
+   Aruba*,533,1995,55.8
+   Bahamas,44,1995,57.4
+   Barbados,52,1995,52.7
+"   Bonaire, Sint Eustatius and Saba*",535,1995,49.3
+   British Virgin Islands*,92,1995,56.6
+   Cayman Islands*,136,1995,54.3
+   Cuba,192,1995,52.3
+   Curaçao*,531,1995,50.5
+   Dominica,212,1995,53.9
+   Dominican Republic,214,1995,57.4
+   Grenada,308,1995,54.6
+   Guadeloupe*,312,1995,57.1
+   Haiti,332,1995,45.3
+   Jamaica,388,1995,54.8
+   Martinique*,474,1995,51.7
+   Montserrat*,500,1995,55.2
+   Puerto Rico*,630,1995,54.6
+   Saint Barthélemy*,652,1995,0.0
+   Saint Kitts and Nevis,659,1995,53.5
+   Saint Lucia,662,1995,54.9
+   Saint Martin (French part)*,663,1995,0.0
+   Saint Vincent and the Grenadines,670,1995,51.3
+   Sint Maarten (Dutch part)*,534,1995,51.2
+   Trinidad and Tobago,780,1995,56.3
+   Turks and Caicos Islands*,796,1995,55.7
+   United States Virgin Islands*,850,1995,45.5
+  Central America,916,1995,47.4
+   Belize,84,1995,57.9
+   Costa Rica,188,1995,58.1
+   El Salvador,222,1995,50.4
+   Guatemala,320,1995,49.2
+   Honduras,340,1995,56.9
+   Mexico,484,1995,46.1
+   Nicaragua,558,1995,50.6
+   Panama,591,1995,50.5
+  South America,931,1995,53.4
+   Argentina,32,1995,52.2
+   Bolivia (Plurinational State of),68,1995,49.0
+   Brazil,76,1995,55.8
+   Chile,152,1995,50.7
+   Colombia,170,1995,54.3
+   Ecuador,218,1995,51.1
+   Falkland Islands (Malvinas)*,238,1995,55.8
+   French Guiana*,254,1995,56.8
+   Guyana,328,1995,52.6
+   Paraguay,600,1995,56.2
+   Peru,604,1995,54.2
+   Suriname,740,1995,52.3
+   Uruguay,858,1995,51.0
+   Venezuela (Bolivarian Republic of),862,1995,55.8
+ NORTHERN AMERICA,905,1995,54.8
+   Bermuda*,60,1995,51.4
+   Canada,124,1995,63.0
+   Greenland*,304,1995,59.9
+   Saint Pierre and Miquelon*,666,1995,48.4
+   United States of America*,840,1995,50.0
+ OCEANIA ,909,1995,51.5
+  Australia and New Zealand,927,1995,51.6
+   Australia*,36,1995,53.9
+   New Zealand*,554,1995,49.8
+  Melanesia,928,1995,52.0
+   Fiji,242,1995,52.2
+   New Caledonia*,540,1995,53.6
+   Papua New Guinea,598,1995,49.9
+   Solomon Islands,90,1995,49.6
+   Vanuatu,548,1995,48.0
+  Micronesia,954,1995,50.4
+   Guam*,316,1995,47.3
+   Kiribati,296,1995,52.1
+   Marshall Islands,584,1995,49.9
+   Micronesia (Fed. States of),583,1995,49.3
+   Nauru,520,1995,53.8
+   Northern Mariana Islands*,580,1995,51.9
+   Palau,585,1995,51.8
+  Polynesia*,957,1995,51.0
+   American Samoa*,16,1995,48.3
+   Cook Islands*,184,1995,52.1
+   French Polynesia*,258,1995,50.0
+   Niue*,570,1995,52.5
+   Samoa,882,1995,51.4
+   Tokelau*,772,1995,50.3
+   Tonga,776,1995,50.8
+   Tuvalu,798,1995,49.6
+   Wallis and Futuna Islands*,876,1995,46.5
+OTHER,2003,1995,49.5
+WORLD,900,2000,49.4
+  Sub-Saharan Africa,947,2000,47.3
+  Northern Africa and Western Asia,1833,2000,44.8
+  Central and Southern Asia,921,2000,44.4
+  Eastern and South-Eastern Asia,1832,2000,51.0
+  Latin America and the Caribbean,1830,2000,50.5
+  Oceania (excluding Australia and New Zealand),1835,2000,51.1
+  Australia and New Zealand,927,2000,51.7
+  Europe and Northern America,1829,2000,53.3
+  Developed regions,901,2000,53.3
+  Less developed regions,902,2000,47.5
+" Less developed regions, excluding least developed countries",934,2000,48.2
+" Less developed regions, excluding China",948,2000,47.3
+  Least developed countries,941,2000,45.3
+  Land-locked Developing Countries (LLDC),1636,2000,48.2
+  Small island developing States (SIDS),1637,2000,53.7
+  High-income countries,1503,2000,52.3
+  Middle-income countries,1517,2000,49.0
+ Upper-middle-income countries,1502,2000,51.1
+ Lower-middle-income countries,1501,2000,46.5
+  Low-income countries,1500,2000,45.6
+ AFRICA,903,2000,45.7
+  Eastern Africa,910,2000,47.9
+   Burundi,108,2000,48.8
+   Comoros,174,2000,47.6
+   Djibouti,262,2000,42.6
+   Eritrea,232,2000,50.1
+   Ethiopia,231,2000,46.3
+   Kenya,404,2000,51.4
+   Madagascar,450,2000,58.1
+   Malawi,454,2000,40.8
+   Mauritius*,480,2000,55.2
+   Mayotte*,175,2000,52.1
+   Mozambique,508,2000,39.3
+   Réunion*,638,2000,55.2
+   Rwanda,646,2000,50.4
+   Seychelles,690,2000,54.5
+   Somalia,706,2000,48.5
+   South Sudan,728,2000,44.5
+   Uganda,800,2000,50.9
+   United Republic of Tanzania*,834,2000,49.6
+   Zambia,894,2000,51.9
+   Zimbabwe,716,2000,48.4
+  Middle Africa,911,2000,49.8
+   Angola,24,2000,49.9
+   Cameroon,120,2000,48.2
+   Central African Republic,140,2000,50.4
+   Chad,148,2000,47.8
+   Congo,178,2000,47.8
+   Democratic Republic of the Congo,180,2000,50.5
+   Equatorial Guinea,226,2000,51.8
+   Gabon,266,2000,50.2
+   Sao Tome and Principe,678,2000,52.8
+  Northern Africa,912,2000,42.0
+   Algeria,12,2000,44.1
+   Egypt,818,2000,35.3
+   Libya,434,2000,46.7
+   Morocco,504,2000,45.4
+   Sudan,729,2000,43.2
+   Tunisia,788,2000,42.1
+   Western Sahara,732,2000,45.2
+  Southern Africa,913,2000,49.0
+   Botswana,72,2000,39.5
+   Eswatini,748,2000,43.9
+   Lesotho,426,2000,44.3
+   Namibia,516,2000,49.7
+   South Africa,710,2000,51.0
+  Western Africa,914,2000,45.5
+   Benin,204,2000,46.7
+   Burkina Faso,854,2000,44.0
+   Cabo Verde,132,2000,52.5
+   Côte d'Ivoire,384,2000,49.7
+   Gambia,270,2000,42.2
+   Ghana,288,2000,49.3
+   Guinea,324,2000,43.8
+   Guinea-Bissau,624,2000,45.3
+   Liberia,430,2000,50.4
+   Mali,466,2000,44.3
+   Mauritania,478,2000,38.9
+   Niger,562,2000,38.1
+   Nigeria,566,2000,42.2
+   Saint Helena*,654,2000,60.5
+   Senegal,686,2000,38.7
+   Sierra Leone,694,2000,50.0
+   Togo,768,2000,51.0
+ ASIA,935,2000,46.9
+  Central Asia,5500,2000,51.7
+   Kazakhstan,398,2000,53.5
+   Kyrgyzstan,417,2000,51.8
+   Tajikistan,762,2000,44.7
+   Turkmenistan,795,2000,51.0
+   Uzbekistan,860,2000,50.0
+  Eastern Asia,906,2000,50.6
+   China*,156,2000,50.3
+"   China, Hong Kong SAR*",344,2000,50.8
+"   China, Macao SAR*",446,2000,50.1
+"   China, Taiwan Province of China*",158,2000,0.0
+   Dem. People's Republic of Korea,408,2000,50.3
+   Japan,392,2000,51.9
+   Mongolia,496,2000,54.7
+   Republic of Korea,410,2000,51.0
+  South-Eastern Asia,920,2000,51.3
+   Brunei Darussalam,96,2000,39.9
+   Cambodia,116,2000,51.3
+   Indonesia,360,2000,44.3
+   Lao People's Democratic Republic,418,2000,51.1
+   Malaysia*,458,2000,55.1
+   Myanmar,104,2000,46.4
+   Philippines,608,2000,57.3
+   Singapore,702,2000,52.7
+   Thailand,764,2000,62.9
+   Timor-Leste,626,2000,49.8
+   Viet Nam,704,2000,48.9
+  Southern Asia,5501,2000,42.5
+   Afghanistan,4,2000,45.0
+   Bangladesh,50,2000,41.3
+   Bhutan,64,2000,48.9
+   India,356,2000,41.7
+   Iran (Islamic Republic of),364,2000,45.1
+   Maldives,462,2000,42.6
+   Nepal,524,2000,46.3
+   Pakistan,586,2000,39.5
+   Sri Lanka,144,2000,46.4
+  Western Asia,922,2000,46.2
+   Armenia,51,2000,46.4
+   Azerbaijan*,31,2000,48.1
+   Bahrain,48,2000,48.5
+   Cyprus*,196,2000,50.2
+   Georgia*,268,2000,48.0
+   Iraq,368,2000,43.3
+   Israel,376,2000,50.1
+   Jordan,400,2000,38.6
+   Kuwait,414,2000,41.5
+   Lebanon,422,2000,43.6
+   Oman,512,2000,47.3
+   Qatar,634,2000,49.0
+   Saudi Arabia,682,2000,41.5
+   State of Palestine*,275,2000,49.4
+   Syrian Arab Republic,760,2000,42.4
+   Turkey,792,2000,46.4
+   United Arab Emirates,784,2000,40.4
+   Yemen,887,2000,35.1
+ EUROPE,908,2000,53.3
+  Eastern Europe,923,2000,55.6
+   Belarus,112,2000,56.3
+   Bulgaria,100,2000,52.6
+   Czechia,203,2000,55.1
+   Hungary,348,2000,50.0
+   Poland,616,2000,56.9
+   Republic of Moldova*,498,2000,50.4
+   Romania,642,2000,52.4
+   Russian Federation,643,2000,57.7
+   Slovakia,703,2000,50.2
+   Ukraine*,804,2000,53.2
+  Northern Europe,924,2000,52.4
+   Channel Islands*,830,2000,50.8
+   Denmark*,208,2000,53.9
+   Estonia,233,2000,54.1
+   Faroe Islands*,234,2000,57.8
+   Finland*,246,2000,60.2
+   Iceland,352,2000,51.2
+   Ireland,372,2000,55.9
+   Isle of Man*,833,2000,50.2
+   Latvia,428,2000,54.3
+   Lithuania,440,2000,56.5
+   Norway*,578,2000,56.6
+   Sweden,752,2000,56.2
+   United Kingdom*,826,2000,50.0
+  Southern Europe,925,2000,49.5
+   Albania,8,2000,44.8
+   Andorra,20,2000,52.5
+   Bosnia and Herzegovina,70,2000,51.1
+   Croatia,191,2000,52.0
+   Gibraltar*,292,2000,50.6
+   Greece,300,2000,48.5
+   Holy See*,336,2000,31.7
+   Italy,380,2000,48.1
+   Malta,470,2000,50.1
+   Montenegro,499,2000,53.4
+   North Macedonia,807,2000,49.8
+   Portugal,620,2000,48.8
+   San Marino,674,2000,51.5
+   Serbia*,688,2000,47.6
+   Slovenia,705,2000,56.0
+   Spain*,724,2000,54.4
+  Western Europe,926,2000,52.7
+   Austria,40,2000,53.4
+   Belgium,56,2000,56.7
+   France*,250,2000,51.9
+   Germany,276,2000,53.0
+   Liechtenstein,438,2000,55.3
+   Luxembourg,442,2000,49.7
+   Monaco,492,2000,50.6
+   Netherlands*,528,2000,50.2
+   Switzerland,756,2000,54.3
+ LATIN AMERICA AND THE CARIBBEAN,904,2000,50.5
+  Caribbean,915,2000,54.3
+   Anguilla*,660,2000,49.1
+   Antigua and Barbuda,28,2000,54.7
+   Aruba*,533,2000,55.7
+   Bahamas,44,2000,57.0
+   Barbados,52,2000,52.6
+"   Bonaire, Sint Eustatius and Saba*",535,2000,49.6
+   British Virgin Islands*,92,2000,56.5
+   Cayman Islands*,136,2000,56.3
+   Cuba,192,2000,52.3
+   Curaçao*,531,2000,50.1
+   Dominica,212,2000,53.6
+   Dominican Republic,214,2000,57.7
+   Grenada,308,2000,54.7
+   Guadeloupe*,312,2000,58.3
+   Haiti,332,2000,46.0
+   Jamaica,388,2000,55.1
+   Martinique*,474,2000,53.6
+   Montserrat*,500,2000,56.1
+   Puerto Rico*,630,2000,57.0
+   Saint Barthélemy*,652,2000,0.0
+   Saint Kitts and Nevis,659,2000,53.6
+   Saint Lucia,662,2000,55.3
+   Saint Martin (French part)*,663,2000,0.0
+   Saint Vincent and the Grenadines,670,2000,51.0
+   Sint Maarten (Dutch part)*,534,2000,50.2
+   Trinidad and Tobago,780,2000,56.7
+   Turks and Caicos Islands*,796,2000,53.4
+   United States Virgin Islands*,850,2000,42.8
+  Central America,916,2000,47.0
+   Belize,84,2000,57.6
+   Costa Rica,188,2000,57.7
+   El Salvador,222,2000,49.4
+   Guatemala,320,2000,48.9
+   Honduras,340,2000,56.6
+   Mexico,484,2000,45.9
+   Nicaragua,558,2000,51.1
+   Panama,591,2000,50.3
+  South America,931,2000,53.7
+   Argentina,32,2000,51.7
+   Bolivia (Plurinational State of),68,2000,49.3
+   Brazil,76,2000,56.7
+   Chile,152,2000,51.8
+   Colombia,170,2000,54.1
+   Ecuador,218,2000,51.2
+   Falkland Islands (Malvinas)*,238,2000,58.2
+   French Guiana*,254,2000,57.5
+   Guyana,328,2000,52.7
+   Paraguay,600,2000,56.6
+   Peru,604,2000,55.1
+   Suriname,740,2000,53.3
+   Uruguay,858,2000,51.0
+   Venezuela (Bolivarian Republic of),862,2000,55.6
+ NORTHERN AMERICA,905,2000,54.7
+   Bermuda*,60,2000,50.6
+   Canada,124,2000,62.6
+   Greenland*,304,2000,59.6
+   Saint Pierre and Miquelon*,666,2000,46.3
+   United States of America*,840,2000,50.1
+ OCEANIA ,909,2000,51.5
+  Australia and New Zealand,927,2000,51.7
+   Australia*,36,2000,54.0
+   New Zealand*,554,2000,49.9
+  Melanesia,928,2000,51.8
+   Fiji,242,2000,52.0
+   New Caledonia*,540,2000,54.0
+   Papua New Guinea,598,2000,49.9
+   Solomon Islands,90,2000,50.7
+   Vanuatu,548,2000,48.0
+  Micronesia,954,2000,50.7
+   Guam*,316,2000,50.4
+   Kiribati,296,2000,52.4
+   Marshall Islands,584,2000,50.0
+   Micronesia (Fed. States of),583,2000,49.6
+   Nauru,520,2000,51.7
+   Northern Mariana Islands*,580,2000,51.8
+   Palau,585,2000,53.6
+  Polynesia*,957,2000,50.7
+   American Samoa*,16,2000,48.9
+   Cook Islands*,184,2000,51.3
+   French Polynesia*,258,2000,50.6
+   Niue*,570,2000,51.5
+   Samoa,882,2000,50.7
+   Tokelau*,772,2000,50.7
+   Tonga,776,2000,50.7
+   Tuvalu,798,2000,48.1
+   Wallis and Futuna Islands*,876,2000,49.2
+OTHER,2003,2000,49.1
+WORLD,900,2005,49.0
+  Sub-Saharan Africa,947,2005,46.6
+  Northern Africa and Western Asia,1833,2005,44.7
+  Central and Southern Asia,921,2005,43.3
+  Eastern and South-Eastern Asia,1832,2005,51.1
+  Latin America and the Caribbean,1830,2005,50.6
+  Oceania (excluding Australia and New Zealand),1835,2005,51.1
+  Australia and New Zealand,927,2005,51.0
+  Europe and Northern America,1829,2005,53.2
+  Developed regions,901,2005,53.1
+  Less developed regions,902,2005,47.2
+" Less developed regions, excluding least developed countries",934,2005,48.0
+" Less developed regions, excluding China",948,2005,46.9
+  Least developed countries,941,2005,44.7
+  Land-locked Developing Countries (LLDC),1636,2005,48.1
+  Small island developing States (SIDS),1637,2005,53.6
+  High-income countries,1503,2005,52.0
+  Middle-income countries,1517,2005,48.7
+ Upper-middle-income countries,1502,2005,51.1
+ Lower-middle-income countries,1501,2005,46.1
+  Low-income countries,1500,2005,44.6
+ AFRICA,903,2005,45.4
+  Eastern Africa,910,2005,46.4
+   Burundi,108,2005,37.6
+   Comoros,174,2005,48.2
+   Djibouti,262,2005,47.5
+   Eritrea,232,2005,48.9
+   Ethiopia,231,2005,45.8
+   Kenya,404,2005,52.1
+   Madagascar,450,2005,56.7
+   Malawi,454,2005,41.7
+   Mauritius*,480,2005,54.2
+   Mayotte*,175,2005,51.5
+   Mozambique,508,2005,38.1
+   Réunion*,638,2005,58.2
+   Rwanda,646,2005,50.7
+   Seychelles,690,2005,56.7
+   Somalia,706,2005,46.4
+   South Sudan,728,2005,45.5
+   Uganda,800,2005,50.2
+   United Republic of Tanzania*,834,2005,49.5
+   Zambia,894,2005,52.1
+   Zimbabwe,716,2005,48.9
+  Middle Africa,911,2005,49.2
+   Angola,24,2005,50.7
+   Cameroon,120,2005,50.0
+   Central African Republic,140,2005,53.2
+   Chad,148,2005,46.0
+   Congo,178,2005,49.8
+   Democratic Republic of the Congo,180,2005,47.7
+   Equatorial Guinea,226,2005,52.9
+   Gabon,266,2005,50.5
+   Sao Tome and Principe,678,2005,53.4
+  Northern Africa,912,2005,42.9
+   Algeria,12,2005,47.8
+   Egypt,818,2005,34.5
+   Libya,434,2005,46.9
+   Morocco,504,2005,44.6
+   Sudan,729,2005,44.5
+   Tunisia,788,2005,43.1
+   Western Sahara,732,2005,45.2
+  Southern Africa,913,2005,49.5
+   Botswana,72,2005,40.5
+   Eswatini,748,2005,45.1
+   Lesotho,426,2005,46.3
+   Namibia,516,2005,50.9
+   South Africa,710,2005,51.0
+  Western Africa,914,2005,45.5
+   Benin,204,2005,44.3
+   Burkina Faso,854,2005,44.0
+   Cabo Verde,132,2005,53.1
+   Côte d'Ivoire,384,2005,50.6
+   Gambia,270,2005,39.6
+   Ghana,288,2005,46.7
+   Guinea,324,2005,43.5
+   Guinea-Bissau,624,2005,45.3
+   Liberia,430,2005,51.0
+   Mali,466,2005,43.6
+   Mauritania,478,2005,38.1
+   Niger,562,2005,39.6
+   Nigeria,566,2005,46.1
+   Saint Helena*,654,2005,59.6
+   Senegal,686,2005,39.1
+   Sierra Leone,694,2005,49.5
+   Togo,768,2005,51.0
+ ASIA,935,2005,46.5
+  Central Asia,5500,2005,51.3
+   Kazakhstan,398,2005,53.3
+   Kyrgyzstan,417,2005,51.6
+   Tajikistan,762,2005,44.1
+   Turkmenistan,795,2005,51.4
+   Uzbekistan,860,2005,49.1
+  Eastern Asia,906,2005,51.4
+   China*,156,2005,51.7
+"   China, Hong Kong SAR*",344,2005,49.9
+"   China, Macao SAR*",446,2005,52.2
+"   China, Taiwan Province of China*",158,2005,0.0
+   Dem. People's Republic of Korea,408,2005,49.2
+   Japan,392,2005,52.6
+   Mongolia,496,2005,53.4
+   Republic of Korea,410,2005,50.9
+  South-Eastern Asia,920,2005,50.9
+   Brunei Darussalam,96,2005,41.3
+   Cambodia,116,2005,52.6
+   Indonesia,360,2005,44.5
+   Lao People's Democratic Republic,418,2005,53.0
+   Malaysia*,458,2005,54.2
+   Myanmar,104,2005,44.7
+   Philippines,608,2005,56.3
+   Singapore,702,2005,51.9
+   Thailand,764,2005,63.6
+   Timor-Leste,626,2005,47.1
+   Viet Nam,704,2005,48.2
+  Southern Asia,5501,2005,41.3
+   Afghanistan,4,2005,44.5
+   Bangladesh,50,2005,40.6
+   Bhutan,64,2005,48.9
+   India,356,2005,39.5
+   Iran (Islamic Republic of),364,2005,44.6
+   Maldives,462,2005,49.1
+   Nepal,524,2005,47.5
+   Pakistan,586,2005,39.0
+   Sri Lanka,144,2005,44.7
+  Western Asia,922,2005,45.7
+   Armenia,51,2005,45.9
+   Azerbaijan*,31,2005,48.0
+   Bahrain,48,2005,47.7
+   Cyprus*,196,2005,50.4
+   Georgia*,268,2005,48.7
+   Iraq,368,2005,44.3
+   Israel,376,2005,49.3
+   Jordan,400,2005,37.1
+   Kuwait,414,2005,41.0
+   Lebanon,422,2005,42.1
+   Oman,512,2005,46.9
+   Qatar,634,2005,48.0
+   Saudi Arabia,682,2005,41.0
+   State of Palestine*,275,2005,48.8
+   Syrian Arab Republic,760,2005,40.5
+   Turkey,792,2005,46.7
+   United Arab Emirates,784,2005,44.6
+   Yemen,887,2005,34.5
+ EUROPE,908,2005,53.1
+  Eastern Europe,923,2005,55.3
+   Belarus,112,2005,56.8
+   Bulgaria,100,2005,53.0
+   Czechia,203,2005,55.2
+   Hungary,348,2005,51.0
+   Poland,616,2005,54.6
+   Republic of Moldova*,498,2005,52.2
+   Romania,642,2005,53.1
+   Russian Federation,643,2005,57.1
+   Slovakia,703,2005,52.7
+   Ukraine*,804,2005,54.1
+  Northern Europe,924,2005,52.0
+   Channel Islands*,830,2005,51.6
+   Denmark*,208,2005,52.6
+   Estonia,233,2005,54.8
+   Faroe Islands*,234,2005,58.3
+   Finland*,246,2005,59.6
+   Iceland,352,2005,50.6
+   Ireland,372,2005,55.5
+   Isle of Man*,833,2005,50.9
+   Latvia,428,2005,55.0
+   Lithuania,440,2005,56.4
+   Norway*,578,2005,55.6
+   Sweden,752,2005,55.6
+   United Kingdom*,826,2005,49.6
+  Southern Europe,925,2005,49.6
+   Albania,8,2005,46.4
+   Andorra,20,2005,52.1
+   Bosnia and Herzegovina,70,2005,51.6
+   Croatia,191,2005,52.4
+   Gibraltar*,292,2005,50.8
+   Greece,300,2005,48.1
+   Holy See*,336,2005,50.9
+   Italy,380,2005,47.6
+   Malta,470,2005,50.3
+   Montenegro,499,2005,52.5
+   North Macedonia,807,2005,49.9
+   Portugal,620,2005,48.4
+   San Marino,674,2005,55.3
+   Serbia*,688,2005,48.9
+   Slovenia,705,2005,55.8
+   Spain*,724,2005,54.2
+  Western Europe,926,2005,52.3
+   Austria,40,2005,53.9
+   Belgium,56,2005,53.7
+   France*,250,2005,51.7
+   Germany,276,2005,52.7
+   Liechtenstein,438,2005,55.5
+   Luxembourg,442,2005,50.2
+   Monaco,492,2005,49.9
+   Netherlands*,528,2005,49.7
+   Switzerland,756,2005,53.1
+ LATIN AMERICA AND THE CARIBBEAN,904,2005,50.6
+  Caribbean,915,2005,54.2
+   Anguilla*,660,2005,49.7
+   Antigua and Barbuda,28,2005,54.4
+   Aruba*,533,2005,55.4
+   Bahamas,44,2005,56.7
+   Barbados,52,2005,52.7
+"   Bonaire, Sint Eustatius and Saba*",535,2005,49.8
+   British Virgin Islands*,92,2005,55.7
+   Cayman Islands*,136,2005,54.3
+   Cuba,192,2005,52.3
+   Curaçao*,531,2005,49.6
+   Dominica,212,2005,55.1
+   Dominican Republic,214,2005,57.5
+   Grenada,308,2005,55.4
+   Guadeloupe*,312,2005,58.9
+   Haiti,332,2005,46.7
+   Jamaica,388,2005,55.5
+   Martinique*,474,2005,53.7
+   Montserrat*,500,2005,55.2
+   Puerto Rico*,630,2005,56.7
+   Saint Barthélemy*,652,2005,0.0
+   Saint Kitts and Nevis,659,2005,54.1
+   Saint Lucia,662,2005,56.3
+   Saint Martin (French part)*,663,2005,0.0
+   Saint Vincent and the Grenadines,670,2005,52.1
+   Sint Maarten (Dutch part)*,534,2005,50.0
+   Trinidad and Tobago,780,2005,56.9
+   Turks and Caicos Islands*,796,2005,55.9
+   United States Virgin Islands*,850,2005,43.0
+  Central America,916,2005,46.9
+   Belize,84,2005,57.1
+   Costa Rica,188,2005,57.0
+   El Salvador,222,2005,49.2
+   Guatemala,320,2005,49.1
+   Honduras,340,2005,56.4
+   Mexico,484,2005,45.7
+   Nicaragua,558,2005,51.5
+   Panama,591,2005,50.3
+  South America,931,2005,53.8
+   Argentina,32,2005,50.6
+   Bolivia (Plurinational State of),68,2005,51.1
+   Brazil,76,2005,57.2
+   Chile,152,2005,52.0
+   Colombia,170,2005,54.4
+   Ecuador,218,2005,51.5
+   Falkland Islands (Malvinas)*,238,2005,57.4
+   French Guiana*,254,2005,57.6
+   Guyana,328,2005,52.9
+   Paraguay,600,2005,56.3
+   Peru,604,2005,54.9
+   Suriname,740,2005,53.7
+   Uruguay,858,2005,51.0
+   Venezuela (Bolivarian Republic of),862,2005,55.6
+ NORTHERN AMERICA,905,2005,53.8
+   Bermuda*,60,2005,50.4
+   Canada,124,2005,61.8
+   Greenland*,304,2005,58.7
+   Saint Pierre and Miquelon*,666,2005,48.6
+   United States of America*,840,2005,49.7
+ OCEANIA ,909,2005,51.1
+  Australia and New Zealand,927,2005,51.0
+   Australia*,36,2005,53.1
+   New Zealand*,554,2005,49.4
+  Melanesia,928,2005,51.8
+   Fiji,242,2005,52.0
+   New Caledonia*,540,2005,52.4
+   Papua New Guinea,598,2005,50.5
+   Solomon Islands,90,2005,51.5
+   Vanuatu,548,2005,48.3
+  Micronesia,954,2005,50.3
+   Guam*,316,2005,51.6
+   Kiribati,296,2005,51.8
+   Marshall Islands,584,2005,49.8
+   Micronesia (Fed. States of),583,2005,49.7
+   Nauru,520,2005,50.1
+   Northern Mariana Islands*,580,2005,50.6
+   Palau,585,2005,51.8
+  Polynesia*,957,2005,50.7
+   American Samoa*,16,2005,48.7
+   Cook Islands*,184,2005,51.2
+   French Polynesia*,258,2005,49.6
+   Niue*,570,2005,51.1
+   Samoa,882,2005,50.8
+   Tokelau*,772,2005,50.4
+   Tonga,776,2005,50.6
+   Tuvalu,798,2005,49.2
+   Wallis and Futuna Islands*,876,2005,50.3
+OTHER,2003,2005,47.6
+WORLD,900,2010,48.4
+  Sub-Saharan Africa,947,2010,47.2
+  Northern Africa and Western Asia,1833,2010,43.7
+  Central and Southern Asia,921,2010,40.5
+  Eastern and South-Eastern Asia,1832,2010,51.2
+  Latin America and the Caribbean,1830,2010,51.3
+  Oceania (excluding Australia and New Zealand),1835,2010,51.4
+  Australia and New Zealand,927,2010,50.1
+  Europe and Northern America,1829,2010,53.4
+  Developed regions,901,2010,53.4
+  Less developed regions,902,2010,46.5
+" Less developed regions, excluding least developed countries",934,2010,47.3
+" Less developed regions, excluding China",948,2010,46.1
+  Least developed countries,941,2010,44.2
+  Land-locked Developing Countries (LLDC),1636,2010,48.7
+  Small island developing States (SIDS),1637,2010,54.4
+  High-income countries,1503,2010,52.3
+  Middle-income countries,1517,2010,47.8
+ Upper-middle-income countries,1502,2010,51.3
+ Lower-middle-income countries,1501,2010,44.1
+  Low-income countries,1500,2010,45.0
+ AFRICA,903,2010,45.2
+  Eastern Africa,910,2010,47.7
+   Burundi,108,2010,49.4
+   Comoros,174,2010,50.3
+   Djibouti,262,2010,48.0
+   Eritrea,232,2010,47.5
+   Ethiopia,231,2010,45.8
+   Kenya,404,2010,51.7
+   Madagascar,450,2010,59.8
+   Malawi,454,2010,42.0
+   Mauritius*,480,2010,54.4
+   Mayotte*,175,2010,50.9
+   Mozambique,508,2010,35.7
+   Réunion*,638,2010,60.6
+   Rwanda,646,2010,51.6
+   Seychelles,690,2010,56.9
+   Somalia,706,2010,47.4
+   South Sudan,728,2010,47.9
+   Uganda,800,2010,52.2
+   United Republic of Tanzania*,834,2010,49.8
+   Zambia,894,2010,52.9
+   Zimbabwe,716,2010,49.4
+  Middle Africa,911,2010,50.3
+   Angola,24,2010,50.5
+   Cameroon,120,2010,51.1
+   Central African Republic,140,2010,51.1
+   Chad,148,2010,44.5
+   Congo,178,2010,48.8
+   Democratic Republic of the Congo,180,2010,50.7
+   Equatorial Guinea,226,2010,52.5
+   Gabon,266,2010,51.1
+   Sao Tome and Principe,678,2010,53.7
+  Northern Africa,912,2010,40.9
+   Algeria,12,2010,44.8
+   Egypt,818,2010,32.4
+   Libya,434,2010,47.3
+   Morocco,504,2010,44.8
+   Sudan,729,2010,42.7
+   Tunisia,788,2010,41.3
+   Western Sahara,732,2010,47.2
+  Southern Africa,913,2010,49.1
+   Botswana,72,2010,41.0
+   Eswatini,748,2010,45.2
+   Lesotho,426,2010,46.5
+   Namibia,516,2010,50.9
+   South Africa,710,2010,50.6
+  Western Africa,914,2010,45.3
+   Benin,204,2010,44.9
+   Burkina Faso,854,2010,44.1
+   Cabo Verde,132,2010,54.1
+   Côte d'Ivoire,384,2010,50.7
+   Gambia,270,2010,38.2
+   Ghana,288,2010,46.9
+   Guinea,324,2010,43.7
+   Guinea-Bissau,624,2010,46.2
+   Liberia,430,2010,50.2
+   Mali,466,2010,43.4
+   Mauritania,478,2010,37.1
+   Niger,562,2010,39.9
+   Nigeria,566,2010,46.3
+   Saint Helena*,654,2010,58.1
+   Senegal,686,2010,37.1
+   Sierra Leone,694,2010,50.3
+   Togo,768,2010,49.6
+ ASIA,935,2010,45.1
+  Central Asia,5500,2010,50.8
+   Kazakhstan,398,2010,53.2
+   Kyrgyzstan,417,2010,51.4
+   Tajikistan,762,2010,42.4
+   Turkmenistan,795,2010,52.0
+   Uzbekistan,860,2010,48.2
+  Eastern Asia,906,2010,52.4
+   China*,156,2010,53.0
+"   China, Hong Kong SAR*",344,2010,49.1
+"   China, Macao SAR*",446,2010,54.0
+"   China, Taiwan Province of China*",158,2010,0.0
+   Dem. People's Republic of Korea,408,2010,47.9
+   Japan,392,2010,53.4
+   Mongolia,496,2010,52.3
+   Republic of Korea,410,2010,51.2
+  South-Eastern Asia,920,2010,50.2
+   Brunei Darussalam,96,2010,41.5
+   Cambodia,116,2010,52.7
+   Indonesia,360,2010,44.3
+   Lao People's Democratic Republic,418,2010,53.8
+   Malaysia*,458,2010,53.8
+   Myanmar,104,2010,44.1
+   Philippines,608,2010,54.2
+   Singapore,702,2010,51.8
+   Thailand,764,2010,63.3
+   Timor-Leste,626,2010,45.7
+   Viet Nam,704,2010,48.4
+  Southern Asia,5501,2010,38.3
+   Afghanistan,4,2010,45.6
+   Bangladesh,50,2010,35.0
+   Bhutan,64,2010,48.9
+   India,356,2010,35.7
+   Iran (Islamic Republic of),364,2010,46.2
+   Maldives,462,2010,51.7
+   Nepal,524,2010,49.0
+   Pakistan,586,2010,34.5
+   Sri Lanka,144,2010,43.3
+  Western Asia,922,2010,45.3
+   Armenia,51,2010,46.1
+   Azerbaijan*,31,2010,46.7
+   Bahrain,48,2010,46.9
+   Cyprus*,196,2010,50.0
+   Georgia*,268,2010,49.7
+   Iraq,368,2010,46.5
+   Israel,376,2010,48.5
+   Jordan,400,2010,36.0
+   Kuwait,414,2010,38.8
+   Lebanon,422,2010,40.8
+   Oman,512,2010,46.2
+   Qatar,634,2010,48.2
+   Saudi Arabia,682,2010,41.5
+   State of Palestine*,275,2010,49.0
+   Syrian Arab Republic,760,2010,38.8
+   Turkey,792,2010,47.1
+   United Arab Emirates,784,2010,46.1
+   Yemen,887,2010,32.5
+ EUROPE,908,2010,53.4
+  Eastern Europe,923,2010,55.2
+   Belarus,112,2010,57.5
+   Bulgaria,100,2010,53.7
+   Czechia,203,2010,56.9
+   Hungary,348,2010,51.6
+   Poland,616,2010,53.4
+   Republic of Moldova*,498,2010,53.6
+   Romania,642,2010,53.0
+   Russian Federation,643,2010,56.8
+   Slovakia,703,2010,54.2
+   Ukraine*,804,2010,55.1
+  Northern Europe,924,2010,52.0
+   Channel Islands*,830,2010,50.7
+   Denmark*,208,2010,52.3
+   Estonia,233,2010,55.3
+   Faroe Islands*,234,2010,58.0
+   Finland*,246,2010,60.4
+   Iceland,352,2010,50.2
+   Ireland,372,2010,55.0
+   Isle of Man*,833,2010,49.8
+   Latvia,428,2010,55.9
+   Lithuania,440,2010,56.5
+   Norway*,578,2010,55.4
+   Sweden,752,2010,55.6
+   United Kingdom*,826,2010,49.7
+  Southern Europe,925,2010,50.2
+   Albania,8,2010,48.0
+   Andorra,20,2010,51.3
+   Bosnia and Herzegovina,70,2010,51.7
+   Croatia,191,2010,53.3
+   Gibraltar*,292,2010,49.7
+   Greece,300,2010,48.3
+   Holy See*,336,2010,56.6
+   Italy,380,2010,48.0
+   Malta,470,2010,50.3
+   Montenegro,499,2010,54.5
+   North Macedonia,807,2010,50.7
+   Portugal,620,2010,48.8
+   San Marino,674,2010,61.9
+   Serbia*,688,2010,50.4
+   Slovenia,705,2010,55.7
+   Spain*,724,2010,54.9
+  Western Europe,926,2010,52.9
+   Austria,40,2010,55.2
+   Belgium,56,2010,55.0
+   France*,250,2010,51.8
+   Germany,276,2010,53.5
+   Liechtenstein,438,2010,56.4
+   Luxembourg,442,2010,53.4
+   Monaco,492,2010,51.4
+   Netherlands*,528,2010,50.0
+   Switzerland,756,2010,53.5
+ LATIN AMERICA AND THE CARIBBEAN,904,2010,51.3
+  Caribbean,915,2010,55.0
+   Anguilla*,660,2010,49.0
+   Antigua and Barbuda,28,2010,54.9
+   Aruba*,533,2010,56.5
+   Bahamas,44,2010,57.2
+   Barbados,52,2010,53.2
+"   Bonaire, Sint Eustatius and Saba*",535,2010,55.4
+   British Virgin Islands*,92,2010,55.8
+   Cayman Islands*,136,2010,53.1
+   Cuba,192,2010,53.0
+   Curaçao*,531,2010,53.7
+   Dominica,212,2010,57.5
+   Dominican Republic,214,2010,58.1
+   Grenada,308,2010,56.4
+   Guadeloupe*,312,2010,59.2
+   Haiti,332,2010,47.7
+   Jamaica,388,2010,56.9
+   Martinique*,474,2010,53.8
+   Montserrat*,500,2010,54.9
+   Puerto Rico*,630,2010,57.4
+   Saint Barthélemy*,652,2010,0.0
+   Saint Kitts and Nevis,659,2010,55.0
+   Saint Lucia,662,2010,57.5
+   Saint Martin (French part)*,663,2010,0.0
+   Saint Vincent and the Grenadines,670,2010,53.2
+   Sint Maarten (Dutch part)*,534,2010,52.7
+   Trinidad and Tobago,780,2010,57.7
+   Turks and Caicos Islands*,796,2010,56.8
+   United States Virgin Islands*,850,2010,44.1
+  Central America,916,2010,47.6
+   Belize,84,2010,57.5
+   Costa Rica,188,2010,57.2
+   El Salvador,222,2010,49.9
+   Guatemala,320,2010,49.9
+   Honduras,340,2010,57.5
+   Mexico,484,2010,46.3
+   Nicaragua,558,2010,52.9
+   Panama,591,2010,50.8
+  South America,931,2010,54.4
+   Argentina,32,2010,50.7
+   Bolivia (Plurinational State of),68,2010,52.7
+   Brazil,76,2010,57.7
+   Chile,152,2010,52.6
+   Colombia,170,2010,53.9
+   Ecuador,218,2010,51.7
+   Falkland Islands (Malvinas)*,238,2010,56.1
+   French Guiana*,254,2010,57.7
+   Guyana,328,2010,53.5
+   Paraguay,600,2010,57.0
+   Peru,604,2010,56.6
+   Suriname,740,2010,55.1
+   Uruguay,858,2010,52.3
+   Venezuela (Bolivarian Republic of),862,2010,55.9
+ NORTHERN AMERICA,905,2010,53.9
+   Bermuda*,60,2010,50.4
+   Canada,124,2010,61.9
+   Greenland*,304,2010,57.9
+   Saint Pierre and Miquelon*,666,2010,51.5
+   United States of America*,840,2010,50.1
+ OCEANIA ,909,2010,50.4
+  Australia and New Zealand,927,2010,50.1
+   Australia*,36,2010,51.4
+   New Zealand*,554,2010,49.0
+  Melanesia,928,2010,52.2
+   Fiji,242,2010,52.4
+   New Caledonia*,540,2010,50.5
+   Papua New Guinea,598,2010,50.6
+   Solomon Islands,90,2010,51.2
+   Vanuatu,548,2010,49.4
+  Micronesia,954,2010,50.2
+   Guam*,316,2010,54.6
+   Kiribati,296,2010,51.2
+   Marshall Islands,584,2010,50.5
+   Micronesia (Fed. States of),583,2010,50.0
+   Nauru,520,2010,48.6
+   Northern Mariana Islands*,580,2010,49.1
+   Palau,585,2010,48.1
+  Polynesia*,957,2010,50.8
+   American Samoa*,16,2010,49.1
+   Cook Islands*,184,2010,51.0
+   French Polynesia*,258,2010,46.3
+   Niue*,570,2010,51.2
+   Samoa,882,2010,50.9
+   Tokelau*,772,2010,49.7
+   Tonga,776,2010,50.6
+   Tuvalu,798,2010,51.0
+   Wallis and Futuna Islands*,876,2010,51.3
+OTHER,2003,2010,47.5
+WORLD,900,2015,48.3
+  Sub-Saharan Africa,947,2015,48.0
+  Northern Africa and Western Asia,1833,2015,44.3
+  Central and Southern Asia,921,2015,39.8
+  Eastern and South-Eastern Asia,1832,2015,51.3
+  Latin America and the Caribbean,1830,2015,51.4
+  Oceania (excluding Australia and New Zealand),1835,2015,51.4
+  Australia and New Zealand,927,2015,50.4
+  Europe and Northern America,1829,2015,53.4
+  Developed regions,901,2015,53.4
+  Less developed regions,902,2015,46.5
+" Less developed regions, excluding least developed countries",934,2015,47.1
+" Less developed regions, excluding China",948,2015,46.0
+  Least developed countries,941,2015,44.5
+  Land-locked Developing Countries (LLDC),1636,2015,48.7
+  Small island developing States (SIDS),1637,2015,53.2
+  High-income countries,1503,2015,52.0
+  Middle-income countries,1517,2015,47.7
+ Upper-middle-income countries,1502,2015,51.7
+ Lower-middle-income countries,1501,2015,43.9
+  Low-income countries,1500,2015,45.6
+ AFRICA,903,2015,46.4
+  Eastern Africa,910,2015,48.9
+   Burundi,108,2015,50.5
+   Comoros,174,2015,51.4
+   Djibouti,262,2015,49.0
+   Eritrea,232,2015,47.8
+   Ethiopia,231,2015,46.4
+   Kenya,404,2015,52.7
+   Madagascar,450,2015,61.2
+   Malawi,454,2015,42.1
+   Mauritius*,480,2015,55.0
+   Mayotte*,175,2015,51.1
+   Mozambique,508,2015,41.7
+   Réunion*,638,2015,62.6
+   Rwanda,646,2015,50.9
+   Seychelles,690,2015,57.1
+   Somalia,706,2015,48.2
+   South Sudan,728,2015,48.7
+   Uganda,800,2015,52.2
+   United Republic of Tanzania*,834,2015,50.6
+   Zambia,894,2015,53.3
+   Zimbabwe,716,2015,48.4
+  Middle Africa,911,2015,49.9
+   Angola,24,2015,50.5
+   Cameroon,120,2015,50.7
+   Central African Republic,140,2015,49.3
+   Chad,148,2015,45.4
+   Congo,178,2015,50.1
+   Democratic Republic of the Congo,180,2015,50.5
+   Equatorial Guinea,226,2015,46.2
+   Gabon,266,2015,52.1
+   Sao Tome and Principe,678,2015,53.8
+  Northern Africa,912,2015,42.9
+   Algeria,12,2015,46.3
+   Egypt,818,2015,35.2
+   Libya,434,2015,46.5
+   Morocco,504,2015,47.0
+   Sudan,729,2015,45.0
+   Tunisia,788,2015,43.9
+   Western Sahara,732,2015,47.2
+  Southern Africa,913,2015,51.7
+   Botswana,72,2015,41.3
+   Eswatini,748,2015,51.2
+   Lesotho,426,2015,55.0
+   Namibia,516,2015,50.3
+   South Africa,710,2015,51.8
+  Western Africa,914,2015,45.9
+   Benin,204,2015,46.3
+   Burkina Faso,854,2015,44.1
+   Cabo Verde,132,2015,55.3
+   Côte d'Ivoire,384,2015,50.7
+   Gambia,270,2015,37.6
+   Ghana,288,2015,47.8
+   Guinea,324,2015,44.7
+   Guinea-Bissau,624,2015,47.5
+   Liberia,430,2015,50.0
+   Mali,466,2015,43.3
+   Mauritania,478,2015,37.8
+   Niger,562,2015,40.9
+   Nigeria,566,2015,47.7
+   Saint Helena*,654,2015,59.6
+   Senegal,686,2015,38.1
+   Sierra Leone,694,2015,50.3
+   Togo,768,2015,50.1
+ ASIA,935,2015,44.8
+  Central Asia,5500,2015,51.0
+   Kazakhstan,398,2015,53.4
+   Kyrgyzstan,417,2015,51.7
+   Tajikistan,762,2015,42.9
+   Turkmenistan,795,2015,52.3
+   Uzbekistan,860,2015,48.2
+  Eastern Asia,906,2015,52.7
+   China*,156,2015,53.4
+"   China, Hong Kong SAR*",344,2015,48.7
+"   China, Macao SAR*",446,2015,54.7
+"   China, Taiwan Province of China*",158,2015,0.0
+   Dem. People's Republic of Korea,408,2015,47.1
+   Japan,392,2015,54.0
+   Mongolia,496,2015,52.7
+   Republic of Korea,410,2015,50.6
+  South-Eastern Asia,920,2015,50.3
+   Brunei Darussalam,96,2015,42.4
+   Cambodia,116,2015,52.9
+   Indonesia,360,2015,44.1
+   Lao People's Democratic Republic,418,2015,54.0
+   Malaysia*,458,2015,54.2
+   Myanmar,104,2015,43.9
+   Philippines,608,2015,53.9
+   Singapore,702,2015,51.4
+   Thailand,764,2015,62.2
+   Timor-Leste,626,2015,44.8
+   Viet Nam,704,2015,49.7
+  Southern Asia,5501,2015,37.7
+   Afghanistan,4,2015,46.3
+   Bangladesh,50,2015,34.0
+   Bhutan,64,2015,49.0
+   India,356,2015,34.8
+   Iran (Islamic Republic of),364,2015,46.6
+   Maldives,462,2015,53.3
+   Nepal,524,2015,45.4
+   Pakistan,586,2015,35.4
+   Sri Lanka,144,2015,43.4
+  Western Asia,922,2015,44.9
+   Armenia,51,2015,46.3
+   Azerbaijan*,31,2015,46.3
+   Bahrain,48,2015,47.4
+   Cyprus*,196,2015,52.5
+   Georgia*,268,2015,50.4
+   Iraq,368,2015,45.7
+   Israel,376,2015,48.7
+   Jordan,400,2015,36.5
+   Kuwait,414,2015,39.4
+   Lebanon,422,2015,40.9
+   Oman,512,2015,47.5
+   Qatar,634,2015,49.5
+   Saudi Arabia,682,2015,45.5
+   State of Palestine*,275,2015,47.7
+   Syrian Arab Republic,760,2015,43.2
+   Turkey,792,2015,48.4
+   United Arab Emirates,784,2015,47.1
+   Yemen,887,2015,34.2
+ EUROPE,908,2015,53.4
+  Eastern Europe,923,2015,55.4
+   Belarus,112,2015,57.6
+   Bulgaria,100,2015,57.9
+   Czechia,203,2015,56.9
+   Hungary,348,2015,51.3
+   Poland,616,2015,53.8
+   Republic of Moldova*,498,2015,53.7
+   Romania,642,2015,54.2
+   Russian Federation,643,2015,56.3
+   Slovakia,703,2015,54.8
+   Ukraine*,804,2015,55.0
+  Northern Europe,924,2015,51.8
+   Channel Islands*,830,2015,49.7
+   Denmark*,208,2015,52.8
+   Estonia,233,2015,55.5
+   Faroe Islands*,234,2015,57.2
+   Finland*,246,2015,61.5
+   Iceland,352,2015,50.4
+   Ireland,372,2015,54.6
+   Isle of Man*,833,2015,51.0
+   Latvia,428,2015,55.2
+   Lithuania,440,2015,56.0
+   Norway*,578,2015,55.7
+   Sweden,752,2015,55.0
+   United Kingdom*,826,2015,49.2
+  Southern Europe,925,2015,50.1
+   Albania,8,2015,49.6
+   Andorra,20,2015,51.9
+   Bosnia and Herzegovina,70,2015,52.1
+   Croatia,191,2015,53.4
+   Gibraltar*,292,2015,51.6
+   Greece,300,2015,48.6
+   Holy See*,336,2015,62.9
+   Italy,380,2015,47.4
+   Malta,470,2015,49.6
+   Montenegro,499,2015,54.2
+   North Macedonia,807,2015,48.3
+   Portugal,620,2015,48.8
+   San Marino,674,2015,65.6
+   Serbia*,688,2015,50.9
+   Slovenia,705,2015,55.2
+   Spain*,724,2015,54.4
+  Western Europe,926,2015,52.7
+   Austria,40,2015,54.6
+   Belgium,56,2015,52.7
+   France*,250,2015,51.7
+   Germany,276,2015,53.5
+   Liechtenstein,438,2015,55.7
+   Luxembourg,442,2015,52.8
+   Monaco,492,2015,52.5
+   Netherlands*,528,2015,49.8
+   Switzerland,756,2015,54.1
+ LATIN AMERICA AND THE CARIBBEAN,904,2015,51.4
+  Caribbean,915,2015,53.3
+   Anguilla*,660,2015,47.1
+   Antigua and Barbuda,28,2015,54.4
+   Aruba*,533,2015,56.3
+   Bahamas,44,2015,57.8
+   Barbados,52,2015,53.7
+"   Bonaire, Sint Eustatius and Saba*",535,2015,55.5
+   British Virgin Islands*,92,2015,56.1
+   Cayman Islands*,136,2015,53.4
+   Cuba,192,2015,53.4
+   Curaçao*,531,2015,49.7
+   Dominica,212,2015,58.1
+   Dominican Republic,214,2015,58.2
+   Grenada,308,2015,56.5
+   Guadeloupe*,312,2015,61.0
+   Haiti,332,2015,45.9
+   Jamaica,388,2015,57.3
+   Martinique*,474,2015,56.5
+   Montserrat*,500,2015,56.0
+   Puerto Rico*,630,2015,50.9
+   Saint Barthélemy*,652,2015,0.0
+   Saint Kitts and Nevis,659,2015,55.0
+   Saint Lucia,662,2015,58.2
+   Saint Martin (French part)*,663,2015,0.0
+   Saint Vincent and the Grenadines,670,2015,53.3
+   Sint Maarten (Dutch part)*,534,2015,51.7
+   Trinidad and Tobago,780,2015,58.1
+   Turks and Caicos Islands*,796,2015,57.8
+   United States Virgin Islands*,850,2015,44.2
+  Central America,916,2015,48.2
+   Belize,84,2015,57.8
+   Costa Rica,188,2015,57.2
+   El Salvador,222,2015,50.2
+   Guatemala,320,2015,50.1
+   Honduras,340,2015,58.1
+   Mexico,484,2015,46.7
+   Nicaragua,558,2015,53.5
+   Panama,591,2015,51.0
+  South America,931,2015,54.7
+   Argentina,32,2015,51.0
+   Bolivia (Plurinational State of),68,2015,52.6
+   Brazil,76,2015,57.7
+   Chile,152,2015,52.9
+   Colombia,170,2015,54.3
+   Ecuador,218,2015,52.4
+   Falkland Islands (Malvinas)*,238,2015,57.8
+   French Guiana*,254,2015,59.1
+   Guyana,328,2015,53.8
+   Paraguay,600,2015,57.1
+   Peru,604,2015,57.0
+   Suriname,740,2015,55.7
+   Uruguay,858,2015,52.7
+   Venezuela (Bolivarian Republic of),862,2015,56.1
+ NORTHERN AMERICA,905,2015,53.7
+   Bermuda*,60,2015,50.7
+   Canada,124,2015,62.1
+   Greenland*,304,2015,57.2
+   Saint Pierre and Miquelon*,666,2015,44.5
+   United States of America*,840,2015,49.7
+ OCEANIA ,909,2015,50.7
+  Australia and New Zealand,927,2015,50.4
+   Australia*,36,2015,52.1
+   New Zealand*,554,2015,49.2
+  Melanesia,928,2015,52.3
+   Fiji,242,2015,52.4
+   New Caledonia*,540,2015,51.2
+   Papua New Guinea,598,2015,52.8
+   Solomon Islands,90,2015,50.8
+   Vanuatu,548,2015,52.3
+  Micronesia,954,2015,50.3
+   Guam*,316,2015,54.0
+   Kiribati,296,2015,51.1
+   Marshall Islands,584,2015,50.6
+   Micronesia (Fed. States of),583,2015,50.0
+   Nauru,520,2015,50.2
+   Northern Mariana Islands*,580,2015,48.6
+   Palau,585,2015,48.1
+  Polynesia*,957,2015,50.6
+   American Samoa*,16,2015,49.4
+   Cook Islands*,184,2015,50.4
+   French Polynesia*,258,2015,45.3
+   Niue*,570,2015,51.0
+   Samoa,882,2015,50.8
+   Tokelau*,772,2015,49.5
+   Tonga,776,2015,50.2
+   Tuvalu,798,2015,50.3
+   Wallis and Futuna Islands*,876,2015,52.2
+OTHER,2003,2015,47.9
+WORLD,900,2020,48.1
+  Sub-Saharan Africa,947,2020,47.9
+  Northern Africa and Western Asia,1833,2020,44.3
+  Central and Southern Asia,921,2020,39.1
+  Eastern and South-Eastern Asia,1832,2020,51.0
+  Latin America and the Caribbean,1830,2020,51.7
+  Oceania (excluding Australia and New Zealand),1835,2020,51.6
+  Australia and New Zealand,927,2020,50.6
+  Europe and Northern America,1829,2020,53.0
+  Developed regions,901,2020,53.0
+  Less developed regions,902,2020,46.3
+" Less developed regions, excluding least developed countries",934,2020,47.2
+" Less developed regions, excluding China",948,2020,45.9
+  Least developed countries,941,2020,43.7
+  Land-locked Developing Countries (LLDC),1636,2020,48.6
+  Small island developing States (SIDS),1637,2020,53.1
+  High-income countries,1503,2020,51.6
+  Middle-income countries,1517,2020,47.6
+ Upper-middle-income countries,1502,2020,52.1
+ Lower-middle-income countries,1501,2020,43.3
+  Low-income countries,1500,2020,45.2
+ AFRICA,903,2020,46.4
+  Eastern Africa,910,2020,49.0
+   Burundi,108,2020,50.1
+   Comoros,174,2020,51.6
+   Djibouti,262,2020,49.4
+   Eritrea,232,2020,47.3
+   Ethiopia,231,2020,46.1
+   Kenya,404,2020,52.8
+   Madagascar,450,2020,61.3
+   Malawi,454,2020,40.4
+   Mauritius*,480,2020,54.8
+   Mayotte*,175,2020,51.2
+   Mozambique,508,2020,39.7
+   Réunion*,638,2020,61.2
+   Rwanda,646,2020,51.0
+   Seychelles,690,2020,56.9
+   Somalia,706,2020,47.7
+   South Sudan,728,2020,50.7
+   Uganda,800,2020,52.3
+   United Republic of Tanzania*,834,2020,50.4
+   Zambia,894,2020,53.4
+   Zimbabwe,716,2020,48.4
+  Middle Africa,911,2020,49.7
+   Angola,24,2020,49.9
+   Cameroon,120,2020,50.3
+   Central African Republic,140,2020,49.9
+   Chad,148,2020,46.1
+   Congo,178,2020,49.3
+   Democratic Republic of the Congo,180,2020,50.0
+   Equatorial Guinea,226,2020,46.6
+   Gabon,266,2020,52.0
+   Sao Tome and Principe,678,2020,52.5
+  Northern Africa,912,2020,43.0
+   Algeria,12,2020,46.3
+   Egypt,818,2020,35.1
+   Libya,434,2020,45.5
+   Morocco,504,2020,47.7
+   Sudan,729,2020,45.1
+   Tunisia,788,2020,44.3
+   Western Sahara,732,2020,47.2
+  Southern Africa,913,2020,50.8
+   Botswana,72,2020,37.5
+   Eswatini,748,2020,51.4
+   Lesotho,426,2020,55.7
+   Namibia,516,2020,50.6
+   South Africa,710,2020,50.6
+  Western Africa,914,2020,45.6
+   Benin,204,2020,46.4
+   Burkina Faso,854,2020,44.1
+   Cabo Verde,132,2020,54.7
+   Côte d'Ivoire,384,2020,50.3
+   Gambia,270,2020,32.9
+   Ghana,288,2020,47.3
+   Guinea,324,2020,43.3
+   Guinea-Bissau,624,2020,45.8
+   Liberia,430,2020,50.2
+   Mali,466,2020,43.1
+   Mauritania,478,2020,38.5
+   Niger,562,2020,40.9
+   Nigeria,566,2020,47.5
+   Saint Helena*,654,2020,59.4
+   Senegal,686,2020,38.0
+   Sierra Leone,694,2020,50.1
+   Togo,768,2020,50.2
+ ASIA,935,2020,44.3
+  Central Asia,5500,2020,51.4
+   Kazakhstan,398,2020,54.0
+   Kyrgyzstan,417,2020,52.4
+   Tajikistan,762,2020,42.5
+   Turkmenistan,795,2020,52.3
+   Uzbekistan,860,2020,48.2
+  Eastern Asia,906,2020,53.5
+   China*,156,2020,54.4
+"   China, Hong Kong SAR*",344,2020,48.8
+"   China, Macao SAR*",446,2020,55.5
+"   China, Taiwan Province of China*",158,2020,0.0
+   Dem. People's Republic of Korea,408,2020,47.3
+   Japan,392,2020,55.1
+   Mongolia,496,2020,52.0
+   Republic of Korea,410,2020,50.6
+  South-Eastern Asia,920,2020,49.5
+   Brunei Darussalam,96,2020,43.0
+   Cambodia,116,2020,53.6
+   Indonesia,360,2020,44.3
+   Lao People's Democratic Republic,418,2020,55.9
+   Malaysia*,458,2020,56.7
+   Myanmar,104,2020,37.4
+   Philippines,608,2020,54.0
+   Singapore,702,2020,52.1
+   Thailand,764,2020,61.0
+   Timor-Leste,626,2020,44.9
+   Viet Nam,704,2020,50.3
+  Southern Asia,5501,2020,36.8
+   Afghanistan,4,2020,44.9
+   Bangladesh,50,2020,32.8
+   Bhutan,64,2020,49.4
+   India,356,2020,34.3
+   Iran (Islamic Republic of),364,2020,46.5
+   Maldives,462,2020,53.0
+   Nepal,524,2020,43.8
+   Pakistan,586,2020,34.5
+   Sri Lanka,144,2020,42.4
+  Western Asia,922,2020,44.8
+   Armenia,51,2020,46.4
+   Azerbaijan*,31,2020,46.4
+   Bahrain,48,2020,59.2
+   Cyprus*,196,2020,52.1
+   Georgia*,268,2020,50.2
+   Iraq,368,2020,50.0
+   Israel,376,2020,48.4
+   Jordan,400,2020,36.6
+   Kuwait,414,2020,38.9
+   Lebanon,422,2020,40.8
+   Oman,512,2020,45.9
+   Qatar,634,2020,48.9
+   Saudi Arabia,682,2020,44.8
+   State of Palestine*,275,2020,47.5
+   Syrian Arab Republic,760,2020,42.4
+   Turkey,792,2020,48.2
+   United Arab Emirates,784,2020,47.1
+   Yemen,887,2020,34.9
+ EUROPE,908,2020,53.0
+  Eastern Europe,923,2020,55.1
+   Belarus,112,2020,57.5
+   Bulgaria,100,2020,58.8
+   Czechia,203,2020,57.5
+   Hungary,348,2020,50.7
+   Poland,616,2020,52.4
+   Republic of Moldova*,498,2020,52.2
+   Romania,642,2020,53.0
+   Russian Federation,643,2020,56.7
+   Slovakia,703,2020,53.4
+   Ukraine*,804,2020,54.7
+  Northern Europe,924,2020,51.5
+   Channel Islands*,830,2020,48.5
+   Denmark*,208,2020,52.5
+   Estonia,233,2020,55.7
+   Faroe Islands*,234,2020,57.4
+   Finland*,246,2020,60.3
+   Iceland,352,2020,51.0
+   Ireland,372,2020,53.5
+   Isle of Man*,833,2020,51.7
+   Latvia,428,2020,54.6
+   Lithuania,440,2020,56.1
+   Norway*,578,2020,56.7
+   Sweden,752,2020,55.0
+   United Kingdom*,826,2020,49.1
+  Southern Europe,925,2020,49.3
+   Albania,8,2020,48.6
+   Andorra,20,2020,52.4
+   Bosnia and Herzegovina,70,2020,51.4
+   Croatia,191,2020,52.3
+   Gibraltar*,292,2020,51.9
+   Greece,300,2020,47.9
+   Holy See*,336,2020,59.2
+   Italy,380,2020,46.1
+   Malta,470,2020,49.7
+   Montenegro,499,2020,53.7
+   North Macedonia,807,2020,48.4
+   Portugal,620,2020,48.4
+   San Marino,674,2020,59.0
+   Serbia*,688,2020,50.4
+   Slovenia,705,2020,54.2
+   Spain*,724,2020,53.2
+  Western Europe,926,2020,52.6
+   Austria,40,2020,53.2
+   Belgium,56,2020,52.1
+   France*,250,2020,51.4
+   Germany,276,2020,53.7
+   Liechtenstein,438,2020,55.3
+   Luxembourg,442,2020,50.5
+   Monaco,492,2020,52.5
+   Netherlands*,528,2020,50.0
+   Switzerland,756,2020,54.2
+ LATIN AMERICA AND THE CARIBBEAN,904,2020,51.7
+  Caribbean,915,2020,53.2
+   Anguilla*,660,2020,48.4
+   Antigua and Barbuda,28,2020,55.0
+   Aruba*,533,2020,56.5
+   Bahamas,44,2020,58.5
+   Barbados,52,2020,53.9
+"   Bonaire, Sint Eustatius and Saba*",535,2020,55.1
+   British Virgin Islands*,92,2020,56.2
+   Cayman Islands*,136,2020,54.8
+   Cuba,192,2020,53.2
+   Curaçao*,531,2020,50.1
+   Dominica,212,2020,58.5
+   Dominican Republic,214,2020,58.7
+   Grenada,308,2020,55.7
+   Guadeloupe*,312,2020,60.5
+   Haiti,332,2020,45.5
+   Jamaica,388,2020,57.5
+   Martinique*,474,2020,56.6
+   Montserrat*,500,2020,56.6
+   Puerto Rico*,630,2020,51.1
+   Saint Barthélemy*,652,2020,0.0
+   Saint Kitts and Nevis,659,2020,55.5
+   Saint Lucia,662,2020,58.4
+   Saint Martin (French part)*,663,2020,0.0
+   Saint Vincent and the Grenadines,670,2020,53.6
+   Sint Maarten (Dutch part)*,534,2020,51.4
+   Trinidad and Tobago,780,2020,58.4
+   Turks and Caicos Islands*,796,2020,57.8
+   United States Virgin Islands*,850,2020,44.5
+  Central America,916,2020,48.7
+   Belize,84,2020,58.1
+   Costa Rica,188,2020,57.3
+   El Salvador,222,2020,50.3
+   Guatemala,320,2020,50.6
+   Honduras,340,2020,59.3
+   Mexico,484,2020,46.8
+   Nicaragua,558,2020,52.9
+   Panama,591,2020,51.2
+  South America,931,2020,53.8
+   Argentina,32,2020,51.1
+   Bolivia (Plurinational State of),68,2020,53.1
+   Brazil,76,2020,57.7
+   Chile,152,2020,52.4
+   Colombia,170,2020,54.5
+   Ecuador,218,2020,52.9
+   Falkland Islands (Malvinas)*,238,2020,58.1
+   French Guiana*,254,2020,58.6
+   Guyana,328,2020,54.1
+   Paraguay,600,2020,57.1
+   Peru,604,2020,56.2
+   Suriname,740,2020,55.8
+   Uruguay,858,2020,52.4
+   Venezuela (Bolivarian Republic of),862,2020,51.9
+ NORTHERN AMERICA,905,2020,53.3
+   Bermuda*,60,2020,51.1
+   Canada,124,2020,61.4
+   Greenland*,304,2020,57.1
+   Saint Pierre and Miquelon*,666,2020,44.1
+   United States of America*,840,2020,49.8
+ OCEANIA ,909,2020,50.9
+  Australia and New Zealand,927,2020,50.6
+   Australia*,36,2020,52.0
+   New Zealand*,554,2020,49.5
+  Melanesia,928,2020,52.5
+   Fiji,242,2020,52.6
+   New Caledonia*,540,2020,51.1
+   Papua New Guinea,598,2020,51.1
+   Solomon Islands,90,2020,51.5
+   Vanuatu,548,2020,52.7
+  Micronesia,954,2020,50.6
+   Guam*,316,2020,54.5
+   Kiribati,296,2020,51.1
+   Marshall Islands,584,2020,51.2
+   Micronesia (Fed. States of),583,2020,50.4
+   Nauru,520,2020,50.5
+   Northern Mariana Islands*,580,2020,48.9
+   Palau,585,2020,47.8
+  Polynesia*,957,2020,50.8
+   American Samoa*,16,2020,49.6
+   Cook Islands*,184,2020,50.5
+   French Polynesia*,258,2020,45.0
+   Niue*,570,2020,50.7
+   Samoa,882,2020,50.9
+   Tokelau*,772,2020,49.4
+   Tonga,776,2020,50.7
+   Tuvalu,798,2020,50.5
+   Wallis and Futuna Islands*,876,2020,52.4
+OTHER,2003,2020,48.4
